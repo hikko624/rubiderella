@@ -1,0 +1,23 @@
+---
+anzai_miyako:
+  name:
+    first: 安斎
+    first_kana: あんざい
+    last: 都
+    last_kana: みやこ
+  type: cute
+  age: 16
+  birthday: 1/6
+  sign: 山羊座
+  blood: B
+  height: 156.0
+  weight: 41.0
+  bust: 78
+  waist: 55
+  hip: 77
+  handed: right
+  from: 福井県
+  favorite:
+    - 探偵ドラマ
+    - 推理小説を読むこと
+  cv: ~

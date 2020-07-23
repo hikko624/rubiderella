@@ -1,0 +1,22 @@
+---
+futaba_anzu:
+  name:
+    first: 双葉
+    first_kana: ふたば
+    last: 杏
+    last_kana: あんず
+  type: cute
+  age: 17
+  birthday: 9/2
+  sign: 花も恥らう乙女座
+  blood: B
+  height: 139.0
+  weight: 30.0
+  bust: '?'
+  waist: '?'
+  hip: '?'
+  handed: right
+  from: 北海道
+  favorite:
+    - なし
+  cv: 五十嵐裕美

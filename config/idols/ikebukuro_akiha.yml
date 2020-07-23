@@ -1,0 +1,22 @@
+---
+ikebukuro_akiha:
+  name:
+    first: 池袋
+    first_kana: いけぶくろ
+    last: 晶葉
+    last_kana: あきは
+  type: cute
+  age: 14
+  birthday: 6/10
+  sign: 双子座
+  blood: B
+  height: 148.0
+  weight: 39.0
+  bust: 75
+  waist: 53
+  hip: 74
+  handed: right
+  from: 東京都
+  favorite:
+    - ロボット制作
+  cv: ~

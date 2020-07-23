@@ -1,0 +1,22 @@
+---
+yamase_miyuki:
+  name:
+    first: 柳瀬
+    first_kana: やなせ
+    last: 美由紀
+    last_kana: みゆき
+  type: cute
+  age: 14
+  birthday: 3/16
+  sign: 魚座
+  blood: O
+  height: 144.0
+  weight: 33.0
+  bust: 75
+  waist: 54
+  hip: 77
+  handed: right
+  from: 北海道
+  favorite:
+    - ぬいぐるみ集め
+  cv: ~

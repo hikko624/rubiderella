@@ -1,0 +1,22 @@
+---
+maekawa_miku:
+  name:
+    first: 前川
+    first_kana: まえかわ
+    last: みく
+    last_kana: みく
+  type: cute
+  age: 15
+  birthday: 2/22
+  sign: 魚座
+  blood: B
+  height: 152.0
+  weight: 45.0
+  bust: 85
+  waist: 55
+  hip: 81
+  handed: right
+  from: 大阪府
+  favorite:
+    - 猫カフェ巡り
+  cv: 高森奈津美

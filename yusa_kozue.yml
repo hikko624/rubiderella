@@ -1,0 +1,22 @@
+---
+yusa_kozue:
+  name:
+    first: 遊佐
+    first_kana: ゆさ
+    last: こずえ
+    last_kana: こずえ
+  type: cute
+  age: 11
+  birthday: 2/19
+  sign: 魚座
+  blood: B
+  height: 130.0
+  weight: 28.0
+  bust: 62
+  waist: 50
+  hip: 65
+  handed: right
+  from: 高知県
+  favorite:
+    - しゅみってなぁに?
+  cv: 花谷麻妃

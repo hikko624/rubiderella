@@ -1,0 +1,22 @@
+---
+miyamoto_frederica:
+  name:
+    first: 宮本
+    first_kana: みやもと
+    last: フレデリカ
+    last_kana: ふれでりか
+  type: cute
+  age: 19
+  birthday: 2/14
+  sign: 水瓶座
+  blood: B
+  height: 164.0
+  weight: 46.0
+  bust: 83
+  waist: 57
+  hip: 85
+  handed: left
+  from: フランス(パリ)
+  favorite:
+    - ファッション
+  cv: 髙野麻美

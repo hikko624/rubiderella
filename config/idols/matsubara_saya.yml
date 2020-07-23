@@ -1,0 +1,22 @@
+---
+matsubara_saya:
+  name:
+    first: 松原
+    first_kana: まつばら
+    last: 早耶
+    last_kana: さや
+  type: cute
+  age: 18
+  birthday: 12/28
+  sign: 山羊座
+  blood: AB
+  height: 156.0
+  weight: 43.0
+  bust: 83
+  waist: 58
+  hip: 86
+  handed: right
+  from: 兵庫県
+  favorite:
+    - ブログ
+  cv: ~

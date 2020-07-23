@@ -1,0 +1,22 @@
+---
+kusakabe_wakaba:
+  name:
+    first: 日下部
+    first_kana: くさかべ
+    last: 若葉
+    last_kana: わかば
+  type: cute
+  age: 20
+  birthday: 5/4
+  sign: 牡羊座
+  blood: O
+  height: 148.0
+  weight: 40.0
+  bust: 77
+  waist: 54
+  hip: 78
+  handed: right
+  from: 群馬県
+  favorite:
+    - ジグソーパズル
+  cv: ~

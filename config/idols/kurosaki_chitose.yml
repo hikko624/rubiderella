@@ -1,0 +1,23 @@
+---
+kurosaki_chitose:
+  name:
+    first: 黒埼
+    first_kana: くろさき
+    last: ちとせ
+    last_kana: ちとせ
+  type: cute
+  age: 17
+  birthday: 11/10
+  sign: 蠍座
+  blood: O
+  height: 165.0
+  weight: 44.0
+  bust: 86
+  waist: 58
+  hip: 84
+  handed: right
+  from: 東京都
+  favorite:
+    - 美味しいものを食べること
+    - 月光浴
+  cv: 佐倉薫

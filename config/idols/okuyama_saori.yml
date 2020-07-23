@@ -1,0 +1,22 @@
+---
+okuyama_saori:
+  name:
+    first: 奥山
+    first_kana: おくやま
+    last: 沙織
+    last_kana: さおり
+  type: cute
+  age: 19
+  birthday: 6/12
+  sign: 双子座
+  blood: B
+  height: 156.0
+  weight: 47.0
+  bust: 83
+  waist: 57
+  hip: 81
+  handed: right
+  from: 秋田県
+  favorite:
+    - 読書
+  cv: ~

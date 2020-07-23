@@ -1,0 +1,23 @@
+---
+ohnishi_yuriko:
+  name:
+    first: 大西
+    first_kana: おおにし
+    last: 百合子
+    last_kana: ゆりこ
+  type: cute
+  age: 20
+  birthday: 3/20
+  sign: 魚座
+  blood: O
+  height: 156.0
+  weight: 44.0
+  bust: 81
+  waist: 58
+  hip: 83
+  handed: right
+  from: 香川県
+  favorite:
+    - ネットサーフィン
+    - 読書
+  cv: ~

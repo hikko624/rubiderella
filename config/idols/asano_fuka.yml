@@ -1,0 +1,22 @@
+---
+asano_fuka:
+  name:
+    first: 浅野
+    first_kana: あさの
+    last: 風香
+    last_kana: ふうか
+  type: cute
+  age: 16
+  birthday: 2/11
+  sign: 水瓶座
+  blood: A
+  height: 160.0
+  weight: 48.0
+  bust: 88
+  waist: 59
+  hip: 84
+  handed: right
+  from: 滋賀県
+  favorite:
+    - 小説を書くこと
+  cv: ~

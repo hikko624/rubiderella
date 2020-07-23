@@ -1,0 +1,22 @@
+---
+suzumiya_seika:
+  name:
+    first: 涼宮
+    first_kana: すずみや
+    last: 星花
+    last_kana: せいか
+  type: cute
+  age: 19
+  birthday: 8/28
+  sign: 乙女座
+  blood: A
+  height: 158.0
+  weight: 45.0
+  bust: 82
+  waist: 57
+  hip: 83
+  handed: right
+  from: 岐阜県
+  favorite:
+    - バイオリン
+  cv: ~

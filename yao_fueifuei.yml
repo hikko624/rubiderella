@@ -1,0 +1,22 @@
+---
+yao_fueifuei:
+  name:
+    first: 楊
+    first_kana: やお
+    last: 菲菲
+    last_kana: ふぇいふぇい
+  type: cute
+  age: 15
+  birthday: 9/29
+  sign: 天秤座
+  blood: O
+  height: 152.0
+  weight: 41.0
+  bust: 82
+  waist: 58
+  hip: 84
+  handed: right
+  from: 香港
+  favorite:
+    - 料理
+  cv: ~

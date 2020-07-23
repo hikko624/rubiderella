@@ -1,0 +1,22 @@
+---
+shimamura_uzuki:
+  name:
+    first: 島村
+    first_kana: しまむら
+    last: 卯月
+    last_kana: うずき
+  type: cute
+  age: 17
+  birthday: 4/24
+  sign: 牡牛座
+  blood: O
+  height: 159.0
+  weight: 49.0
+  bust: 83
+  waist: 59
+  hip: 87
+  handed: right
+  from: 東京都
+  favorite:
+    - 友達と長電話
+  cv: 大橋彩香

@@ -1,0 +1,22 @@
+---
+kobayakawa_sae:
+  name:
+    first: 小早川
+    first_kana: こばやかわ
+    last: 紗枝
+    last_kana: さえ
+  type: cute
+  age: 15
+  birthday: 10/18
+  sign: 天秤座
+  blood: AB
+  height: 148.0
+  weight: 42.0
+  bust: 78
+  waist: 56
+  hip: 42
+  handed: right
+  from: 京都府
+  favorite:
+    - 日本舞踊
+  cv: 立花理香

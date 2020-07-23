@@ -1,0 +1,22 @@
+---
+clarice:
+  name:
+    first: クラリス
+    first_kana: くらりす
+    last: ~
+    last_kana: ~
+  type: cute
+  age: 20
+  birthday: 8/26
+  sign: 乙女座
+  blood: AB
+  height: 166.0
+  weight: 45.0
+  bust: 80
+  waist: 55
+  hip: 82
+  handed: right
+  from: 兵庫県
+  favorite:
+    - ボランティア
+  cv: ~

@@ -1,0 +1,22 @@
+---
+yokoyama_chika:
+  name:
+    first: 横山
+    first_kana: よこやま
+    last: 千佳
+    last_kana: ちか
+  type: cute
+  age: 9
+  birthday: 12/18
+  sign: 射手座
+  blood: A
+  height: 127.0
+  weight: 31.0
+  bust: 61
+  waist: 55
+  hip: 65
+  handed: right
+  from: 宮崎県
+  favorite:
+    - 魔法少女ごっこ
+  cv: ~

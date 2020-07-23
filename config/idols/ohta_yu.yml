@@ -1,0 +1,23 @@
+---
+ohta_yu:
+  name:
+    first: 太田
+    first_kana: おおた
+    last: 優
+    last_kana: ゆう
+  type: cute
+  age: 21
+  birthday: 1/28
+  sign: 水瓶座
+  blood: AB
+  height: 159.0
+  weight: 45.0
+  bust: 89
+  waist: 57
+  hip: 87
+  handed: right
+  from: 千葉県
+  favorite:
+    - 犬のトリミング
+    - 美容
+  cv: ~

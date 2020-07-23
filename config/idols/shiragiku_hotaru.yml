@@ -1,0 +1,23 @@
+---
+shiragiku_hotaru:
+  name:
+    first: 白菊
+    first_kana: しらぎく
+    last: ほたる
+    last_kana: ほたる
+  type: cute
+  age: 13
+  birthday: 4/19
+  sign: 牡羊座
+  blood: AB
+  height: 158.0
+  weight: 42.0
+  bust: 77
+  waist: 52
+  hip: 79
+  handed: left
+  from: 鳥取県
+  favorite:
+    - 笑顔の練習
+    - アイドルレッスン
+  cv: 天野聡美

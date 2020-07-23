@@ -1,0 +1,22 @@
+---
+ohara_michiru:
+  name:
+    first: 大原
+    first_kana: おおはら
+    last: みちる
+    last_kana: みちる
+  type: cute
+  age: 15
+  birthday: 4/12
+  sign: 牡羊座
+  blood: O
+  height: 153.0
+  weight: 40.0
+  bust: 78
+  waist: 55
+  hip: 80
+  handed: right
+  from: 福井県
+  favorite:
+    - 食べること
+  cv: ~

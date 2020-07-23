@@ -1,0 +1,22 @@
+---
+ogata_chieri:
+  name:
+    first: 緒方
+    first_kana: おがた
+    last: 智絵里
+    last_kana: ちえり
+  type: cute
+  age: 16
+  birthday: 6/11
+  sign: 双子座
+  blood: A
+  height: 153.0
+  weight: 42.0
+  bust: 79
+  waist: 57
+  hip: 80
+  handed: right
+  from: 三重県
+  favorite:
+    - 四葉のクローバー集め
+  cv: 大空直美

@@ -1,0 +1,22 @@
+---
+momoi_azuki:
+  name:
+    first: 桃井
+    first_kana: ももい
+    last: あずき
+    last_kana: あずき
+  type: cute
+  age: 15
+  birthday: 7/7
+  sign: 蟹座
+  blood: A
+  height: 145.0
+  weight: 40.0
+  bust: 80
+  waist: 55
+  hip: 78
+  handed: right
+  from: 長野県
+  favorite:
+    - 金魚すくい
+  cv: ~

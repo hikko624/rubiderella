@@ -1,0 +1,23 @@
+---
+tsujino_akari:
+  name:
+    first: 辻野
+    first_kana: つじの
+    last: あかり
+    last_kana: あかり
+  type: cute
+  age: 15
+  birthday: 11/5
+  sign: 蠍座
+  blood: A
+  height: 160.0
+  weight: 44.0
+  bust: 80
+  waist: 60
+  hip: 86
+  handed: right
+  from: 山形県
+  favorite:
+    - ラーメン
+    - 編み物
+  cv: ~
