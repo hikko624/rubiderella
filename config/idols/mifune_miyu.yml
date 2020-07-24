@@ -1,0 +1,22 @@
+---
+mifune_miyu:
+  name:
+    first: 三船
+    first_kana: みふね
+    last: 美優
+    last_kana: みゆ
+  type: cool
+  age: 26
+  birthday: 2/25
+  sign: 魚座
+  blood: AB
+  height: 165.0
+  weight: 46.0
+  bust: 85
+  waist: 60
+  hip: 85
+  handed: right
+  from: 岩手県
+  favorite:
+    - アロマテラピー
+  cv: 原田彩楓

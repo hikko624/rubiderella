@@ -1,0 +1,23 @@
+---
+morikubo_nono:
+  name:
+    first: 森久保
+    first_kana: もりくぼ
+    last: 乃々
+    last_kana: のの
+  type: cool
+  age: 14
+  birthday: 8/27
+  sign: 乙女座
+  blood: AB
+  height: 149.0
+  weight: 38.0
+  bust: 73
+  waist: 55
+  hip: 76
+  handed: left
+  from: 神奈川県
+  favorite:
+    - ポエム作り
+    - 少女漫画集め
+  cv: 高橋花林

@@ -1,0 +1,22 @@
+---
+yoshioka_saki:
+  name:
+    first: 吉岡
+    first_kana: よしおか
+    last: 沙紀
+    last_kana: さき
+  type: cool
+  age: 17
+  birthday: 5/8
+  sign: 牡羊座
+  blood: A
+  height: 166.0
+  weight: 43.0
+  bust: 86
+  waist: 60
+  hip: 85
+  handed: right
+  from: 神奈川県
+  favorite:
+    - ストリートアート
+  cv: ~

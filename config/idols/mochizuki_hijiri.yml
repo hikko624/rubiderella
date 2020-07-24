@@ -1,0 +1,22 @@
+---
+mochizuki_hijiri:
+  name:
+    first: 望月
+    first_kana: もちずき
+    last: 聖
+    last_kana: ひじり
+  type: cool
+  age: 13
+  birthday: 12/25
+  sign: 牡羊座
+  blood: O
+  height: 150.0
+  weight: 37.0
+  bust: 82
+  waist: 59
+  hip: 86
+  handed: right
+  from: 長野県
+  favorite:
+    - 歌を口ずさむこと
+  cv: ~

@@ -1,0 +1,22 @@
+---
+wakui_rumi:
+  name:
+    first: 和久井
+    first_kana: わくい
+    last: 留美
+    last_kana: るみ
+  type: cool
+  age: 26
+  birthday: 4/7
+  sign: 牡羊座
+  blood: A
+  height: 168.0
+  weight: 49.0
+  bust: 81
+  waist: 60
+  hip: 86
+  handed: left
+  from: 広島県
+  favorite:
+    - 仕事
+  cv: ~

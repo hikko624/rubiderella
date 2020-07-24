@@ -1,0 +1,22 @@
+---
+matsunaga_ryo:
+  name:
+    first: 松永
+    first_kana: まつなが
+    last: 涼
+    last_kana: りょう
+  type: cool
+  age: 18
+  birthday: 10/1
+  sign: 天秤座
+  blood: AB
+  height: 160.0
+  weight: 47.0
+  bust: 90
+  waist: 56
+  hip: 86
+  handed: right
+  from: 東京都
+  favorite:
+    - ホラー映画鑑賞
+  cv: 千菅春香

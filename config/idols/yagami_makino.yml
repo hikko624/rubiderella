@@ -1,0 +1,22 @@
+---
+yagami_makino:
+  name:
+    first: 八神
+    first_kana: やがみ
+    last: マキノ
+    last_kana: まきの
+  type: cool
+  age: 18
+  birthday: 11/7
+  sign: 蠍座
+  blood: B
+  height: 160.0
+  weight: 45.0
+  bust: 85
+  waist: 56
+  hip: 83
+  handed: right
+  from: 岐阜県
+  favorite:
+    - 諜報活動
+  cv: ~

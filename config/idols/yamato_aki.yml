@@ -1,0 +1,23 @@
+---
+yamato_aki:
+  name:
+    first: 大和
+    first_kana: やまと
+    last: 亜季
+    last_kana: あき
+  type: cool
+  age: 21
+  birthday: 12/16
+  sign: 射手座
+  blood: O
+  height: 165.0
+  weight: 51.0
+  bust: 92
+  waist: 60
+  hip: 85
+  handed: left
+  from: 福岡県
+  favorite:
+    - サバゲー
+    - プラモ収集
+  cv: 村中知
