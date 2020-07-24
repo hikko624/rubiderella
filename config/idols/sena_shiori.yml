@@ -1,0 +1,22 @@
+---
+sena_shiori:
+  name:
+    first: 瀬名
+    first_kana: せな
+    last: 詩織
+    last_kana: しおり
+  type: cool
+  age: 19
+  birthday: 1/10
+  sign: 山羊座
+  blood: A
+  height: 165.0
+  weight: 48.0
+  bust: 85
+  waist: 58
+  hip: 83
+  handed: right
+  from: 沖縄県
+  favorite:
+    - 海沿いを散歩
+  cv: ~

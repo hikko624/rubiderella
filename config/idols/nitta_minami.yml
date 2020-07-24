@@ -1,0 +1,23 @@
+---
+nitta_minami:
+  name:
+    first: 新田
+    first_kana: にった
+    last: 美波
+    last_kana: みなみ
+  type: cool
+  age: 19
+  birthday: 7/27
+  sign: 獅子座
+  blood: O
+  height: 165.0
+  weight: 45.0
+  bust: 82
+  waist: 55
+  hip: 85
+  handed: right
+  from: 広島県
+  favorite:
+    - ラクロス
+    - 資格取得
+  cv: 洲崎綾

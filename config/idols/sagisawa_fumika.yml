@@ -1,0 +1,23 @@
+---
+sagisawa_fumika:
+  name:
+    first: 鷺沢
+    first_kana: さぎさわ
+    last: 文香
+    last_kana: ふみか
+  type: cool
+  age: 19
+  birthday: 10/27
+  sign: 蠍座
+  blood: AB
+  height: 162.0
+  weight: 45.0
+  bust: 84
+  waist: 54
+  hip: 81
+  handed: right
+  from: 長野県
+  favorite:
+    - 本屋めぐり
+    - 栞づくり
+  cv: M・A・O

@@ -1,0 +1,23 @@
+---
+fujiwara_hajime:
+  name:
+    first: 藤原
+    first_kana: ふじわら
+    last: 肇
+    last_kana: はじめ
+  type: cool
+  age: 16
+  birthday: 6/15
+  sign: 双子座
+  blood: B
+  height: 161.0
+  weight: 43.0
+  bust: 80
+  waist: 55
+  hip: 84
+  handed: both
+  from: 岡山県
+  favorite:
+    - 陶芸
+    - 釣り
+  cv: 鈴木みのり

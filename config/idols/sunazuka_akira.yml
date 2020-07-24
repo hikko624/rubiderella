@@ -1,0 +1,24 @@
+---
+sunazuka_akira:
+  name:
+    first: 砂塚
+    first_kana: すなづか
+    last: あきら
+    last_kana: あきら
+  type: cool
+  age: 15
+  birthday: 10/7
+  sign: 天秤座
+  blood: B
+  height: 154.0
+  weight: 42.0
+  bust: 78
+  waist: 56
+  hip: 78
+  handed: right
+  from: 新潟県
+  favorite:
+    - ファッション
+    - 動画配信
+    - FPS
+  cv: ~

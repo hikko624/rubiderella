@@ -1,0 +1,22 @@
+---
+ayase_honoka:
+  name:
+    first: 綾瀬
+    first_kana: あやせ
+    last: 穂乃香
+    last_kana: ほのか
+  type: cool
+  age: 17
+  birthday: 11/11
+  sign: 双子座
+  blood: A
+  height: 161.0
+  weight: 46.0
+  bust: 85
+  waist: 57
+  hip: 84
+  handed: right
+  from: 宮城県
+  favorite:
+    - バレエ
+  cv: ~

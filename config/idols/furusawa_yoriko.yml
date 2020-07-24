@@ -1,0 +1,22 @@
+---
+furusawa_yoriko:
+  name:
+    first: 古澤
+    first_kana: ふるさわ
+    last: 頼子
+    last_kana: よりこ
+  type: cool
+  age: 17
+  birthday: 5/18
+  sign: 牡牛座
+  blood: A
+  height: 166.0
+  weight: 45.0
+  bust: 81
+  waist: 59
+  hip: 83
+  handed: left
+  from: 茨城県
+  favorite:
+    - 美術展・博物館観覧
+  cv: ~

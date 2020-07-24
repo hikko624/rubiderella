@@ -1,0 +1,24 @@
+---
+ninomiya_asuka:
+  name:
+    first: 二宮
+    first_kana: にのみや
+    last: 飛鳥
+    last_kana: あすか
+  type: cool
+  age: 14
+  birthday: 2/3
+  sign: 水瓶座
+  blood: B
+  height: 154.0
+  weight: 43.0
+  bust: 75
+  waist: 55
+  hip: 78
+  handed: right
+  from: 静岡県
+  favorite:
+    - ヘアアレンジ
+    - ラジオを聴くこと
+    - 漫画を描くこと
+  cv: 青木志貴

@@ -1,0 +1,22 @@
+---
+fujii_tomo:
+  name:
+    first: 藤居
+    first_kana: ふじい
+    last: 朋
+    last_kana: とも
+  type: cool
+  age: 19
+  birthday: 7/1
+  sign: 蟹座
+  blood: O
+  height: 163.0
+  weight: 45.0
+  bust: 78
+  waist: 57
+  hip: 83
+  handed: right
+  from: 滋賀県
+  favorite:
+    - 占い
+  cv: ~

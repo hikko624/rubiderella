@@ -1,0 +1,22 @@
+---
+takafuji_kako:
+  name:
+    first: 鷹富士
+    first_kana: たかふじ
+    last: 茄子
+    last_kana: かこ
+  type: cool
+  age: 20
+  birthday: 1/1
+  sign: 山羊座
+  blood: AB
+  height: 160.0
+  weight: 43.0
+  bust: 88
+  waist: 57
+  hip: 88
+  handed: right
+  from: 島根県
+  favorite:
+    - 隠し芸
+  cv: 森下来奈

@@ -1,0 +1,22 @@
+---
+hojo_karen:
+  name:
+    first: 北条
+    first_kana: ほうじょう
+    last: 加蓮
+    last_kana: かれん
+  type: cool
+  age: 16
+  birthday: 9/5
+  sign: 乙女座
+  blood: B
+  height: 155.0
+  weight: 42.0
+  bust: 83
+  waist: 55
+  hip: 81
+  handed: right
+  from: 東京都
+  favorite:
+    - ネイル
+  cv: 渕上舞

@@ -1,0 +1,22 @@
+---
+kamijo_haruna:
+  name:
+    first: 上条
+    first_kana: かみじょう
+    last: 春菜
+    last_kana: はるな
+  type: cool
+  age: 18
+  birthday: 4/10
+  sign: 牡羊座
+  blood: O
+  height: 156.0
+  weight: 42.0
+  bust: 79
+  waist: 56
+  hip: 80
+  handed: right
+  from: 静岡県
+  favorite:
+    - 猫と縁側でお昼寝
+  cv: 長島光那

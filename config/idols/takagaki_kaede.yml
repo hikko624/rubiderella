@@ -1,0 +1,22 @@
+---
+takagaki_kaede:
+  name:
+    first: 高垣
+    first_kana: たかがき
+    last: 楓
+    last_kana: かえで
+  type: cool
+  age: 25
+  birthday: 6/14
+  sign: 双子座
+  blood: AB
+  height: 171.0
+  weight: 49.0
+  bust: 81
+  waist: 57
+  hip: 83
+  handed: left
+  from: 和歌山県
+  favorite:
+    - 温泉めぐり
+  cv: 早見沙織

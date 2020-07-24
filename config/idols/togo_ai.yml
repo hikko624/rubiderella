@@ -1,0 +1,22 @@
+---
+togo_ai:
+  name:
+    first: 東郷
+    first_kana: とうごう
+    last: あい
+    last_kana: あい
+  type: cool
+  age: 23
+  birthday: 2/7
+  sign: 水瓶座
+  blood: AB
+  height: 167.0
+  weight: 45.0
+  bust: 82
+  waist: 57
+  hip: 83
+  handed: both
+  from: 福島県
+  favorite:
+    - サックス
+  cv: ~

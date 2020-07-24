@@ -1,0 +1,22 @@
+---
+hiiragi_shino:
+  name:
+    first: 柊
+    first_kana: ひいらぎ
+    last: 志乃
+    last_kana: しの
+  type: cool
+  age: 31
+  birthday: 12/25
+  sign: 山羊座
+  blood: AB
+  height: 167.0
+  weight: 43.0
+  bust: 84
+  waist: 54
+  hip: 83
+  handed: left
+  from: 山梨県
+  favorite:
+    - ワインツーリズム(産地巡り)
+  cv: ~

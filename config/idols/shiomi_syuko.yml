@@ -1,0 +1,23 @@
+---
+shiomi_syuko:
+  name:
+    first: 塩見
+    first_kana: しおみ
+    last: 周子
+    last_kana: しゅうこ
+  type: cool
+  age: 18
+  birthday: 12/12
+  sign: 射手座
+  blood: B
+  height: 163.0
+  weight: 45.0
+  bust: 82
+  waist: 56
+  hip: 81
+  handed: left
+  from: 京都府
+  favorite:
+    - 献血
+    - ダーツ
+  cv: ルゥ・ティン

@@ -1,0 +1,22 @@
+---
+sasaki_chie:
+  name:
+    first: 佐々木
+    first_kana: ささき
+    last: 千枝
+    last_kana: ちえ
+  type: cool
+  age: 11
+  birthday: 6/7
+  sign: 双子座
+  blood: AB
+  height: 139.0
+  weight: 33.0
+  bust: 73
+  waist: 49
+  hip: 73
+  handed: left
+  from: 富山県
+  favorite:
+    - 裁縫
+  cv: 今井麻夏

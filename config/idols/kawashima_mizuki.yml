@@ -1,0 +1,23 @@
+---
+kawashima_mizuki:
+  name:
+    first: 川島
+    first_kana: かわしま
+    last: 瑞樹
+    last_kana: みずき
+  type: cool
+  age: 28
+  birthday: 11/25
+  sign: 射手座
+  blood: B
+  height: 159.0
+  weight: 44.0
+  bust: 87
+  waist: 57
+  hip: 85
+  handed: right
+  from: 大阪府
+  favorite:
+    - 掃除
+    - 洗濯
+  cv: 東山奈央

@@ -1,0 +1,22 @@
+---
+hayami_kanade:
+  name:
+    first: 速水
+    first_kana: はやみ
+    last: 奏
+    last_kana: かなで
+  type: cool
+  age: 17
+  birthday: 7/1
+  sign: 蟹座
+  blood: O
+  height: 162.0
+  weight: 43.0
+  bust: 86
+  waist: 55
+  hip: 84
+  handed: right
+  from: 東京都
+  favorite:
+    - 映画鑑賞
+  cv: 飯田友子

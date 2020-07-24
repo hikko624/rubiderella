@@ -1,0 +1,22 @@
+---
+ijuin_megumi:
+  name:
+    first: 伊集院
+    first_kana: いじゅういん
+    last: 惠
+    last_kana: めぐみ
+  type: cool
+  age: 23
+  birthday: 11/11
+  sign: 蠍座
+  blood: B
+  height: 161.0
+  weight: 43.0
+  bust: 82
+  waist: 56
+  hip: 85
+  handed: right
+  from: 北海道
+  favorite:
+    - カフェで読書
+  cv: ~

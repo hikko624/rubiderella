@@ -1,0 +1,23 @@
+---
+nishikawa_honami:
+  name:
+    first: 西川
+    first_kana: にしかわ
+    last: 保奈美
+    last_kana: ほなみ
+  type: cool
+  age: 16
+  birthday: 10/23
+  sign: 天秤座
+  blood: A
+  height: 155.0
+  weight: 55.0
+  bust: 88
+  waist: 60
+  hip: 86
+  handed: both
+  from: 兵庫県
+  favorite:
+    - オペラ鑑賞
+    - 宝塚鑑賞
+  cv: ~

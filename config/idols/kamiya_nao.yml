@@ -1,0 +1,22 @@
+---
+kamiya_nao:
+  name:
+    first: 神谷
+    first_kana: かみや
+    last: 奈緒
+    last_kana: なお
+  type: cool
+  age: 17
+  birthday: 9/16
+  sign: 乙女座
+  blood: AB
+  height: 154.0
+  weight: 44.0
+  bust: 83
+  waist: 58
+  hip: 81
+  handed: left
+  from: 千葉県
+  favorite:
+    - アニメ鑑賞
+  cv: 松井恵理子

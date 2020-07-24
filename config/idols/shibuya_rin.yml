@@ -1,0 +1,22 @@
+---
+shibuya_rin:
+  name:
+    first: 渋谷
+    first_kana: しぶや
+    last: 凛
+    last_kana: りん
+  type: cool
+  age: 15
+  birthday: 8/10
+  sign: 獅子座
+  blood: B
+  height: 165.0
+  weight: 44.0
+  bust: 80
+  waist: 56
+  hip: 81
+  handed: right
+  from: 東京都
+  favorite:
+    - 犬の散歩
+  cv: 福原綾香

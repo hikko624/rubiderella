@@ -1,0 +1,22 @@
+---
+okazaki_yasuha:
+  name:
+    first: 岡崎
+    first_kana: おかざき
+    last: 泰葉
+    last_kana: やすは
+  type: cool
+  age: 16
+  birthday: 7/16
+  sign: 蟹座
+  blood: A
+  height: 153.0
+  weight: 43.0
+  bust: 70
+  waist: 55
+  hip: 80
+  handed: left
+  from: 長崎県
+  favorite:
+    - ドールハウス作り
+  cv: ~

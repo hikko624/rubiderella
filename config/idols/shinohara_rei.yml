@@ -1,0 +1,22 @@
+---
+shinohara_rei:
+  name:
+    first: 篠原
+    first_kana: しのはら
+    last: 礼
+    last_kana: れい
+  type: cool
+  age: 27
+  birthday: 11/22
+  sign: 蠍座
+  blood: B
+  height: 171.0
+  weight: 49.0
+  bust: 93
+  waist: 58
+  hip: 88
+  handed: left
+  from: 宮崎県
+  favorite:
+    - 社交ダンス
+  cv: ~

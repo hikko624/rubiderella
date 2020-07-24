@@ -1,0 +1,22 @@
+---
+takamine_noa:
+  name:
+    first: 高峯
+    first_kana: たかみね
+    last: のあ
+    last_kana: のあ
+  type: cool
+  age: 24
+  birthday: 3/25
+  sign: 牡羊座
+  blood: B
+  height: 168.0
+  weight: 48.0
+  bust: 87
+  waist: 55
+  hip: 86
+  handed: right
+  from: 奈良県
+  favorite:
+    - 天体観測
+  cv: ~

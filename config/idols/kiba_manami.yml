@@ -1,0 +1,23 @@
+---
+kiba_manami:
+  name:
+    first: 木場
+    first_kana: きば
+    last: 真奈美
+    last_kana: まなみ
+  type: cool
+  age: 25
+  birthday: 8/8
+  sign: 獅子座
+  blood: AB
+  height: 172.0
+  weight: 50.0
+  bust: 88
+  waist: 60
+  hip: 89
+  handed: right
+  from: 長崎県
+  favorite:
+    - 筋トレ
+    - 料理
+  cv: ~

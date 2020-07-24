@@ -1,0 +1,24 @@
+---
+kishibe_ayaka:
+  name:
+    first: 岸部
+    first_kana: きしべ
+    last: 彩華
+    last_kana: あやか
+  type: cool
+  age: 19
+  birthday: 11/13
+  sign: 蠍座
+  blood: A
+  height: 162.0
+  weight: 46.0
+  bust: 89
+  waist: 59
+  hip: 85
+  handed: right
+  from: 埼玉県
+  favorite:
+    - ネイルアート
+    - エステ
+    - 岩盤浴
+  cv: ~

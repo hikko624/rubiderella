@@ -1,0 +1,22 @@
+---
+kate:
+  name:
+    first: ケイト
+    first_kana: けいと
+    last: ~
+    last_kana: ~
+  type: cool
+  age: 20
+  birthday: 8/15
+  sign: 獅子座
+  blood: O
+  height: 157.0
+  weight: 45.0
+  bust: 83
+  waist: 59
+  hip: 85
+  handed: right
+  from: イギリス
+  favorite:
+    - 日本の雑誌を見るコト
+  cv: ~

@@ -1,0 +1,23 @@
+---
+hattori_toko:
+  name:
+    first: 服部
+    first_kana: はっとり
+    last: 瞳子
+    last_kana: とうこ
+  type: cool
+  age: 25
+  birthday: 10/11
+  sign: 天秤座
+  blood: O
+  height: 169.0
+  weight: 48.0
+  bust: 78
+  waist: 57
+  hip: 80
+  handed: left
+  from: 大分県
+  favorite:
+    - 熱帯魚鑑賞
+    - 温泉めぐり
+  cv: ~

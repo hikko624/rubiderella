@@ -1,0 +1,22 @@
+---
+komuro_chinami:
+  name:
+    first: 小室
+    first_kana: こむろ
+    last: 千奈美
+    last_kana: ちなみ
+  type: cool
+  age: 19
+  birthday: 6/9
+  sign: 双子座
+  blood: AB
+  height: 164.0
+  weight: 45.0
+  bust: 84
+  waist: 56
+  hip: 82
+  handed: right
+  from: 愛知県
+  favorite:
+    - ダーツ
+  cv: ~

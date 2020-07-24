@@ -1,0 +1,23 @@
+---
+tachibana_arisu:
+  name:
+    first: 橘
+    first_kana: たちばな
+    last: ありす
+    last_kana: ありす
+  type: cool
+  age: 12
+  birthday: /31
+  sign: 獅子座
+  blood: A
+  height: 141.0
+  weight: 34.0
+  bust: 68
+  waist: 52
+  hip: 67
+  handed: right
+  from: 兵庫県
+  favorite:
+    - ゲーム
+    - 読書(ミステリー)
+  cv: 佐藤亜美菜
