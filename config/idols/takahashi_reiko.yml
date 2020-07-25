@@ -1,0 +1,22 @@
+---
+takahashi_reiko:
+  name:
+    first: 高橋
+    first_kana: たかはし
+    last: 礼子
+    last_kana: れいこ
+  type: cool
+  age: 31
+  birthday: 5/8
+  sign: 牡羊座
+  blood: O
+  height: 167.0
+  weight: 51.0
+  bust: 91
+  waist: 62
+  hip: 90
+  handed: right
+  from: 神奈川県
+  favorite:
+    - パーティーに行くこと
+  cv: ~

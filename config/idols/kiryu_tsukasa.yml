@@ -1,0 +1,24 @@
+---
+kiryu_tsukasa:
+  name:
+    first: 桐生
+    first_kana: きりゅう
+    last: つかさ
+    last_kana: つかさ
+  type: cool
+  age: 18
+  birthday: 2/24
+  sign: 魚座
+  blood: A
+  height: 164.0
+  weight: 45.0
+  bust: 83
+  waist: 55
+  hip: 82
+  handed: right
+  from: 福井県
+  favorite:
+    - 異業種交流
+    - ホットヨガ
+    - ぬか床の世話
+  cv: ~

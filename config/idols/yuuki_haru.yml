@@ -1,0 +1,22 @@
+---
+yuuki_haru:
+  name:
+    first: 結城
+    first_kana: ゆうき
+    last: 晴
+    last_kana: はる
+  type: cool
+  age: 12
+  birthday: 7/17
+  sign: 蟹座
+  blood: A
+  height: 140.0
+  weight: 37.0
+  bust: 74
+  waist: 55
+  hip: 78
+  handed: right
+  from: 愛媛県
+  favorite:
+    - サッカー
+  cv: 小市眞琴

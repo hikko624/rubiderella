@@ -1,0 +1,22 @@
+---
+sakakibara_satomi:
+  name:
+    first: 榊原
+    first_kana: さかきばら
+    last: 里美
+    last_kana: さとみ
+  type: cute
+  age: 17
+  birthday: 8/27
+  sign: 乙女座
+  blood: O
+  height: 162.0
+  weight: 46.0
+  bust: 91
+  waist: 56
+  hip: 86
+  handed: right
+  from: 山形県
+  favorite:
+    - 甘いお菓子を食べること
+  cv: ~

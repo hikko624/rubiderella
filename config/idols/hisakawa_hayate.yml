@@ -1,0 +1,23 @@
+---
+hisakawa_hayate:
+  name:
+    first: 久川
+    first_kana: ひさかわ
+    last: 颯
+    last_kana: はやて
+  type: cool
+  age: 14
+  birthday: 6/16
+  sign: 双子座
+  blood: B
+  height: 151.0
+  weight: 42.0
+  bust: 82
+  waist: 56
+  hip: 82
+  handed: right
+  from: 徳島県
+  favorite:
+    - ファッション
+    - 流行の店巡り
+  cv: 長江里加

@@ -1,0 +1,22 @@
+---
+akagi_miria:
+  name:
+    first: 赤城
+    first_kana: あかぎ
+    last: みりあ
+    last_kana: みりあ
+  type: passion
+  age: 11
+  birthday: 4/14
+  sign: 牡羊座
+  blood: AB
+  height: 140.0
+  weight: 36.0
+  bust: 75
+  waist: 55
+  hip: 78
+  handed: left
+  from: 東京都
+  favorite:
+    - おしゃべり
+  cv: 黒沢ともよ

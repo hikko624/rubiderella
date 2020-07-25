@@ -1,0 +1,22 @@
+---
+mizuki_seira:
+  name:
+    first: 水木
+    first_kana: みずき
+    last: 聖來
+    last_kana: せいら
+  type: cool
+  age: 23
+  birthday: 4/27
+  sign: 牡羊座
+  blood: B
+  height: 155.0
+  weight: 43.0
+  bust: 82
+  waist: 55
+  hip: 80
+  handed: right
+  from: 茨城県
+  favorite:
+    - 犬の散歩
+  cv: ~

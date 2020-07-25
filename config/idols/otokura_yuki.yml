@@ -1,0 +1,23 @@
+---
+otokura_yuki:
+  name:
+    first: 乙倉
+    first_kana: おとくら
+    last: 悠貴
+    last_kana: ゆうき
+  type: cute
+  age: 13
+  birthday: 10/6
+  sign: 天秤座
+  blood: A
+  height: 164.0
+  weight: 40.0
+  bust: 70
+  waist: 53
+  hip: 74
+  handed: right
+  from: 岡山県
+  favorite:
+    - ミックスジュース作り
+    - スクラップブック作り
+  cv: 中島由貴

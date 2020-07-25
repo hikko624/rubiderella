@@ -1,0 +1,22 @@
+---
+ueda_suzuho:
+  name:
+    first: 上田
+    first_kana: うえだ
+    last: 鈴帆
+    last_kana: すずほ
+  type: passion
+  age: 14
+  birthday: 10/26
+  sign: 蠍座
+  blood: O
+  height: 156.0
+  weight: 42.0
+  bust: 76
+  waist: 55
+  hip: 79
+  handed: right
+  from: 福岡県
+  favorite:
+    - 裁縫
+  cv: 春野ななみ

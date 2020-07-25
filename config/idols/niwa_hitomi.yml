@@ -1,0 +1,23 @@
+---
+niwa_hitomi:
+  name:
+    first: 丹羽
+    first_kana: にわ
+    last: 仁美
+    last_kana: ひとみ
+  type: cute
+  age: 18
+  birthday: 6/4
+  sign: 双子座
+  blood: B
+  height: 157.0
+  weight: 43.0
+  bust: 81
+  waist: 55
+  hip: 79
+  handed: right
+  from: 愛知県(名古屋市)
+  favorite:
+    - 史跡巡り
+    - 武将グッズ収集
+  cv: ~

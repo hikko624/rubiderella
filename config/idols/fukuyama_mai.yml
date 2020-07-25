@@ -1,0 +1,22 @@
+---
+fukuyama_mai:
+  name:
+    first: 福山
+    first_kana: ふくやま
+    last: 舞
+    last_kana: まい
+  type: cute
+  age: 10
+  birthday: 1/21
+  sign: 水瓶座
+  blood: O
+  height: 132.0
+  weight: 28.0
+  bust: 64
+  waist: 56
+  hip: 70
+  handed: left
+  from: 兵庫県
+  favorite:
+    - 一輪車
+  cv: ~

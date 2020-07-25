@@ -1,0 +1,22 @@
+---
+muramatsu_sakura:
+  name:
+    first: 村松
+    first_kana: むらまつ
+    last: さくら
+    last_kana: さくら
+  type: cute
+  age: 15
+  birthday: 3/27
+  sign: 牡羊座
+  blood: O
+  height: 145.0
+  weight: 38.0
+  bust: 75
+  waist: 55
+  hip: 77
+  handed: right
+  from: 静岡県
+  favorite:
+    - ピンクのもの集め
+  cv: ~

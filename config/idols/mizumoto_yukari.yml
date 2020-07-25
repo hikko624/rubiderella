@@ -1,0 +1,22 @@
+---
+mizumoto_yukari:
+  name:
+    first: 水本
+    first_kana: みずもと
+    last: ゆかり
+    last_kana: ゆかり
+  type: cute
+  age: 15
+  birthday: 10/18
+  sign: 天秤座
+  blood: A
+  height: 155.0
+  weight: 42.0
+  bust: 81
+  waist: 56
+  hip: 82
+  handed: right
+  from: 青森県
+  favorite:
+    - フルート
+  cv: 藤田茜

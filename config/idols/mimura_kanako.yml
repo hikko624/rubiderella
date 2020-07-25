@@ -1,0 +1,22 @@
+---
+mimura_kanako:
+  name:
+    first: 三村
+    first_kana: みむら
+    last: かな子
+    last_kana: かなこ
+  type: cute
+  age: 17
+  birthday: 1/6
+  sign: 山羊座
+  blood: O
+  height: 153.0
+  weight: 52.0
+  bust: 90
+  waist: 65
+  hip: 89
+  handed: right
+  from: 東京都
+  favorite:
+    - お菓子作り
+  cv: 大坪由佳

@@ -1,0 +1,22 @@
+---
+mochida_arisa:
+  name:
+    first: 持田
+    first_kana: もちだ
+    last: 亜里沙
+    last_kana: ありさ
+  type: cute
+  age: 21
+  birthday: 8/24
+  sign: 乙女座
+  blood: AB
+  height: 156.0
+  weight: 45.0
+  bust: 77
+  waist: 54
+  hip: 76
+  handed: right
+  from: 長野県
+  favorite:
+    - 子供と遊ぶこと
+  cv: ~

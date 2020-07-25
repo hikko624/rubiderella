@@ -1,0 +1,23 @@
+---
+asari_nanami:
+  name:
+    first: 浅利
+    first_kana: あさり
+    last: 七海
+    last_kana: ななみ
+  type: cool
+  age: 14
+  birthday: 10/9
+  sign: 天秤座
+  blood: A
+  height: 151.0
+  weight: 41.0
+  bust: 78
+  waist: 55
+  hip: 77
+  handed: right
+  from: 青森県
+  favorite:
+    - 釣り
+    - 絵日記
+  cv: ~

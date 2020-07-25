@@ -1,0 +1,23 @@
+---
+fujimoto_rina:
+  name:
+    first: 藤本
+    first_kana: ふじもと
+    last: 里奈
+    last_kana: りな
+  type: cute
+  age: 18
+  birthday: 10/14
+  sign: 天秤座
+  blood: A
+  height: 154.0
+  weight: 41.0
+  bust: 77
+  waist: 55
+  hip: 80
+  handed: right
+  from: 神奈川県(湘南市)
+  favorite:
+    - 単車乗り
+    - コンビニで立ち読み
+  cv: 金子真由美

@@ -1,0 +1,23 @@
+---
+cathy_graham:
+  name:
+    first: キャシー
+    first_kana: きゃしー
+    last: グラハム
+    last_kana: ぐらはむ
+  type: passion
+  age: 15
+  birthday: 9/19
+  sign: 乙女座
+  blood: O
+  height: 168.0
+  weight: 49.0
+  bust: 83
+  waist: 56
+  hip: 85
+  handed: left
+  from: ニューヨーク
+  favorite:
+    - インラインスケート
+    - ダンス
+  cv: ~

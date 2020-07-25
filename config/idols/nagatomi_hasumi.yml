@@ -1,0 +1,23 @@
+---
+nagatomi_hasumi:
+  name:
+    first: 長富
+    first_kana: ながとみ
+    last: 蓮実
+    last_kana: はすみ
+  type: cute
+  age: 16
+  birthday: 3/19
+  sign: 魚座
+  blood: A
+  height: 161.0
+  weight: 45.0
+  bust: 83
+  waist: 56
+  hip: 85
+  handed: right
+  from: 島根県
+  favorite:
+    - ボウリング
+    - 古着屋巡り
+  cv: ~

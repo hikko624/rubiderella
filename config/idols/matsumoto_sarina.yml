@@ -1,0 +1,22 @@
+---
+matsumoto_sarina:
+  name:
+    first: 松本
+    first_kana: まつもと
+    last: 紗理奈
+    last_kana: さりな
+  type: cool
+  age: 22
+  birthday: 9/1
+  sign: 乙女座
+  blood: A
+  height: 165.0
+  weight: 48.0
+  bust: 92
+  waist: 58
+  hip: 85
+  handed: right
+  from: 東京都
+  favorite:
+    - ショッピング
+  cv: ~

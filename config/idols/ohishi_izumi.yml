@@ -1,0 +1,22 @@
+---
+ohishi_izumi:
+  name:
+    first: 大石
+    first_kana: おおいし
+    last: 泉
+    last_kana: いずみ
+  type: cool
+  age: 15
+  birthday: 11/11
+  sign: 蠍座
+  blood: A
+  height: 161.0
+  weight: 41.0
+  bust: 83
+  waist: 55
+  hip: 82
+  handed: right
+  from: 静岡道
+  favorite:
+    - プログラミング
+  cv: ~

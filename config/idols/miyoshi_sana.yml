@@ -1,0 +1,23 @@
+---
+miyoshi_sana:
+  name:
+    first: 三好
+    first_kana: みよし
+    last: 紗南
+    last_kana: さな
+  type: passion
+  age: 14
+  birthday: 6/25
+  sign: 蟹座
+  blood: B
+  height: 149.0
+  weight: 39.0
+  bust: 75
+  waist: 56
+  hip: 80
+  handed: right
+  from: 香川県
+  favorite:
+    - TVゲーム
+    - 夜更し
+  cv: ~

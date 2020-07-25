@@ -1,0 +1,22 @@
+---
+imura_setsuna:
+  name:
+    first: 井村
+    first_kana: いむら
+    last: 雪菜
+    last_kana: せつな
+  type: cute
+  age: 17
+  birthday: 8/27
+  sign: 乙女座
+  blood: AB
+  height: 163.0
+  weight: 48.0
+  bust: 85
+  waist: 60
+  hip: 88
+  handed: right
+  from: 秋田県
+  favorite:
+    - メイク小物集め
+  cv: ~

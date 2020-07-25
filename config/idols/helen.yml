@@ -1,0 +1,22 @@
+---
+helen:
+  name:
+    first: ヘレン
+    first_kana: へれん
+    last: ~
+    last_kana: ~
+  type: cool
+  age: 24
+  birthday: 4/4
+  sign: 牡羊座
+  blood: AB
+  height: 158.0
+  weight: 46.0
+  bust: 90
+  waist: 58
+  hip: 81
+  handed: right
+  from: 海の向こう
+  favorite:
+    - DVD鑑賞
+  cv: ~

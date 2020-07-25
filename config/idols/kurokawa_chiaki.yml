@@ -1,0 +1,22 @@
+---
+kurokawa_chiaki:
+  name:
+    first: 黒川
+    first_kana: くろかわ
+    last: 千秋
+    last_kana: ちあき
+  type: cool
+  age: 20
+  birthday: 2/26
+  sign: 魚座
+  blood: B
+  height: 163.0
+  weight: 45.0
+  bust: 86
+  waist: 57
+  hip: 86
+  handed: right
+  from: 北海道
+  favorite:
+    - クラシック鑑賞
+  cv: ~

@@ -1,0 +1,23 @@
+---
+ujiie_mutsumi:
+  name:
+    first: 氏家
+    first_kana: うじいえ
+    last: むつみ
+    last_kana: むつみ
+  type: cool
+  age: 13
+  birthday: 7/13
+  sign: 蟹座
+  blood: AB
+  height: 152.0
+  weight: 42.0
+  bust: 78
+  waist: 57
+  hip: 80
+  handed: right
+  from: 栃木県
+  favorite:
+    - 冒険小説を読む
+    - 冒険映画を見る
+  cv: ~

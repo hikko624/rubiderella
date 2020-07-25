@@ -1,0 +1,22 @@
+---
+kanzaki_ranko:
+  name:
+    first: 神崎
+    first_kana: かんざき
+    last: 蘭子
+    last_kana: らんこ
+  type: cool
+  age: 14
+  birthday: 4/8
+  sign: 牡羊座
+  blood: A
+  height: 156.0
+  weight: 41.0
+  bust: 81
+  waist: 57
+  hip: 80
+  handed: right
+  from: 熊本県
+  favorite:
+    - 絵を描くこと
+  cv: 内田真礼

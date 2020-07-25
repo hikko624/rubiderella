@@ -1,0 +1,22 @@
+---
+igarashi_kyoko:
+  name:
+    first: 五十嵐
+    first_kana: いがらし
+    last: 響子
+    last_kana: きょうこ
+  type: cute
+  age: 15
+  birthday: 8/10
+  sign: 獅子座
+  blood: AB
+  height: 154.0
+  weight: 43.0
+  bust: 81
+  waist: 58
+  hip: 80
+  handed: right
+  from: 鳥取県
+  favorite:
+    - 家事全般
+  cv: 種崎敦美

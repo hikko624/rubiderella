@@ -1,0 +1,22 @@
+---
+nonomura_sora:
+  name:
+    first: 野々村
+    first_kana: ののむら
+    last: そら
+    last_kana: そら
+  type: passion
+  age: 15
+  birthday: 1/3
+  sign: 山羊座
+  blood: B
+  height: 157.0
+  weight: 46.0
+  bust: 84
+  waist: 57
+  hip: 85
+  handed: right
+  from: 福岡県
+  favorite:
+    - 友達と電話
+  cv: ~

@@ -1,0 +1,22 @@
+---
+takamori_aiko:
+  name:
+    first: 高森
+    first_kana: たかもり
+    last: 藍子
+    last_kana: あいこ
+  type: passion
+  age: 16
+  birthday: 7/25
+  sign: 獅子座
+  blood: O
+  height: 155.0
+  weight: 42.0
+  bust: 74
+  waist: 60
+  hip: 79
+  handed: right
+  from: 東京都
+  favorite:
+    - 近所の公園をお散歩
+  cv: 金子有希

@@ -1,0 +1,24 @@
+---
+yorita_yoshino:
+  name:
+    first: 依田
+    first_kana: よりた
+    last: 芳乃
+    last_kana: よしの
+  type: passion
+  age: 16
+  birthday: 7/3
+  sign: 蟹座
+  blood: O
+  height: 151.0
+  weight: 40.0
+  bust: 73
+  waist: 53
+  hip: 73
+  handed: right
+  from: 鹿児島県
+  favorite:
+    - 悩み事解決
+    - 石ころ集め
+    - 失せ物探し
+  cv: 高田憂希

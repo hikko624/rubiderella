@@ -1,0 +1,22 @@
+---
+senzaki_ema:
+  name:
+    first: 仙崎
+    first_kana: せんざき
+    last: 恵磨
+    last_kana: えま
+  type: passion
+  age: 21
+  birthday: 6/27
+  sign: 蟹座
+  blood: O
+  height: 156.0
+  weight: 45.0
+  bust: 81
+  waist: 55
+  hip: 81
+  handed: left
+  from: 大阪府
+  favorite:
+    - 革小物集め
+  cv: ~

@@ -1,0 +1,22 @@
+---
+tada_riina:
+  name:
+    first: 多田
+    first_kana: ただ
+    last: 李衣菜
+    last_kana: りいな
+  type: cool
+  age: 17
+  birthday: 6/30
+  sign: 蟹座
+  blood: A
+  height: 152.0
+  weight: 41.0
+  bust: 80
+  waist: 55
+  hip: 81
+  handed: right
+  from: 東京都
+  favorite:
+    - 音楽鑑賞
+  cv: 青木瑠璃子

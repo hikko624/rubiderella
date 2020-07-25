@@ -1,0 +1,23 @@
+---
+katagiri_sanae:
+  name:
+    first: 片桐
+    first_kana: かたぎり
+    last: 早苗
+    last_kana: さなえ
+  type: passion
+  age: 28
+  birthday: 3/7
+  sign: 魚座
+  blood: O
+  height: 152.0
+  weight: 47.0
+  bust: 92
+  waist: 58
+  hip: 84
+  handed: right
+  from: 新潟県
+  favorite:
+    - マッサージ
+    - スーパー銭湯
+  cv: 和氣あず未

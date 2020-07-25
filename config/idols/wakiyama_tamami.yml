@@ -1,0 +1,23 @@
+---
+wakiyama_tamami:
+  name:
+    first: 脇山
+    first_kana: わきやま
+    last: 珠美
+    last_kana: たまに
+  type: cool
+  age: 16
+  birthday: 9/20
+  sign: 乙女座
+  blood: B
+  height: 145.0
+  weight: 38.0
+  bust: 72
+  waist: 53
+  hip: 75
+  handed: right
+  from: 佐賀県
+  favorite:
+    - 剣道
+    - 時代小説を読むこと
+  cv: 嘉山未紗

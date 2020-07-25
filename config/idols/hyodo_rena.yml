@@ -1,0 +1,22 @@
+---
+hyodo_rena:
+  name:
+    first: 兵藤
+    first_kana: ひょうどう
+    last: レナ
+    last_kana: れな
+  type: cute
+  age: 27
+  birthday: 10/3
+  sign: 天秤座
+  blood: O
+  height: 167.0
+  weight: 48.0
+  bust: 92
+  waist: 56
+  hip: 88
+  handed: right
+  from: 東京都
+  favorite:
+    - トランプ
+  cv: ~

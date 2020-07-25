@@ -1,0 +1,23 @@
+---
+ohnuma_kurumi:
+  name:
+    first: 大沼
+    first_kana: おおぬま
+    last: くるみ
+    last_kana: くるみ
+  type: cute
+  age: 13
+  birthday: 3/30
+  sign: 牡羊座
+  blood: A
+  height: 145.0
+  weight: 40.0
+  bust: おっきい
+  waist: ふつう
+  hip: まぁまぁ
+  handed: right
+  from: 石川県
+  favorite:
+    - ポケットティッシュ収集
+    - お風呂に入ること
+  cv: ~

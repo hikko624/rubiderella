@@ -1,0 +1,22 @@
+---
+ichihara_nina:
+  name:
+    first: 市原
+    first_kana: いちはら
+    last: 仁奈
+    last_kana: にな
+  type: passion
+  age: 9
+  birthday: 2/8
+  sign: 水瓶座
+  blood: B
+  height: 128.0
+  weight: 29.0
+  bust: 61
+  waist: 57
+  hip: 67
+  handed: left
+  from: 静岡県
+  favorite:
+    - 着ぐるみ集め
+  cv: 久野美咲

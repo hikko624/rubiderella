@@ -1,0 +1,22 @@
+---
+kohinata_miho:
+  name:
+    first: 小日向
+    first_kana: こひなた
+    last: 美穂
+    last_kana: みほ
+  type: cute
+  age: 17
+  birthday: 12/16
+  sign: 射手座
+  blood: O
+  height: 155.0
+  weight: 42.0
+  bust: 82
+  waist: 59
+  hip: 86
+  handed: left
+  from: 熊本県
+  favorite:
+    - ひなたぼっこ
+  cv: 津田美波

@@ -1,0 +1,22 @@
+---
+hino_akane:
+  name:
+    first: 日野
+    first_kana: ひの
+    last: 茜
+    last_kana: あかね
+  type: passion
+  age: 17
+  birthday: 8/4
+  sign: 獅子座
+  blood: AB
+  height: 148.0
+  weight: 40.0
+  bust: 80
+  waist: 60
+  hip: 82
+  handed: right
+  from: 栃木県
+  favorite:
+    - ラグビー観戦
+  cv: 赤﨑千夏

@@ -1,0 +1,23 @@
+---
+anastasia:
+  name:
+    first: アナスタシア
+    first_kana: あなすたしあ
+    last: ~
+    last_kana: ~
+  type: cool
+  age: 15
+  birthday: 9/19
+  sign: 乙女座
+  blood: O
+  height: 165.0
+  weight: 43.0
+  bust: 80
+  waist: 54
+  hip: 80
+  handed: both
+  from: 北海道
+  favorite:
+    - ホームパーティー
+    - 天体観測
+  cv: 上坂すみれ

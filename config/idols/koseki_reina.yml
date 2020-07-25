@@ -1,0 +1,22 @@
+---
+koseki_reina:
+  name:
+    first: 小関
+    first_kana: こせき
+    last: 麗奈
+    last_kana: れいな
+  type: passion
+  age: 13
+  birthday: 3/5
+  sign: 魚座
+  blood: B
+  height: 148.0
+  weight: 41.0
+  bust: 75
+  waist: 50
+  hip: 77
+  handed: right
+  from: 山形県
+  favorite:
+    - いたずら
+  cv: 長野佑紀

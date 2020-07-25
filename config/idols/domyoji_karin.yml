@@ -1,0 +1,22 @@
+---
+domyoji_karin:
+  name:
+    first: 道明寺
+    first_kana: どうみょうじ
+    last: 歌鈴
+    last_kana: かりん
+  type: cute
+  age: 17
+  birthday: 1/1
+  sign: 山羊座
+  blood: A
+  height: 155.0
+  weight: 43.0
+  bust: 80
+  waist: 55
+  hip: 83
+  handed: right
+  from: 奈良県
+  favorite:
+    - 境内のお掃除
+  cv: 新田ひより

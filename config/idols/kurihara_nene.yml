@@ -1,0 +1,23 @@
+---
+kurihara_nene:
+  name:
+    first: 栗原
+    first_kana: くりはら
+    last: ネネ
+    last_kana: ねね
+  type: cute
+  age: 15
+  birthday: 9/9
+  sign: 乙女座
+  blood: A
+  height: 161.0
+  weight: 44.0
+  bust: 77
+  waist: 54
+  hip: 78
+  handed: right
+  from: 群馬県
+  favorite:
+    - テレビ鑑賞
+    - 健康作り
+  cv: ~

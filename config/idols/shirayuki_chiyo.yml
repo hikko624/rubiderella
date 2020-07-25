@@ -1,0 +1,23 @@
+---
+shirayuki_chiyo:
+  name:
+    first: 白雪
+    first_kana: しらゆき
+    last: 千夜
+    last_kana: ちよ
+  type: cute
+  age: 17
+  birthday: 2/14
+  sign: 水瓶座
+  blood: O
+  height: 157.0
+  weight: 40.0
+  bust: 72
+  waist: 52
+  hip: 74
+  handed: right
+  from: 北海道
+  favorite:
+    - 料理
+    - 睡眠
+  cv: 関口理咲

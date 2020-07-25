@@ -1,0 +1,24 @@
+---
+ichinose_shiki:
+  name:
+    first: 一ノ瀬
+    first_kana: いちのせ
+    last: 志希
+    last_kana: しき
+  type: cute
+  age: 18
+  birthday: 5/30
+  sign: 双子座
+  blood: O
+  height: 161.0
+  weight: 43.0
+  bust: 83
+  waist: 57
+  hip: 82
+  handed: right
+  from: 岩手県
+  favorite:
+    - 観察
+    - アヤしい科学実験
+    - 失踪
+  cv: 藍原ことみ

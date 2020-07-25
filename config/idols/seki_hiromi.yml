@@ -1,0 +1,22 @@
+---
+seki_hiromi:
+  name:
+    first: 関
+    first_kana: せき
+    last: 裕美
+    last_kana: ひろみ
+  type: cute
+  age: 14
+  birthday: 8/17
+  sign: 獅子座
+  blood: A
+  height: 155.0
+  weight: 43.0
+  bust: 78
+  waist: 55
+  hip: 80
+  handed: right
+  from: 富山県
+  favorite:
+    - アクセサリー作り
+  cv: 会沢紗弥

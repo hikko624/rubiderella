@@ -1,0 +1,22 @@
+---
+kita_hinako:
+  name:
+    first: 喜多
+    first_kana: きた
+    last: 日菜子
+    last_kana: ひなこ
+  type: passion
+  age: 15
+  birthday: 4/6
+  sign: 牡牛座
+  blood: AB
+  height: 151.0
+  weight: 38.0
+  bust: 78
+  waist: 56
+  hip: 78
+  handed: right
+  from: 秋田県
+  favorite:
+    - 妄想
+  cv: 深川芹亜

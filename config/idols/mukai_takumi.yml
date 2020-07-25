@@ -1,0 +1,22 @@
+---
+mukai_takumi:
+  name:
+    first: 向井
+    first_kana: むかい
+    last: 拓海
+    last_kana: たくみ
+  type: passion
+  age: 18
+  birthday: 8/7
+  sign: 獅子座
+  blood: A
+  height: 163.0
+  weight: 53.0
+  bust: 95
+  waist: 60
+  hip: 87
+  handed: right
+  from: 神奈川県
+  favorite:
+    - バイクいじり
+  cv: 原優子

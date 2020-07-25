@@ -1,0 +1,22 @@
+---
+yanagi_kiyora:
+  name:
+    first: 柳清
+    first_kana: やなぎ
+    last: 良
+    last_kana: きよら
+  type: cute
+  age: 23
+  birthday: 5/12
+  sign: 牡羊座
+  blood: O
+  height: 158.0
+  weight: 47.0
+  bust: 85
+  waist: 58
+  hip: 86
+  handed: right
+  from: 愛媛県
+  favorite:
+    - ドキュメンタリー番組鑑賞
+  cv: ~

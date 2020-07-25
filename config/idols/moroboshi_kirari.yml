@@ -1,0 +1,22 @@
+---
+moroboshi_kirari:
+  name:
+    first: 諸星
+    first_kana: もろぼし
+    last: きらり
+    last_kana: きらり
+  type: passion
+  age: 17
+  birthday: 9/1
+  sign: 乙女座
+  blood: O
+  height: 182.0
+  weight: 60.0
+  bust: 91
+  waist: 64
+  hip: 86
+  handed: right
+  from: 東京都
+  favorite:
+    - かわいいもの集め
+  cv: 松嵜麗

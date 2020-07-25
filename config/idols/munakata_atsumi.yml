@@ -1,0 +1,22 @@
+---
+munakata_atsumi:
+  name:
+    first: 棟方
+    first_kana: むなかた
+    last: 愛海
+    last_kana: あつみ
+  type: cute
+  age: 14
+  birthday: 8/1
+  sign: 獅子座
+  blood: A
+  height: 151.0
+  weight: 41.0
+  bust: 73
+  waist: 56
+  hip: 75
+  handed: both
+  from: 青森県
+  favorite:
+    - 指の運動
+  cv: 藤本彩花

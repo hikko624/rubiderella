@@ -1,0 +1,22 @@
+---
+soma_matsumi:
+  name:
+    first: 相馬
+    first_kana: そうま
+    last: 夏美
+    last_kana: なつみ
+  type: passion
+  age: 25
+  birthday: 7/23
+  sign: 獅子座
+  blood: A
+  height: 160.0
+  weight: 46.0
+  bust: 83
+  waist: 60
+  hip: 89
+  handed: right
+  from: 京都府
+  favorite:
+    - ランニング
+  cv: ~

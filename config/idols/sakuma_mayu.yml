@@ -1,0 +1,23 @@
+---
+sakuma_mayu:
+  name:
+    first: 佐久間
+    first_kana: さくま
+    last: まゆ
+    last_kana: まゆ
+  type: cute
+  age: 16
+  birthday: 9/7
+  sign: 乙女座
+  blood: B
+  height: 153.0
+  weight: 40.0
+  bust: 78
+  waist: 54
+  hip: 80
+  handed: both
+  from: 宮城県(仙台市)
+  favorite:
+    - お料理
+    - 編み物
+  cv: 牧野由依

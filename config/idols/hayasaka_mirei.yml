@@ -1,0 +1,22 @@
+---
+hayasaka_mirei:
+  name:
+    first: 早坂
+    first_kana: はやさか
+    last: 美玲
+    last_kana: みれい
+  type: cute
+  age: 14
+  birthday: 5/9
+  sign: 乙女座
+  blood: B
+  height: 147.0
+  weight: 39.0
+  bust: 75
+  waist: 54
+  hip: 77
+  handed: right
+  from: 宮城県
+  favorite:
+    - ぬいぐるみ集め
+  cv: 朝井彩加

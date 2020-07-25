@@ -1,0 +1,22 @@
+---
+egami_tsubaki:
+  name:
+    first: 江上
+    first_kana: えがみ
+    last: 椿
+    last_kana: つばき
+  type: cute
+  age: 19
+  birthday: 2/6
+  sign: 水瓶座
+  blood: A
+  height: 161.0
+  weight: 46.0
+  bust: 80
+  waist: 57
+  hip: 80
+  handed: right
+  from: 新潟県
+  favorite:
+    - 写真を撮ること
+  cv: ~

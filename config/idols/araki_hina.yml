@@ -1,0 +1,22 @@
+---
+araki_hina:
+  name:
+    first: 荒木
+    first_kana: あらき
+    last: 比奈
+    last_kana: ひな
+  type: cool
+  age: 20
+  birthday: 4/9
+  sign: 牡羊座
+  blood: A
+  height: 157.0
+  weight: 43.0
+  bust: 83
+  waist: 57
+  hip: 82
+  handed: right
+  from: 神奈川県
+  favorite:
+    - 漫画描く
+  cv: 田辺留依

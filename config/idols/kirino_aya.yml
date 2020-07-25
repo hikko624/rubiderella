@@ -1,0 +1,22 @@
+---
+kirino_aya:
+  name:
+    first: 桐野
+    first_kana: きりの
+    last: アヤ
+    last_kana: あや
+  type: cool
+  age: 19
+  birthday: 4/8
+  sign: 牡羊座
+  blood: A
+  height: 160.0
+  weight: 43.0
+  bust: 86
+  waist: 56
+  hip: 86
+  handed: right
+  from: 福岡県
+  favorite:
+    - 格闘技観戦
+  cv: ~

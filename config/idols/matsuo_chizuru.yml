@@ -1,0 +1,23 @@
+---
+matsuo_chizuru:
+  name:
+    first: 松尾
+    first_kana: まつお
+    last: 千鶴
+    last_kana: ちずる
+  type: cool
+  age: 15
+  birthday: 3/21
+  sign: 牡羊座
+  blood: A
+  height: 161.0
+  weight: 45.0
+  bust: 78
+  waist: 54
+  hip: 81
+  handed: right
+  from: 福岡県
+  favorite:
+    - 勉強
+    - 習字
+  cv: ~

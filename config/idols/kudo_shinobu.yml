@@ -1,0 +1,22 @@
+---
+kudo_shinobu:
+  name:
+    first: 工藤
+    first_kana: くどう
+    last: 忍
+    last_kana: しのぶ
+  type: cute
+  age: 16
+  birthday: 3/9
+  sign: 魚座
+  blood: A
+  height: 154.0
+  weight: 41.0
+  bust: 78
+  waist: 54
+  hip: 88
+  handed: right
+  from: 秋田県
+  favorite:
+    - メイク小物集め
+  cv: ~

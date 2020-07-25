@@ -1,0 +1,22 @@
+---
+aihara_yukino:
+  name:
+    first: 相原
+    first_kana: あいはら
+    last: 雪乃
+    last_kana: ゆきの
+  type: cute
+  age: 22
+  birthday: 2/14
+  sign: 水瓶座
+  blood: A
+  height: 160.0
+  weight: 51.0
+  bust: 92
+  waist: 58
+  hip: 90
+  handed: left
+  from: 秋田県
+  favorite:
+    - 紅茶
+  cv: ~

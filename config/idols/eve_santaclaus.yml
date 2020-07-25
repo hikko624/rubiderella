@@ -1,0 +1,22 @@
+---
+eve_santaclaus:
+  name:
+    first: イブ
+    first_kana: いぶ
+    last: サンタクロース
+    last_kana: さんたくろーす
+  type: passion
+  age: 19
+  birthday: 12/24
+  sign: 山羊座
+  blood: B
+  height: 165.0
+  weight: 44.0
+  bust: 81
+  waist: 56
+  hip: 80
+  handed: right
+  from: グリーンランド
+  favorite:
+    - 煙突探し
+  cv: ~

@@ -1,0 +1,23 @@
+---
+narumiya_yume:
+  name:
+    first: 成宮
+    first_kana: なるみや
+    last: 由愛
+    last_kana: ゆめ
+  type: cool
+  age: 13
+  birthday: 11/3
+  sign: 蠍座
+  blood: AB
+  height: 150.0
+  weight: 40.0
+  bust: 72
+  waist: 51
+  hip: 73
+  handed: both
+  from: 滋賀県
+  favorite:
+    - 写生
+    - 水彩画
+  cv: ~

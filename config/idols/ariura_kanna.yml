@@ -1,0 +1,22 @@
+---
+ariura_kanna:
+  name:
+    first: 有浦
+    first_kana: ありうら
+    last: 柑奈
+    last_kana: かんな
+  type: cute
+  age: 19
+  birthday: 3/6
+  sign: 魚座
+  blood: O
+  height: 155.0
+  weight: 44.0
+  bust: 78
+  waist: 57
+  hip: 80
+  handed: right
+  from: 長崎県
+  favorite:
+    - ラブ&ピース
+  cv: ~

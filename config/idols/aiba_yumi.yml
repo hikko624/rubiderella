@@ -1,0 +1,22 @@
+---
+aiba_yumi:
+  name:
+    first: 相葉
+    first_kana: あいば
+    last: 夕美
+    last_kana: ゆみ
+  type: passion
+  age: 18
+  birthday: 4/15
+  sign: 牡羊座
+  blood: O
+  height: 158.0
+  weight: 42.0
+  bust: 81
+  waist: 57
+  hip: 80
+  handed: right
+  from: 神奈川県
+  favorite:
+    - ガーデニング
+  cv: 木村珠莉

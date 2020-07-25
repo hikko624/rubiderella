@@ -1,0 +1,23 @@
+---
+etou_misaki:
+  name:
+    first: 衛藤
+    first_kana: えとう
+    last: 美紗希
+    last_kana: みさき
+  type: passion
+  age: 22
+  birthday: 3/18
+  sign: 魚座
+  blood: O
+  height: 160.0
+  weight: 45.0
+  bust: 84
+  waist: 56
+  hip: 80
+  handed: left
+  from: 大分県
+  favorite:
+    - 携帯小説
+    - 女子力アップ
+  cv: ~

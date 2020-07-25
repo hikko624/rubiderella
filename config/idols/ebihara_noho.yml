@@ -1,0 +1,23 @@
+---
+ebihara_naho:
+  name:
+    first: 海老原
+    first_kana: えびはら
+    last: 菜帆
+    last_kana: なほ
+  type: passion
+  age: 17
+  birthday: 8/3
+  sign: 獅子座
+  blood: O
+  height: 162.0
+  weight: 58.0
+  bust: 92
+  waist: 65
+  hip: 93
+  handed: right
+  from: 熊本県
+  favorite:
+    - 散歩
+    - 和菓子屋さん巡り
+  cv: ~

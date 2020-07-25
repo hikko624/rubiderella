@@ -1,0 +1,23 @@
+---
+koga_koharu:
+  name:
+    first: 古賀
+    first_kana: こが
+    last: 小春
+    last_kana: こはる
+  type: cute
+  age: 12
+  birthday: 4/1
+  sign: 牡羊座
+  blood: O
+  height: 140.0
+  weight: 35.0
+  bust: 72
+  waist: 54
+  hip: 77
+  handed: left
+  from: 佐賀県
+  favorite:
+    - イグアナのヒョウくんと遊ぶこと
+    - 家のお手伝い
+  cv: ~

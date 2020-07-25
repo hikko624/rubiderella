@@ -1,0 +1,22 @@
+---
+manaka_misato:
+  name:
+    first: 間中
+    first_kana: まなか
+    last: 美里
+    last_kana: みさと
+  type: cute
+  age: 20
+  birthday: 11/6
+  sign: 蠍座
+  blood: AB
+  height: 160.0
+  weight: 46.0
+  bust: 84
+  waist: 57
+  hip: 85
+  handed: right
+  from: 神奈川県
+  favorite:
+    - 旅行
+  cv: ~

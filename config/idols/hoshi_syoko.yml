@@ -1,0 +1,22 @@
+---
+hoshi_syoko:
+  name:
+    first: 星
+    first_kana: ほし
+    last: 輝子
+    last_kana: しょうこ
+  type: passion
+  age: 15
+  birthday: 6/6
+  sign: 双子座
+  blood: B
+  height: 142.0
+  weight: 35.0
+  bust: 73
+  waist: 53
+  hip: 75
+  handed: left
+  from: 福島県
+  favorite:
+    - キノコ栽培
+  cv: 松田颯水

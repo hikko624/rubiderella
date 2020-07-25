@@ -1,0 +1,24 @@
+---
+hisakawa_nagi:
+  name:
+    first: 久川
+    first_kana: ひさかわ
+    last: 凪
+    last_kana: なぎ
+  type: passion
+  age: 14
+  birthday: 6/16
+  sign: 双子座
+  blood: B
+  height: 150.0
+  weight: 40.0
+  bust: 76
+  waist: 56
+  hip: 80
+  handed: right
+  from: 徳島県
+  favorite:
+    - 写真
+    - ポエム
+    - 読書（新書）
+  cv: 立花日菜

@@ -1,0 +1,22 @@
+---
+layla:
+  name:
+    first: ライラ
+    first_kana: らいら
+    last: ~
+    last_kana: ~
+  type: cool
+  age: 16
+  birthday: 5/21
+  sign: 双子座
+  blood: O
+  height: 150.0
+  weight: 40.0
+  bust: 75
+  waist: 54
+  hip: 78
+  handed: right
+  from: ドバイ
+  favorite:
+    - 公園で知らない人とおしゃべり
+  cv: ~

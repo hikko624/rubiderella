@@ -1,0 +1,22 @@
+---
+imai_kana:
+  name:
+    first: 今井
+    first_kana: いまい
+    last: 加奈
+    last_kana: かな
+  type: cute
+  age: 16
+  birthday: 3/3
+  sign: 魚座
+  blood: O
+  height: 153.0
+  weight: 41.0
+  bust: 81
+  waist: 56
+  hip: 70
+  handed: right
+  from: 高知県
+  favorite:
+    - 友達とおしゃべり
+  cv: ~
