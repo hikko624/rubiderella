@@ -1,0 +1,22 @@
+---
+manabe_itsuki:
+  name:
+    first: 真鍋
+    first_kana: まなべ
+    last: いつき
+    last_kana: いつき
+  type: passion
+  age: 22
+  birthday: 12/29
+  sign: 山羊座
+  blood: O
+  height: 165.0
+  weight: 46.0
+  bust: 85
+  waist: 57
+  hip: 83
+  handed: right
+  from: 石川県
+  favorite:
+    - とにかく運動
+  cv: ~

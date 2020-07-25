@@ -1,0 +1,24 @@
+---
+komatsu_ibuki:
+  name:
+    first: 小松
+    first_kana: こまつ
+    last: 伊吹
+    last_kana: いぶき
+  type: passion
+  age: 19
+  birthday: 11/17
+  sign: 蠍座
+  blood: O
+  height: 165.0
+  weight: 48.0
+  bust: 85
+  waist: 59
+  hip: 88
+  handed: right
+  from: 茨城県
+  favorite:
+    - ストリートダンス
+    - スケボー
+    - 恋愛映画を見る事
+  cv: ~

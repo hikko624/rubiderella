@@ -1,0 +1,22 @@
+---
+hamakawa_ayuna:
+  name:
+    first: 浜川
+    first_kana: はまかわ
+    last: 愛結奈
+    last_kana: あゆな
+  type: passion
+  age: 22
+  birthday: 5/25
+  sign: 双子座
+  blood: B
+  height: 168.0
+  weight: 50.0
+  bust: 92
+  waist: 58
+  hip: 85
+  handed: right
+  from: 大阪府
+  favorite:
+    - 乗馬
+  cv: ~

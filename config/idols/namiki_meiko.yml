@@ -1,0 +1,22 @@
+---
+namiki_meiko:
+  name:
+    first: 並木
+    first_kana: なみき
+    last: 芽衣子
+    last_kana: めいこ
+  type: passion
+  age: 22
+  birthday: 10/14
+  sign: 天秤座
+  blood: AB
+  height: 160.0
+  weight: 44.0
+  bust: 80
+  waist: 57
+  hip: 82
+  handed: right
+  from: 和歌山県
+  favorite:
+    - 旅行
+  cv: ~

@@ -1,0 +1,22 @@
+---
+aino_nagisa:
+  name:
+    first: 愛野
+    first_kana: あいの
+    last: 渚
+    last_kana: なぎさ
+  type: passion
+  age: 18
+  birthday: 8/1
+  sign: 獅子座
+  blood: A
+  height: 163.0
+  weight: 47.0
+  bust: 84
+  waist: 58
+  hip: 85
+  handed: right
+  from: 愛知県
+  favorite:
+    - バスケットボール
+  cv: ~

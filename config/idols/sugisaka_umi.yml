@@ -1,0 +1,22 @@
+---
+sugisaka_umi:
+  name:
+    first: 杉坂
+    first_kana: すぎさか
+    last: 海
+    last_kana: うみ
+  type: passion
+  age: 18
+  birthday: 7/20
+  sign: 蟹座
+  blood: B
+  height: 162.0
+  weight: 45.0
+  bust: 88
+  waist: 58
+  hip: 86
+  handed: right
+  from: 山口県
+  favorite:
+    - ウィンドサーフィン
+  cv: ~

@@ -1,0 +1,22 @@
+---
+hori_yuko:
+  name:
+    first: 堀
+    first_kana: ほり
+    last: 裕子
+    last_kana: ゆうこ
+  type: passion
+  age: 16
+  birthday: 3/13
+  sign: 魚座
+  blood: O
+  height: 157.0
+  weight: 44.0
+  bust: 81
+  waist: 58
+  hip: 80
+  handed: right
+  from: 福井県
+  favorite:
+    - サイキックトレーニング
+  cv: 鈴木絵理

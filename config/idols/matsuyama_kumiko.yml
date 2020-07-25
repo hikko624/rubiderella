@@ -1,0 +1,22 @@
+---
+matsuyama_kumiko:
+  name:
+    first: 松山
+    first_kana: まつやま
+    last: 久美子
+    last_kana: くみこ
+  type: passion
+  age: 21
+  birthday: 1/21
+  sign: 水瓶座
+  blood: A
+  height: 161.0
+  weight: 44.0
+  bust: 81
+  waist: 56
+  hip: 81
+  handed: right
+  from: 神奈川県
+  favorite:
+    - ピアノ
+  cv: ~

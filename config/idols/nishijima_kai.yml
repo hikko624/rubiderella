@@ -1,0 +1,22 @@
+---
+nishijima_kai:
+  name:
+    first: 西島
+    first_kana: にしじま
+    last: 櫂
+    last_kana: かい
+  type: passion
+  age: 19
+  birthday: 8/17
+  sign: 獅子座
+  blood: O
+  height: 172.0
+  weight: 49.0
+  bust: 86
+  waist: 59
+  hip: 83
+  handed: right
+  from: 大阪府
+  favorite:
+    - 水族館巡り
+  cv: ~

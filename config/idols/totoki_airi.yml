@@ -1,0 +1,22 @@
+---
+totoki_airi:
+  name:
+    first: 十時
+    first_kana: ととき
+    last: 愛梨
+    last_kana: あいり
+  type: passion
+  age: 18
+  birthday: 12/8
+  sign: 射手座
+  blood: O
+  height: 161.0
+  weight: 46.0
+  bust: 86
+  waist: 58
+  hip: 88
+  handed: right
+  from: 秋田県
+  favorite:
+    - ケーキ作り
+  cv: 原田ひとみ

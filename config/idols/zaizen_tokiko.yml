@@ -1,0 +1,23 @@
+---
+zaizen_tokiko:
+  name:
+    first: 財前
+    first_kana: ざいぜん
+    last: 時子
+    last_kana: ときこ
+  type: passion
+  age: 21
+  birthday: 4/18
+  sign: 牡羊座
+  blood: B
+  height: 168.0
+  weight: 46.0
+  bust: 83
+  waist: 55
+  hip: 85
+  handed: right
+  from: 愛知県(名古屋市)
+  favorite:
+    - お仕置き
+    - 豚を料理すること
+  cv: ~

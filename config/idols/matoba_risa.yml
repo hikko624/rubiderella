@@ -1,0 +1,23 @@
+---
+matoba_risa:
+  name:
+    first: 的場
+    first_kana: まとば
+    last: 梨沙
+    last_kana: りさ
+  type: passion
+  age: 12
+  birthday: 11/19
+  sign: 蠍座
+  blood: B
+  height: 143.0
+  weight: 38.0
+  bust: 71
+  waist: 58
+  hip: 73
+  handed: right
+  from: 山口県
+  favorite:
+    - ダンス
+    - パパとデート
+  cv: 集貝はな

@@ -1,0 +1,22 @@
+---
+ryuzaki_kaoru:
+  name:
+    first: 龍崎
+    first_kana: りゅうざき
+    last: 薫
+    last_kana: かおる
+  type: passion
+  age: 9
+  birthday: 7/20
+  sign: 蟹座
+  blood: O
+  height: 132.0
+  weight: 32.0
+  bust: 65
+  waist: 51
+  hip: 70
+  handed: right
+  from: 愛媛県
+  favorite:
+    - 料理
+  cv: 春瀬なつみ

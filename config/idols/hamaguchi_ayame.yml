@@ -1,0 +1,24 @@
+---
+hamaguchi_ayame:
+  name:
+    first: 浜口
+    first_kana: はまぐち
+    last: あやめ
+    last_kana: あやめ
+  type: passion
+  age: 15
+  birthday: 1/13
+  sign: 山羊座
+  blood: A
+  height: 154.0
+  weight: 42.0
+  bust: 78
+  waist: 55
+  hip: 80
+  handed: left
+  from: 三重県
+  favorite:
+    - 時代劇鑑賞
+    - 忍者グッズ収集
+    - 撮影所巡り
+  cv: 田澤茉純

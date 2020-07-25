@@ -1,0 +1,22 @@
+---
+natalia:
+  name:
+    first: ナターリア
+    first_kana: なたーりあ
+    last: ~
+    last_kana: ~
+  type: passion
+  age: 14
+  birthday: 6/29
+  sign: 蟹座
+  blood: A
+  height: 155.0
+  weight: 43.0
+  bust: 84
+  waist: 55
+  hip: 86
+  handed: right
+  from: リオ・デ・ジャネイロ
+  favorite:
+    - ベリーダンス
+  cv: 生田輝

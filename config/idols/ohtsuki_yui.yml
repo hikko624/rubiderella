@@ -1,0 +1,22 @@
+---
+ohtsuki_yui:
+  name:
+    first: 大槻
+    first_kana: おおつき
+    last: 唯
+    last_kana: ゆい
+  type: passion
+  age: 17
+  birthday: 5/7
+  sign: 牡牛座
+  blood: B
+  height: 155.0
+  weight: 42.0
+  bust: 84
+  waist: 56
+  hip: 83
+  handed: left
+  from: 埼玉県
+  favorite:
+    - カラオケ
+  cv: 山下七海

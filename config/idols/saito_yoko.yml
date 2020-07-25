@@ -1,0 +1,22 @@
+---
+saito_yoko:
+  name:
+    first: 斉藤
+    first_kana: さいとう
+    last: 洋子
+    last_kana: ようこ
+  type: passion
+  age: 20
+  birthday: 12/29
+  sign: 山羊座
+  blood: O
+  height: 157.0
+  weight: 46.0
+  bust: 85
+  waist: 57
+  hip: 82
+  handed: right
+  from: 福岡県
+  favorite:
+    - 半身浴
+  cv: ~

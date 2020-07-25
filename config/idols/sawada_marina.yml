@@ -1,0 +1,22 @@
+---
+sawada_marina:
+  name:
+    first: 沢田
+    first_kana: さわだ
+    last: 麻理菜
+    last_kana: まりな
+  type: passion
+  age: 26
+  birthday: 5/6
+  sign: 牡牛座
+  blood: B
+  height: 166.0
+  weight: 47.0
+  bust: 87
+  waist: 57
+  hip: 87
+  handed: right
+  from: 長野県
+  favorite:
+    - サーフィン
+  cv: ~

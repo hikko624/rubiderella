@@ -1,0 +1,22 @@
+---
+himekawa_yuki:
+  name:
+    first: 姫川
+    first_kana: ひめかわ
+    last: 友紀
+    last_kana: ゆき
+  type: passion
+  age: 20
+  birthday: 9/14
+  sign: 乙女座
+  blood: A
+  height: 161.0
+  weight: 44.0
+  bust: 80
+  waist: 57
+  hip: 80
+  handed: right
+  from: 宮崎県
+  favorite:
+    - 野球観戦
+  cv: 杜野まこ

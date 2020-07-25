@@ -1,0 +1,23 @@
+---
+mary_cochran:
+  name:
+    first: メアリー
+    first_kana: めありー
+    last: コクラン
+    last_kana: こくらん
+  type: passion
+  age: 11
+  birthday: 1/19
+  sign: 山羊座
+  blood: B
+  height: 152.0
+  weight: 41.0
+  bust: 71
+  waist: 59
+  hip: 73
+  handed: left
+  from: アメリカ(サンフランシスコ)
+  favorite:
+    - 女磨き
+    - グルメツアー
+  cv: ~

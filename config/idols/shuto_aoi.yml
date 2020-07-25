@@ -1,0 +1,22 @@
+---
+shuto_aoi:
+  name:
+    first: 首藤
+    first_kana: しゅうとう
+    last: 葵
+    last_kana: あおい
+  type: passion
+  age: 13
+  birthday: 8/18
+  sign: 獅子座
+  blood: O
+  height: 145.0
+  weight: 39.0
+  bust: 73
+  waist: 53
+  hip: 75
+  handed: right
+  from: 大分県
+  favorite:
+    - 魚さばき
+  cv: ~

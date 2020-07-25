@@ -1,0 +1,24 @@
+---
+kitagawa_mahiro:
+  name:
+    first: 北川
+    first_kana: きたがわ
+    last: 真尋
+    last_kana: まひろ
+  type: passion
+  age: 17
+  birthday: 2/17
+  sign: 水瓶座
+  blood: O
+  height: 158.0
+  weight: 43.0
+  bust: 75
+  waist: 57
+  hip: 79
+  handed: right
+  from: 香川県
+  favorite:
+    - 走ること
+    - 食べること
+    - 寝ること
+  cv: ~

@@ -1,0 +1,22 @@
+---
+kimura_natsuki:
+  name:
+    first: 木村
+    first_kana: きむら
+    last: 夏樹
+    last_kana: なつき
+  type: passion
+  age: 18
+  birthday: 8/19
+  sign: 獅子座
+  blood: AB
+  height: 159.0
+  weight: 41.0
+  bust: 82
+  waist: 57
+  hip: 83
+  handed: left
+  from: 茨城県
+  favorite:
+    - ツーリング
+  cv: 安野希世乃

@@ -1,0 +1,22 @@
+---
+jougasaki_rika:
+  name:
+    first: 城ヶ崎
+    first_kana: じょうがさき
+    last: 莉嘉
+    last_kana: りか
+  type: passion
+  age: 12
+  birthday: 7/30
+  sign: 獅子座
+  blood: B
+  height: 149.0
+  weight: 36.0
+  bust: 72
+  waist: 54
+  hip: 75
+  handed: left
+  from: 埼玉県
+  favorite:
+    - シール集め
+  cv: 山本希望

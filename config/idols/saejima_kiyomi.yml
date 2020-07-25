@@ -1,0 +1,24 @@
+---
+saejima_kiyomi:
+  name:
+    first: 冴島
+    first_kana: さえじま
+    last: 清美
+    last_kana: きよみ
+  type: passion
+  age: 15
+  birthday: 9/26
+  sign: 天秤座
+  blood: A
+  height: 153.0
+  weight: 43.0
+  bust: 76
+  waist: 58
+  hip: 78
+  handed: right
+  from: 沖縄県
+  favorite:
+    - 掃除
+    - 整理整頓
+    - 腕章作り
+  cv: ~
