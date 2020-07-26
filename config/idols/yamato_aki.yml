@@ -1,10 +1,10 @@
 ---
 yamato_aki:
   name:
-    first: 大和
-    first_kana: やまと
-    last: 亜季
-    last_kana: あき
+    last: 大和
+    last_kana: やまと
+    first: 亜季
+    first_kana: あき
   type: cool
   age: 21
   birthday: 12/16

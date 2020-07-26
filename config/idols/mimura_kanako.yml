@@ -1,10 +1,10 @@
 ---
 mimura_kanako:
   name:
-    first: 三村
-    first_kana: みむら
-    last: かな子
-    last_kana: かなこ
+    last: 三村
+    last_kana: みむら
+    first: かな子
+    first_kana: かなこ
   type: cute
   age: 17
   birthday: 1/6

@@ -1,10 +1,10 @@
 ---
 sawada_marina:
   name:
-    first: 沢田
-    first_kana: さわだ
-    last: 麻理菜
-    last_kana: まりな
+    last: 沢田
+    last_kana: さわだ
+    first: 麻理菜
+    first_kana: まりな
   type: passion
   age: 26
   birthday: 5/6

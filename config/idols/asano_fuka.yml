@@ -1,10 +1,10 @@
 ---
 asano_fuka:
   name:
-    first: 浅野
-    first_kana: あさの
-    last: 風香
-    last_kana: ふうか
+    last: 浅野
+    last_kana: あさの
+    first: 風香
+    first_kana: ふうか
   type: cute
   age: 16
   birthday: 2/11

@@ -1,10 +1,10 @@
 ---
 morikubo_nono:
   name:
-    first: 森久保
-    first_kana: もりくぼ
-    last: 乃々
-    last_kana: のの
+    last: 森久保
+    last_kana: もりくぼ
+    first: 乃々
+    first_kana: のの
   type: cool
   age: 14
   birthday: 8/27

@@ -1,10 +1,10 @@
 ---
 mizumoto_yukari:
   name:
-    first: 水本
-    first_kana: みずもと
-    last: ゆかり
-    last_kana: ゆかり
+    last: 水本
+    last_kana: みずもと
+    first: ゆかり
+    first_kana: ゆかり
   type: cute
   age: 15
   birthday: 10/18

@@ -1,10 +1,10 @@
 ---
 sena_shiori:
   name:
-    first: 瀬名
-    first_kana: せな
-    last: 詩織
-    last_kana: しおり
+    last: 瀬名
+    last_kana: せな
+    first: 詩織
+    first_kana: しおり
   type: cool
   age: 19
   birthday: 1/10

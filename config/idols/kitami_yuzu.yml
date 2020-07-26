@@ -1,10 +1,10 @@
 ---
 kitami_yuzu:
   name:
-    first: 喜多見
-    first_kana: きたみ
-    last: 柚
-    last_kana: ゆず
+    last: 喜多見
+    last_kana: きたみ
+    first: 柚
+    first_kana: ゆず
   type: passion
   age: 15
   birthday: 12/2

@@ -1,10 +1,10 @@
 ---
 tsukimiya_miyabi:
   name:
-    first: 月宮
-    first_kana: つきみや
-    last: 雅
-    last_kana: みやび
+    last: 月宮
+    last_kana: つきみや
+    first: 雅
+    first_kana: みやび
   type: cute
   age: 18
   birthday: 10/30

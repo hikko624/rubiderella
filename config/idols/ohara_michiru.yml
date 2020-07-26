@@ -1,10 +1,10 @@
 ---
 ohara_michiru:
   name:
-    first: 大原
-    first_kana: おおはら
-    last: みちる
-    last_kana: みちる
+    last: 大原
+    last_kana: おおはら
+    first: みちる
+    first_kana: みちる
   type: cute
   age: 15
   birthday: 4/12

@@ -1,10 +1,10 @@
 ---
 miyamoto_frederica:
   name:
-    first: 宮本
-    first_kana: みやもと
-    last: フレデリカ
-    last_kana: ふれでりか
+    last: 宮本
+    last_kana: みやもと
+    first: フレデリカ
+    first_kana: ふれでりか
   type: cute
   age: 19
   birthday: 2/14

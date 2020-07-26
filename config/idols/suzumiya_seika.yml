@@ -1,10 +1,10 @@
 ---
 suzumiya_seika:
   name:
-    first: 涼宮
-    first_kana: すずみや
-    last: 星花
-    last_kana: せいか
+    last: 涼宮
+    last_kana: すずみや
+    first: 星花
+    first_kana: せいか
   type: cute
   age: 19
   birthday: 8/28

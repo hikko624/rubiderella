@@ -1,10 +1,10 @@
 ---
 saionji_kotoka:
   name:
-    first: 西園寺
-    first_kana: さいおんじ
-    last: 琴歌
-    last_kana: ことは
+    last: 西園寺
+    last_kana: さいおんじ
+    first: 琴歌
+    first_kana: ことは
   type: cute
   age: 17
   birthday: 1/23

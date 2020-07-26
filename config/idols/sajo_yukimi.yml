@@ -1,10 +1,10 @@
 ---
 sajo_yukimi:
   name:
-    first: 佐城
-    first_kana: さじょう
-    last: 雪美
-    last_kana: ゆきみ
+    last: 佐城
+    last_kana: さじょう
+    first: 雪美
+    first_kana: ゆきみ
   type: cool
   age: 10
   birthday: 9/28

@@ -1,10 +1,10 @@
 ---
 shuto_aoi:
   name:
-    first: 首藤
-    first_kana: しゅうとう
-    last: 葵
-    last_kana: あおい
+    last: 首藤
+    last_kana: しゅうとう
+    first: 葵
+    first_kana: あおい
   type: passion
   age: 13
   birthday: 8/18

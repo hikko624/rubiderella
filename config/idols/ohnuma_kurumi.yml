@@ -1,10 +1,10 @@
 ---
 ohnuma_kurumi:
   name:
-    first: 大沼
-    first_kana: おおぬま
-    last: くるみ
-    last_kana: くるみ
+    last: 大沼
+    last_kana: おおぬま
+    first: くるみ
+    first_kana: くるみ
   type: cute
   age: 13
   birthday: 3/30

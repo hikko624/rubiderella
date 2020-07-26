@@ -1,10 +1,10 @@
 ---
 kate:
   name:
-    first: ケイト
-    first_kana: けいと
     last: ~
     last_kana: ~
+    first: ケイト
+    first_kana: けいと
   type: cool
   age: 20
   birthday: 8/15

@@ -1,10 +1,10 @@
 ---
 sato_shin:
   name:
-    first: 佐藤
-    first_kana: さとう
-    last: 心
-    last_kana: しん
+    last: 佐藤
+    last_kana: さとう
+    first: 心
+    first_kana: しん
   type: passion
   age: 26
   birthday: 7/22

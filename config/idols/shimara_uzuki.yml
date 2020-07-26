@@ -1,10 +1,10 @@
 ---
 shimamura_uzuki:
   name:
-    first: 島村
-    first_kana: しまむら
-    last: 卯月
-    last_kana: うずき
+    last: 島村
+    last_kana: しまむら
+    first: 卯月
+    first_kana: うずき
   type: cute
   age: 17
   birthday: 4/24

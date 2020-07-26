@@ -1,10 +1,10 @@
 ---
 kobayakawa_sae:
   name:
-    first: 小早川
-    first_kana: こばやかわ
-    last: 紗枝
-    last_kana: さえ
+    last: 小早川
+    last_kana: こばやかわ
+    first: 紗枝
+    first_kana: さえ
   type: cute
   age: 15
   birthday: 10/18

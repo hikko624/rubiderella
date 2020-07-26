@@ -1,10 +1,10 @@
 ---
 shiina_noriko:
   name:
-    first: 椎名
-    first_kana: しいな
-    last: 法子
-    last_kana: のりこ
+    last: 椎名
+    last_kana: しいな
+    first: 法子
+    first_kana: のりこ
   type: cute
   age: 13
   birthday: 10/10

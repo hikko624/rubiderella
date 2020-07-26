@@ -1,10 +1,10 @@
 ---
 tsuchiya_ako:
   name:
-    first: 土屋
-    first_kana: つちや
-    last: 亜子
-    last_kana: あこ
+    last: 土屋
+    last_kana: つちや
+    first: 亜子
+    first_kana: あこ
   type: passion
   age: 15
   birthday: 5/2

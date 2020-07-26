@@ -1,10 +1,10 @@
 ---
 koga_koharu:
   name:
-    first: 古賀
-    first_kana: こが
-    last: 小春
-    last_kana: こはる
+    last: 古賀
+    last_kana: こが
+    first: 小春
+    first_kana: こはる
   type: cute
   age: 12
   birthday: 4/1

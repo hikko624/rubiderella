@@ -1,10 +1,10 @@
 ---
 namba_emi:
   name:
-    first: 難波
-    first_kana: なんば
-    last: 笑美
-    last_kana: えみ
+    last: 難波
+    last_kana: なんば
+    first: 笑美
+    first_kana: えみ
   type: passion
   age: 17
   birthday: 5/1

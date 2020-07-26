@@ -1,10 +1,10 @@
 ---
 ohishi_izumi:
   name:
-    first: 大石
-    first_kana: おおいし
-    last: 泉
-    last_kana: いずみ
+    last: 大石
+    last_kana: おおいし
+    first: 泉
+    first_kana: いずみ
   type: cool
   age: 15
   birthday: 11/11

@@ -1,10 +1,10 @@
 ---
 cathy_graham:
   name:
-    first: キャシー
-    first_kana: きゃしー
     last: グラハム
     last_kana: ぐらはむ
+    first: キャシー
+    first_kana: きゃしー
   type: passion
   age: 15
   birthday: 9/19

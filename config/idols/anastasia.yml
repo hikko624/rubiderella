@@ -1,10 +1,10 @@
 ---
 anastasia:
   name:
-    first: アナスタシア
-    first_kana: あなすたしあ
     last: ~
     last_kana: ~
+    first: アナスタシア
+    first_kana: あなすたしあ
   type: cool
   age: 15
   birthday: 9/19

@@ -1,10 +1,10 @@
 ---
 takafuji_kako:
   name:
-    first: 鷹富士
-    first_kana: たかふじ
-    last: 茄子
-    last_kana: かこ
+    last: 鷹富士
+    last_kana: たかふじ
+    first: 茄子
+    first_kana: かこ
   type: cool
   age: 20
   birthday: 1/1

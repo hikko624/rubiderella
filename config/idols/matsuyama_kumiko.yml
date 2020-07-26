@@ -1,10 +1,10 @@
 ---
 matsuyama_kumiko:
   name:
-    first: 松山
-    first_kana: まつやま
-    last: 久美子
-    last_kana: くみこ
+    last: 松山
+    last_kana: まつやま
+    first: 久美子
+    first_kana: くみこ
   type: passion
   age: 21
   birthday: 1/21

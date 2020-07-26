@@ -1,10 +1,10 @@
 ---
 sugisaka_umi:
   name:
-    first: 杉坂
-    first_kana: すぎさか
-    last: 海
-    last_kana: うみ
+    last: 杉坂
+    last_kana: すぎさか
+    first: 海
+    first_kana: うみ
   type: passion
   age: 18
   birthday: 7/20

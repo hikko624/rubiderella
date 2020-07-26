@@ -1,10 +1,10 @@
 ---
 momoi_azuki:
   name:
-    first: 桃井
-    first_kana: ももい
-    last: あずき
-    last_kana: あずき
+    last: 桃井
+    last_kana: ももい
+    first: あずき
+    first_kana: あずき
   type: cute
   age: 15
   birthday: 7/7

@@ -1,10 +1,10 @@
 ---
 kurosaki_chitose:
   name:
-    first: 黒埼
-    first_kana: くろさき
-    last: ちとせ
-    last_kana: ちとせ
+    last: 黒埼
+    last_kana: くろさき
+    first: ちとせ
+    first_kana: ちとせ
   type: cute
   age: 17
   birthday: 11/10

@@ -1,10 +1,10 @@
 ---
 hojo_karen:
   name:
-    first: 北条
-    first_kana: ほうじょう
-    last: 加蓮
-    last_kana: かれん
+    last: 北条
+    last_kana: ほうじょう
+    first: 加蓮
+    first_kana: かれん
   type: cool
   age: 16
   birthday: 9/5

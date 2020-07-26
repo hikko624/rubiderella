@@ -1,10 +1,10 @@
 ---
 kanzaki_ranko:
   name:
-    first: 神崎
-    first_kana: かんざき
-    last: 蘭子
-    last_kana: らんこ
+    last: 神崎
+    last_kana: かんざき
+    first: 蘭子
+    first_kana: らんこ
   type: cool
   age: 14
   birthday: 4/8

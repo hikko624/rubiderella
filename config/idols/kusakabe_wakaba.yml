@@ -1,10 +1,10 @@
 ---
 kusakabe_wakaba:
   name:
-    first: 日下部
-    first_kana: くさかべ
-    last: 若葉
-    last_kana: わかば
+    last: 日下部
+    last_kana: くさかべ
+    first: 若葉
+    first_kana: わかば
   type: cute
   age: 20
   birthday: 5/4

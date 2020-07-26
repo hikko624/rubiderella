@@ -1,10 +1,10 @@
 ---
 ichihara_nina:
   name:
-    first: 市原
-    first_kana: いちはら
-    last: 仁奈
-    last_kana: にな
+    last: 市原
+    last_kana: いちはら
+    first: 仁奈
+    first_kana: にな
   type: passion
   age: 9
   birthday: 2/8

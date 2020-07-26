@@ -1,10 +1,10 @@
 ---
 honda_mio:
   name:
-    first: 本田
-    first_kana: ほんだ
-    last: 未央
-    last_kana: みお
+    last: 本田
+    last_kana: ほんだ
+    first: 未央
+    first_kana: みお
   type: passion
   age: 15
   birthday: 12/1

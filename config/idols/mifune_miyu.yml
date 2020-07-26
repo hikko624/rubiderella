@@ -1,10 +1,10 @@
 ---
 mifune_miyu:
   name:
-    first: 三船
-    first_kana: みふね
-    last: 美優
-    last_kana: みゆ
+    last: 三船
+    last_kana: みふね
+    first: 美優
+    first_kana: みゆ
   type: cool
   age: 26
   birthday: 2/25

@@ -1,10 +1,10 @@
 ---
 clarice:
   name:
-    first: クラリス
-    first_kana: くらりす
     last: ~
     last_kana: ~
+    first: クラリス
+    first_kana: くらりす
   type: cute
   age: 20
   birthday: 8/26

@@ -1,10 +1,10 @@
 ---
 yusa_kozue:
   name:
-    first: 遊佐
-    first_kana: ゆさ
-    last: こずえ
-    last_kana: こずえ
+    last: 遊佐
+    last_kana: ゆさ
+    first: こずえ
+    first_kana: こずえ
   type: cute
   age: 11
   birthday: 2/19

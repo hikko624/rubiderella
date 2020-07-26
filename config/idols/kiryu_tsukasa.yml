@@ -1,10 +1,10 @@
 ---
 kiryu_tsukasa:
   name:
-    first: 桐生
-    first_kana: きりゅう
-    last: つかさ
-    last_kana: つかさ
+    last: 桐生
+    last_kana: きりゅう
+    first: つかさ
+    first_kana: つかさ
   type: cool
   age: 18
   birthday: 2/24

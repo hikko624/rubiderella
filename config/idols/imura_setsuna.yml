@@ -1,10 +1,10 @@
 ---
 imura_setsuna:
   name:
-    first: 井村
-    first_kana: いむら
-    last: 雪菜
-    last_kana: せつな
+    last: 井村
+    last_kana: いむら
+    first: 雪菜
+    first_kana: せつな
   type: cute
   age: 17
   birthday: 8/27

@@ -1,10 +1,10 @@
 ---
 shiomi_syuko:
   name:
-    first: 塩見
-    first_kana: しおみ
-    last: 周子
-    last_kana: しゅうこ
+    last: 塩見
+    last_kana: しおみ
+    first: 周子
+    first_kana: しゅうこ
   type: cool
   age: 18
   birthday: 12/12

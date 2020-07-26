@@ -1,10 +1,10 @@
 ---
 matsuo_chizuru:
   name:
-    first: 松尾
-    first_kana: まつお
-    last: 千鶴
-    last_kana: ちずる
+    last: 松尾
+    last_kana: まつお
+    first: 千鶴
+    first_kana: ちずる
   type: cool
   age: 15
   birthday: 3/21

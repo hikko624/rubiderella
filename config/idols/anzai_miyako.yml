@@ -1,10 +1,10 @@
 ---
 anzai_miyako:
   name:
-    first: 安斎
-    first_kana: あんざい
-    last: 都
-    last_kana: みやこ
+    last: 安斎
+    last_kana: あんざい
+    first: 都
+    first_kana: みやこ
   type: cute
   age: 16
   birthday: 1/6

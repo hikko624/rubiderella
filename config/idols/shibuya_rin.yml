@@ -1,10 +1,10 @@
 ---
 shibuya_rin:
   name:
-    first: 渋谷
-    first_kana: しぶや
-    last: 凛
-    last_kana: りん
+    last: 渋谷
+    last_kana: しぶや
+    first: 凛
+    first_kana: りん
   type: cool
   age: 15
   birthday: 8/10
