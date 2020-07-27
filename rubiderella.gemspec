@@ -26,6 +26,11 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.add_dependency 'activesupport'
 
+  spec.add_development_dependency 'rubocop'
   spec.add_development_dependency 'pry'
   spec.add_development_dependency 'pry-byebug'
+  spec.add_development_dependency 'rspec'
+  spec.add_development_dependency 'rspec-parameterized'
+  spec.add_development_dependency 'simplecov'
+  spec.add_development_dependency 'codecov'
 end

@@ -5,7 +5,7 @@ module Rubiderella
     include Singleton
 
     def self.method_missing(symbol, *args)
-      return Rubiderella::Idol.find_by_name(symbol) if Rubiderella::Idol.valid?(symbol)
+      return Rubiderella::Idol.find_by_key(symbol) if Rubiderella::Idol.valid?(symbol)
       Rubiderella::Idol.send(symbol, *args)
     end
   end

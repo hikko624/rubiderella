@@ -1,5 +1,18 @@
+if ENV["CI"]
+  require 'simplecov'
+  require 'codecov'
+  SimpleCov.formatter = SimpleCov::Formatter::Codecov
+  SimpleCov.start do
+    %w[spec].each do |path|
+      add_filter(path)
+    end
+  end
+end
+
 require "bundler/setup"
 require "rubiderella"
+require "rspec"
+require 'rspec-parameterized'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

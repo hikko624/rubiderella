@@ -1,4 +1,5 @@
 module Rubiderella
+
   class Idol
     attr_reader :name, :type, :age, :birthday, :sign, :blood, :height, :weight, :bust, :waist, :hip, :handed, :from,
                 :favorite, :cv
@@ -47,13 +48,9 @@ module Rubiderella
         end
       end
 
-      def find_by_name(name)
-        begin
-          raise UnknownIdolError unless valid?(name)
-          new(@config[name])
-        rescue => e
-          "#{e}, Unknown Idol: #{name}"
-        end
+      def find_by_key(name)
+        raise UnknownIdolError unless valid?(name)
+        new(@config[name])
       end
     end
   end
