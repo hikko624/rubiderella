@@ -1,10 +1,10 @@
 ---
 abe_nana:
   name:
-    first: 安部
-    first_kana: あべ
-    last: 菜々
-    last_kana: なな
+    last: 安部
+    last_kana: あべ
+    first: 菜々
+    first_kana: なな
   type: cute
   age: 永遠の17歳
   birthday: 5/5

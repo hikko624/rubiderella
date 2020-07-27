@@ -1,10 +1,10 @@
 ---
 asari_nanami:
   name:
-    first: 浅利
-    first_kana: あさり
-    last: 七海
-    last_kana: ななみ
+    last: 浅利
+    last_kana: あさり
+    first: 七海
+    first_kana: ななみ
   type: cool
   age: 14
   birthday: 10/9

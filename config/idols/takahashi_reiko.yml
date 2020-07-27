@@ -1,10 +1,10 @@
 ---
 takahashi_reiko:
   name:
-    first: 高橋
-    first_kana: たかはし
-    last: 礼子
-    last_kana: れいこ
+    last: 高橋
+    last_kana: たかはし
+    first: 礼子
+    first_kana: れいこ
   type: cool
   age: 31
   birthday: 5/8

@@ -1,9 +1,8 @@
 RSpec.describe Rubiderella do
-  it "has a version number" do
-    expect(Rubiderella::VERSION).not_to be nil
-  end
-
-  it "does something useful" do
-    expect(false).to eq(true)
+  let(:idols) { Cinderella.all }
+  describe 'Cinderella Module' do
+    it 'Cinderella Idols Count' do
+      expect(idols.count).to eq(190)
+    end
   end
 end

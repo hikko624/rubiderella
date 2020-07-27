@@ -1,10 +1,10 @@
 ---
 nonomura_sora:
   name:
-    first: 野々村
-    first_kana: ののむら
-    last: そら
-    last_kana: そら
+    last: 野々村
+    last_kana: ののむら
+    first: そら
+    first_kana: そら
   type: passion
   age: 15
   birthday: 1/3

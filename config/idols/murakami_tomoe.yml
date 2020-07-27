@@ -1,10 +1,10 @@
 ---
 murakami_tomoe:
   name:
-    first: 村上
-    first_kana: むらかみ
-    last: 巴
-    last_kana: ともえ
+    last: 村上
+    last_kana: むらかみ
+    first: 巴
+    first_kana: ともえ
   type: passion
   age: 13
   birthday: 1/3

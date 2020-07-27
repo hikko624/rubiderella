@@ -1,10 +1,10 @@
 ---
 takamine_noa:
   name:
-    first: 高峯
-    first_kana: たかみね
-    last: のあ
-    last_kana: のあ
+    last: 高峯
+    last_kana: たかみね
+    first: のあ
+    first_kana: のあ
   type: cool
   age: 24
   birthday: 3/25

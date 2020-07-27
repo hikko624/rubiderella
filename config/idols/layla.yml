@@ -1,10 +1,10 @@
 ---
 layla:
   name:
-    first: ライラ
-    first_kana: らいら
     last: ~
     last_kana: ~
+    first: ライラ
+    first_kana: らいら
   type: cool
   age: 16
   birthday: 5/21

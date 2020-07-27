@@ -1,10 +1,10 @@
 ---
 muramatsu_sakura:
   name:
-    first: 村松
-    first_kana: むらまつ
-    last: さくら
-    last_kana: さくら
+    last: 村松
+    last_kana: むらまつ
+    first: さくら
+    first_kana: さくら
   type: cute
   age: 15
   birthday: 3/27

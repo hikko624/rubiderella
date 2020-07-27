@@ -1,10 +1,10 @@
 ---
 ujiie_mutsumi:
   name:
-    first: 氏家
-    first_kana: うじいえ
-    last: むつみ
-    last_kana: むつみ
+    last: 氏家
+    last_kana: うじいえ
+    first: むつみ
+    first_kana: むつみ
   type: cool
   age: 13
   birthday: 7/13

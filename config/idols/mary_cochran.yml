@@ -1,10 +1,10 @@
 ---
 mary_cochran:
   name:
-    first: メアリー
-    first_kana: めありー
     last: コクラン
     last_kana: こくらん
+    first: メアリー
+    first_kana: めありー
   type: passion
   age: 11
   birthday: 1/19

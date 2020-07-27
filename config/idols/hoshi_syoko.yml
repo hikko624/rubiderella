@@ -1,10 +1,10 @@
 ---
 hoshi_syoko:
   name:
-    first: 星
-    first_kana: ほし
-    last: 輝子
-    last_kana: しょうこ
+    last: 星
+    last_kana: ほし
+    first: 輝子
+    first_kana: しょうこ
   type: passion
   age: 15
   birthday: 6/6

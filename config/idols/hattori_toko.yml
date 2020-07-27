@@ -1,10 +1,10 @@
 ---
 hattori_toko:
   name:
-    first: 服部
-    first_kana: はっとり
-    last: 瞳子
-    last_kana: とうこ
+    last: 服部
+    last_kana: はっとり
+    first: 瞳子
+    first_kana: とうこ
   type: cool
   age: 25
   birthday: 10/11

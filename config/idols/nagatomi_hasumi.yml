@@ -1,10 +1,10 @@
 ---
 nagatomi_hasumi:
   name:
-    first: 長富
-    first_kana: ながとみ
-    last: 蓮実
-    last_kana: はすみ
+    last: 長富
+    last_kana: ながとみ
+    first: 蓮実
+    first_kana: はすみ
   type: cute
   age: 16
   birthday: 3/19

@@ -1,10 +1,10 @@
 ---
 matsunaga_ryo:
   name:
-    first: 松永
-    first_kana: まつなが
-    last: 涼
-    last_kana: りょう
+    last: 松永
+    last_kana: まつなが
+    first: 涼
+    first_kana: りょう
   type: cool
   age: 18
   birthday: 10/1

@@ -1,10 +1,10 @@
 ---
 kudo_shinobu:
   name:
-    first: 工藤
-    first_kana: くどう
-    last: 忍
-    last_kana: しのぶ
+    last: 工藤
+    last_kana: くどう
+    first: 忍
+    first_kana: しのぶ
   type: cute
   age: 16
   birthday: 3/9

@@ -1,10 +1,10 @@
 ---
 saito_yoko:
   name:
-    first: 斉藤
-    first_kana: さいとう
-    last: 洋子
-    last_kana: ようこ
+    last: 斉藤
+    last_kana: さいとう
+    first: 洋子
+    first_kana: ようこ
   type: passion
   age: 20
   birthday: 12/29

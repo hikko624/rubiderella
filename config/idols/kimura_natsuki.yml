@@ -1,10 +1,10 @@
 ---
 kimura_natsuki:
   name:
-    first: 木村
-    first_kana: きむら
-    last: 夏樹
-    last_kana: なつき
+    last: 木村
+    last_kana: きむら
+    first: 夏樹
+    first_kana: なつき
   type: passion
   age: 18
   birthday: 8/19

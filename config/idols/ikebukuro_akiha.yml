@@ -1,10 +1,10 @@
 ---
 ikebukuro_akiha:
   name:
-    first: 池袋
-    first_kana: いけぶくろ
-    last: 晶葉
-    last_kana: あきは
+    last: 池袋
+    last_kana: いけぶくろ
+    first: 晶葉
+    first_kana: あきは
   type: cute
   age: 14
   birthday: 6/10

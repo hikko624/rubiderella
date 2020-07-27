@@ -1,10 +1,10 @@
 ---
 mizuno_midori:
   name:
-    first: 水野
-    first_kana: みずの
-    last: 翠
-    last_kana: みどり
+    last: 水野
+    last_kana: みずの
+    first: 翠
+    first_kana: みどり
   type: cool
   age: 18
   birthday: 12/5

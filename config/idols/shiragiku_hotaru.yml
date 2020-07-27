@@ -1,10 +1,10 @@
 ---
 shiragiku_hotaru:
   name:
-    first: 白菊
-    first_kana: しらぎく
-    last: ほたる
-    last_kana: ほたる
+    last: 白菊
+    last_kana: しらぎく
+    first: ほたる
+    first_kana: ほたる
   type: cute
   age: 13
   birthday: 4/19

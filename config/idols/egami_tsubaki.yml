@@ -1,10 +1,10 @@
 ---
 egami_tsubaki:
   name:
-    first: 江上
-    first_kana: えがみ
-    last: 椿
-    last_kana: つばき
+    last: 江上
+    last_kana: えがみ
+    first: 椿
+    first_kana: つばき
   type: cute
   age: 19
   birthday: 2/6

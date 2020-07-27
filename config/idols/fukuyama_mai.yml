@@ -1,10 +1,10 @@
 ---
 fukuyama_mai:
   name:
-    first: 福山
-    first_kana: ふくやま
-    last: 舞
-    last_kana: まい
+    last: 福山
+    last_kana: ふくやま
+    first: 舞
+    first_kana: まい
   type: cute
   age: 10
   birthday: 1/21

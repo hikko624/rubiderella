@@ -1,10 +1,10 @@
 ---
 totoki_airi:
   name:
-    first: 十時
-    first_kana: ととき
-    last: 愛梨
-    last_kana: あいり
+    last: 十時
+    last_kana: ととき
+    first: 愛梨
+    first_kana: あいり
   type: passion
   age: 18
   birthday: 12/8

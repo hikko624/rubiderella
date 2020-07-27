@@ -1,10 +1,10 @@
 ---
 harada_miyo:
   name:
-    first: 原田
-    first_kana: はらだ
-    last: 美世
-    last_kana: みよ
+    last: 原田
+    last_kana: はらだ
+    first: 美世
+    first_kana: みよ
   type: cute
   age: 20
   birthday: 11/14

@@ -1,10 +1,10 @@
 ---
 yagami_makino:
   name:
-    first: 八神
-    first_kana: やがみ
-    last: マキノ
-    last_kana: まきの
+    last: 八神
+    last_kana: やがみ
+    first: マキノ
+    first_kana: まきの
   type: cool
   age: 18
   birthday: 11/7

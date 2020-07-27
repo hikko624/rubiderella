@@ -1,10 +1,10 @@
 ---
 hino_akane:
   name:
-    first: 日野
-    first_kana: ひの
-    last: 茜
-    last_kana: あかね
+    last: 日野
+    last_kana: ひの
+    first: 茜
+    first_kana: あかね
   type: passion
   age: 17
   birthday: 8/4

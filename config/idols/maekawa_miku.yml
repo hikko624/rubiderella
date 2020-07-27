@@ -1,10 +1,10 @@
 ---
 maekawa_miku:
   name:
-    first: 前川
-    first_kana: まえかわ
-    last: みく
-    last_kana: みく
+    last: 前川
+    last_kana: まえかわ
+    first: みく
+    first_kana: みく
   type: cute
   age: 15
   birthday: 2/22

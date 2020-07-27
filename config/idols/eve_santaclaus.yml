@@ -1,10 +1,10 @@
 ---
 eve_santaclaus:
   name:
-    first: イブ
-    first_kana: いぶ
     last: サンタクロース
     last_kana: さんたくろーす
+    first: イブ
+    first_kana: いぶ
   type: passion
   age: 19
   birthday: 12/24

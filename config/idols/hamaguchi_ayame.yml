@@ -1,10 +1,10 @@
 ---
 hamaguchi_ayame:
   name:
-    first: 浜口
-    first_kana: はまぐち
-    last: あやめ
-    last_kana: あやめ
+    last: 浜口
+    last_kana: はまぐち
+    first: あやめ
+    first_kana: あやめ
   type: passion
   age: 15
   birthday: 1/13

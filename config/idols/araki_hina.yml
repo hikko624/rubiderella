@@ -1,10 +1,10 @@
 ---
 araki_hina:
   name:
-    first: 荒木
-    first_kana: あらき
-    last: 比奈
-    last_kana: ひな
+    last: 荒木
+    last_kana: あらき
+    first: 比奈
+    first_kana: ひな
   type: cool
   age: 20
   birthday: 4/9

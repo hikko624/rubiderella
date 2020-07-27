@@ -1,10 +1,10 @@
 ---
 matsubara_saya:
   name:
-    first: 松原
-    first_kana: まつばら
-    last: 早耶
-    last_kana: さや
+    last: 松原
+    last_kana: まつばら
+    first: 早耶
+    first_kana: さや
   type: cute
   age: 18
   birthday: 12/28

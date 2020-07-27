@@ -1,10 +1,10 @@
 ---
 nitta_minami:
   name:
-    first: 新田
-    first_kana: にった
-    last: 美波
-    last_kana: みなみ
+    last: 新田
+    last_kana: にった
+    first: 美波
+    first_kana: みなみ
   type: cool
   age: 19
   birthday: 7/27

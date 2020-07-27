@@ -1,10 +1,10 @@
 ---
 sunazuka_akira:
   name:
-    first: 砂塚
-    first_kana: すなづか
-    last: あきら
-    last_kana: あきら
+    last: 砂塚
+    last_kana: すなづか
+    first: あきら
+    first_kana: あきら
   type: cool
   age: 15
   birthday: 10/7

@@ -1,10 +1,10 @@
 ---
 fujii_tomo:
   name:
-    first: 藤居
-    first_kana: ふじい
-    last: 朋
-    last_kana: とも
+    last: 藤居
+    last_kana: ふじい
+    first: 朋
+    first_kana: とも
   type: cool
   age: 19
   birthday: 7/1

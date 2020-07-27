@@ -1,10 +1,10 @@
 ---
 hyodo_rena:
   name:
-    first: 兵藤
-    first_kana: ひょうどう
-    last: レナ
-    last_kana: れな
+    last: 兵藤
+    last_kana: ひょうどう
+    first: レナ
+    first_kana: れな
   type: cute
   age: 27
   birthday: 10/3

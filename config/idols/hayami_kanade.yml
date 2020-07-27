@@ -1,10 +1,10 @@
 ---
 hayami_kanade:
   name:
-    first: 速水
-    first_kana: はやみ
-    last: 奏
-    last_kana: かなで
+    last: 速水
+    last_kana: はやみ
+    first: 奏
+    first_kana: かなで
   type: cool
   age: 17
   birthday: 7/1

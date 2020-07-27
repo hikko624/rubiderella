@@ -1,10 +1,10 @@
 ---
 nishijima_kai:
   name:
-    first: 西島
-    first_kana: にしじま
-    last: 櫂
-    last_kana: かい
+    last: 西島
+    last_kana: にしじま
+    first: 櫂
+    first_kana: かい
   type: passion
   age: 19
   birthday: 8/17

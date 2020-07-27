@@ -1,10 +1,10 @@
 ---
 natalia:
   name:
-    first: ナターリア
-    first_kana: なたーりあ
     last: ~
     last_kana: ~
+    first: ナターリア
+    first_kana: なたーりあ
   type: passion
   age: 14
   birthday: 6/29

@@ -1,10 +1,10 @@
 ---
 umeki_otoha:
   name:
-    first: 梅木
-    first_kana: うめき
-    last: 音葉
-    last_kana: おとは
+    last: 梅木
+    last_kana: うめき
+    first: 音葉
+    first_kana: おとは
   type: cool
   age: 19
   birthday: 6/20

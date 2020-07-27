@@ -1,22 +1,22 @@
 ---
 akanishi_erika:
+  name:
+    last: 赤西
+    last_kana: あかにし
+    first: 瑛梨華
+    first_kana: えりか
+  type: cute
   age: 16
   birthday: 7/7
+  sign: 蟹座
   blood: O
+  height: 154.0
+  weight: 55.0
   bust: 92
-  cv: ~
+  waist: 59
+  hip: 88
+  handed: both
+  from: 岡山県
   favorite:
     - 漫才鑑賞
-  from: 岡山県
-  handed: both
-  height: 154.0
-  hip: 88
-  name:
-    first: 赤西
-    first_kana: あかにし
-    last: 瑛梨華
-    last_kana: えりか
-  sign: 蟹座
-  type: cute
-  waist: 59
-  weight: 55.0
+  cv: ~

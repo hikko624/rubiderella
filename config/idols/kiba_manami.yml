@@ -1,10 +1,10 @@
 ---
 kiba_manami:
   name:
-    first: 木場
-    first_kana: きば
-    last: 真奈美
-    last_kana: まなみ
+    last: 木場
+    last_kana: きば
+    first: 真奈美
+    first_kana: まなみ
   type: cool
   age: 25
   birthday: 8/8

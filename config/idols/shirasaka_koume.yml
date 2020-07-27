@@ -1,10 +1,10 @@
 ---
 shirasaka_koume:
   name:
-    first: 白坂
-    first_kana: しらさか
-    last: 小梅
-    last_kana: こうめ
+    last: 白坂
+    last_kana: しらさか
+    first: 小梅
+    first_kana: こうめ
   type: cool
   age: 13
   birthday: 3/28

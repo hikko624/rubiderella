@@ -1,10 +1,10 @@
 ---
 tachibana_arisu:
   name:
-    first: 橘
-    first_kana: たちばな
-    last: ありす
-    last_kana: ありす
+    last: 橘
+    last_kana: たちばな
+    first: ありす
+    first_kana: ありす
   type: cool
   age: 12
   birthday: /31

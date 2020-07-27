@@ -1,10 +1,10 @@
 ---
 soma_matsumi:
   name:
-    first: 相馬
-    first_kana: そうま
-    last: 夏美
-    last_kana: なつみ
+    last: 相馬
+    last_kana: そうま
+    first: 夏美
+    first_kana: なつみ
   type: passion
   age: 25
   birthday: 7/23

@@ -1,10 +1,10 @@
 ---
 mizuki_seira:
   name:
-    first: 水木
-    first_kana: みずき
-    last: 聖來
-    last_kana: せいら
+    last: 水木
+    last_kana: みずき
+    first: 聖來
+    first_kana: せいら
   type: cool
   age: 23
   birthday: 4/27

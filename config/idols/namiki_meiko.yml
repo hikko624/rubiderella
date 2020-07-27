@@ -1,10 +1,10 @@
 ---
 namiki_meiko:
   name:
-    first: 並木
-    first_kana: なみき
-    last: 芽衣子
-    last_kana: めいこ
+    last: 並木
+    last_kana: なみき
+    first: 芽衣子
+    first_kana: めいこ
   type: passion
   age: 22
   birthday: 10/14

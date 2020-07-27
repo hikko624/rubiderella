@@ -1,10 +1,10 @@
 ---
 matsumoto_sarina:
   name:
-    first: 松本
-    first_kana: まつもと
-    last: 紗理奈
-    last_kana: さりな
+    last: 松本
+    last_kana: まつもと
+    first: 紗理奈
+    first_kana: さりな
   type: cool
   age: 22
   birthday: 9/1

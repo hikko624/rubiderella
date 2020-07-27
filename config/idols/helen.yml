@@ -1,10 +1,10 @@
 ---
 helen:
   name:
-    first: ヘレン
-    first_kana: へれん
     last: ~
     last_kana: ~
+    first: ヘレン
+    first_kana: へれん
   type: cool
   age: 24
   birthday: 4/4

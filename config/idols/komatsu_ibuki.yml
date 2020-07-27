@@ -1,10 +1,10 @@
 ---
 komatsu_ibuki:
   name:
-    first: 小松
-    first_kana: こまつ
-    last: 伊吹
-    last_kana: いぶき
+    last: 小松
+    last_kana: こまつ
+    first: 伊吹
+    first_kana: いぶき
   type: passion
   age: 19
   birthday: 11/17

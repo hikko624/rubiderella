@@ -1,10 +1,10 @@
 ---
 ohta_yu:
   name:
-    first: 太田
-    first_kana: おおた
-    last: 優
-    last_kana: ゆう
+    last: 太田
+    last_kana: おおた
+    first: 優
+    first_kana: ゆう
   type: cute
   age: 21
   birthday: 1/28

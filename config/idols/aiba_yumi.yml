@@ -1,10 +1,10 @@
 ---
 aiba_yumi:
   name:
-    first: 相葉
-    first_kana: あいば
-    last: 夕美
-    last_kana: ゆみ
+    last: 相葉
+    last_kana: あいば
+    first: 夕美
+    first_kana: ゆみ
   type: passion
   age: 18
   birthday: 4/15

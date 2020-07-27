@@ -1,10 +1,10 @@
 ---
 akagi_miria:
   name:
-    first: 赤城
-    first_kana: あかぎ
-    last: みりあ
-    last_kana: みりあ
+    last: 赤城
+    last_kana: あかぎ
+    first: みりあ
+    first_kana: みりあ
   type: passion
   age: 11
   birthday: 4/14

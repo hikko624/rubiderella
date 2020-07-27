@@ -1,10 +1,10 @@
 ---
 yumemi_riamu:
   name:
-    first: 夢見
-    first_kana: ゆめみ
-    last: りあむ
-    last_kana: りあむ
+    last: 夢見
+    last_kana: ゆめみ
+    first: りあむ
+    first_kana: りあむ
   type: passion
   age: 19
   birthday: 9/12

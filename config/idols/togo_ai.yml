@@ -1,10 +1,10 @@
 ---
 togo_ai:
   name:
-    first: 東郷
-    first_kana: とうごう
-    last: あい
-    last_kana: あい
+    last: 東郷
+    last_kana: とうごう
+    first: あい
+    first_kana: あい
   type: cool
   age: 23
   birthday: 2/7

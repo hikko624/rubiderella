@@ -1,10 +1,10 @@
 ---
 imai_kana:
   name:
-    first: 今井
-    first_kana: いまい
-    last: 加奈
-    last_kana: かな
+    last: 今井
+    last_kana: いまい
+    first: 加奈
+    first_kana: かな
   type: cute
   age: 16
   birthday: 3/3

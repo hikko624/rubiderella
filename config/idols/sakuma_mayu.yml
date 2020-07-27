@@ -1,10 +1,10 @@
 ---
 sakuma_mayu:
   name:
-    first: 佐久間
-    first_kana: さくま
-    last: まゆ
-    last_kana: まゆ
+    last: 佐久間
+    last_kana: さくま
+    first: まゆ
+    first_kana: まゆ
   type: cute
   age: 16
   birthday: 9/7

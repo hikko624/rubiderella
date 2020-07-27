@@ -1,10 +1,10 @@
 ---
 domyoji_karin:
   name:
-    first: 道明寺
-    first_kana: どうみょうじ
-    last: 歌鈴
-    last_kana: かりん
+    last: 道明寺
+    last_kana: どうみょうじ
+    first: 歌鈴
+    first_kana: かりん
   type: cute
   age: 17
   birthday: 1/1

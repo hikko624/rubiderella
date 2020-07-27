@@ -1,10 +1,10 @@
 ---
 niwa_hitomi:
   name:
-    first: 丹羽
-    first_kana: にわ
-    last: 仁美
-    last_kana: ひとみ
+    last: 丹羽
+    last_kana: にわ
+    first: 仁美
+    first_kana: ひとみ
   type: cute
   age: 18
   birthday: 6/4

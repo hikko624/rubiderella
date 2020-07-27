@@ -1,10 +1,10 @@
 ---
 tsujino_akari:
   name:
-    first: 辻野
-    first_kana: つじの
-    last: あかり
-    last_kana: あかり
+    last: 辻野
+    last_kana: つじの
+    first: あかり
+    first_kana: あかり
   type: cute
   age: 15
   birthday: 11/5
