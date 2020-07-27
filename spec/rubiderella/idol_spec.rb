@@ -1,5 +1,4 @@
 RSpec.describe Rubiderella::Idol do
-
   describe '#all' do
     let(:cinderella_count) { 190 }
     it '190 idols in cinderella' do
@@ -9,7 +8,7 @@ RSpec.describe Rubiderella::Idol do
 
   describe '#find_by_name' do
     describe 'find name by key' do
-      subject { Rubiderella::Idol.find_by_key(idol_name).name }
+      subject { Rubiderella::Idol.find_by_key(idol_name) }
       where( :input, :last, :last_kana, :first, :first_kana ) do
         [
             [:kanzaki_ranko, '神崎', 'かんざき', '蘭子', 'らんこ'],
@@ -22,7 +21,12 @@ RSpec.describe Rubiderella::Idol do
 
       with_them do
         let(:idol_name) { input }
-        it { is_expected.to eq({ :last=>last, :last_kana=>last_kana, :first=>first, :first_kana=>first_kana }) }
+        it 'should return correct idol' do
+          expect(subject.name.last).to eq last
+          expect(subject.name.first).to eq first
+          expect(subject.name.last_kana).to eq last_kana
+          expect(subject.name.first_kana).to eq first_kana
+        end
       end
     end
 
@@ -40,7 +44,9 @@ RSpec.describe Rubiderella::Idol do
 
       with_them do
         let(:idol_name) { input }
-        it { expect { subject }.to raise_error(Rubiderella::Idol::UnknownIdolError) }
+        it 'should return error' do
+          expect { subject }.to raise_error(Rubiderella::Idol::UnknownIdolError)
+        end
       end
     end
 

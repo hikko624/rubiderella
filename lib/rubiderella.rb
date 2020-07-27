@@ -2,6 +2,7 @@ require 'active_support/all'
 require 'yaml'
 require 'pry-byebug'
 require 'rubiderella/idol'
+require 'rubiderella/idol/name'
 require 'rubiderella/core'
 require "rubiderella/version"
 

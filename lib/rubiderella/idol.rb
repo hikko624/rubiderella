@@ -7,7 +7,7 @@ module Rubiderella
     @all = nil
 
     def initialize(args)
-      @name = args[:name]
+      @name = Name.new(args[:name])
       @type = args[:type]
       @age = args[:age]
       @birthday = args[:birthday]
