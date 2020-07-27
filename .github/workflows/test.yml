@@ -7,9 +7,6 @@
 
 name: Ruby
 
-env:
-  CI: true
-
 on:
   push:
     branches: [ master ]
@@ -35,4 +32,4 @@ jobs:
     - name: Install dependencies
       run: bundle install
     - name: Run tests
-      run: CODECOV_TOKEN=${{ secrets.CODECOV_TOKEN }} bundle exec rspec
+      run: bundle exec rspec
