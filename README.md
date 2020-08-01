@@ -3,11 +3,11 @@
 ![Ruby](https://github.com/hikko624/rubiderella/workflows/Ruby/badge.svg)
 [![codecov](https://codecov.io/gh/hikko624/rubiderella/branch/master/graph/badge.svg?token=eNS4wQuls7)](https://codecov.io/gh/hikko624/rubiderella)
 
-A reference for Idolmaster al.
+A reference for Idolmaster Cinderella Girls.
 
 This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) and [imas/rubimas](https://github.com/imas/rubimas/) strongly.
 
-[Idolmaster Official Site](https://idolmaster.jp/about/)
+[Idolmaster Official Site](https://idolmaster-official.jp/about/)
 
 ## Installation
 
