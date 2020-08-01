@@ -9,6 +9,7 @@ name: Coverage
 
 env:
   CI: true
+  CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
 
 on:
   push:
@@ -32,5 +33,11 @@ jobs:
         ruby-version: 2.7
     - name: Install dependencies
       run: bundle install
-    - name: Upload Codecov
-      run: CODECOV_TOKEN=${{ secrets.CODECOV_TOKEN }} bundle exec rspec
+    - name: Run RSpec
+      run: bundle exec rspec
+    - name: Codecov
+      uses: codecov/codecov-action@v1.0.12
+      with:
+        token: ${{ secrets.CODECOV_TOKEN }}
+        files: ./coverage/.last_run.json, .resultset.json
+        fail_ci_if_error: true
