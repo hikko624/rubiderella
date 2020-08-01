@@ -31,6 +31,6 @@ jobs:
         ruby-version: ${{ matrix.ruby }}
     - name: Install dependencies
       run: bundle install
-      continue-on-error: true
     - name: Run tests
       run: bundle exec rspec
+      continue-on-error: true
