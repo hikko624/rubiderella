@@ -34,4 +34,3 @@ jobs:
       continue-on-error: true
     - name: Run tests
       run: bundle exec rspec
-      continue-on-error: true
