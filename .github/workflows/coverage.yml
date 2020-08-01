@@ -39,5 +39,5 @@ jobs:
       uses: codecov/codecov-action@v1.0.12
       with:
         token: ${{ secrets.CODECOV_TOKEN }}
-        files: ./coverage/.last_run.json, .resultset.json
+        files: ./coverage/.last_run.json, ./coverage/.resultset.json
         fail_ci_if_error: true
