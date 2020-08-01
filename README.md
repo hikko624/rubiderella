@@ -11,39 +11,14 @@ This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) an
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'rubiderella'
-```
-
-And then execute:
-
-    $ bundle install
-
-Or install it yourself as:
-
-    $ gem install rubiderella
+    $ git clone git@github.com:hikko624/rubiderella.git
+    $ cd rubiderella
+    $ bin/setup
+    $ bin/console
 
 ## Requirements
 
 - ruby >= 2.5
-
-## Install
-
-```bash
-
-git clone git@github.com:hikko624/rubiderella.git
-
-cd rubiderella
-
-bin/setup
-
-bin/console
-
-# enjoy!
-
-```
 
 ## Usage
 
