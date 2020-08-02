@@ -9,15 +9,20 @@ This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) an
 
 [Idolmaster Official Site](https://idolmaster-official.jp/about/)
 
+    
+## Requirements
+
+- ruby >= 2.5
+
 ## Installation
 
     $ git clone git@github.com:hikko624/rubiderella.git
     $ cd rubiderella
     $ bin/setup
     
-## Requirements
+## Start Console
 
-- ruby >= 2.5
+    $ bin/console
 
 ## Usage
 
