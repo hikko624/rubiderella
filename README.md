@@ -14,8 +14,7 @@ This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) an
     $ git clone git@github.com:hikko624/rubiderella.git
     $ cd rubiderella
     $ bin/setup
-    $ bin/console
-
+    
 ## Requirements
 
 - ruby >= 2.5
