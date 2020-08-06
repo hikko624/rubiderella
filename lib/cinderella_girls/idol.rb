@@ -1,5 +1,5 @@
-module Cinderella
-  class Girl
+module CinderellaGirls
+  class Idol
     Rubiderella::Idol.names.each do |name|
       define_singleton_method name do
         Rubiderella::Idol.find_by_key(name)

@@ -9,7 +9,7 @@ This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) an
 
 [Idolmaster Official Site](https://idolmaster-official.jp/about/)
 
-    
+
 ## Requirements
 
 - ruby >= 2.5
@@ -19,7 +19,7 @@ This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) an
     $ git clone git@github.com:hikko624/rubiderella.git
     $ cd rubiderella
     $ bin/setup
-    
+
 ## Start Console
 
     $ bin/console
@@ -28,7 +28,7 @@ This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) an
 
 ```ruby
 
-Cinderella.girl.all.count
+CinderellaGirls.idol.all.count
 #=> 190
 
 CInderella.girl.kanzaki_ranko
@@ -48,17 +48,17 @@ CInderella.girl.kanzaki_ranko
  @type="cool",
  @waist=57,
  @weight=41.0>
- 
-Cinderella.girl.kanzaki_ranko.cv
+
+CinderellaGirls.idol.kanzaki_ranko.cv
 => "内田真礼"
 
-Cinderella.girl.kanzaki_ranko.name
+CinderellaGirls.idol.kanzaki_ranko.name
 => #<Rubiderella::Idol::Name:0x00007fdb6c39b828 @first="蘭子", @first_kana="らんこ", @last="神崎", @last_kana="かんざき">
 
-Cinderella.girl.kanzaki_ranko.name.full
+CinderellaGirls.idol.kanzaki_ranko.name.full
 => "神崎蘭子"
 
-Cinderella.girl.kanzaki_ranko.name.full_kana
+CinderellaGirls.idol.kanzaki_ranko.name.full_kana
 => "かんざきらんこ"
 ```
 
