@@ -7,14 +7,16 @@ egami_tsubaki:
     first_kana: つばき
   type: cute
   age: 19
-  birthday: 2/6
+  birthday:
+    name: 2
+    day: 6
   sign: 水瓶座
   blood: A
   height: 161.0
   weight: 46.0
-  bust: 80
-  waist: 57
-  hip: 80
+  bust: 80.0
+  waist: 57.0
+  hip: 80.0
   handed: right
   from: 新潟県
   favorite:

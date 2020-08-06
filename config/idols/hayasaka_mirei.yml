@@ -7,14 +7,16 @@ hayasaka_mirei:
     first_kana: みれい
   type: cute
   age: 14
-  birthday: 5/9
+  birthday:
+    month: 5
+    day: 9
   sign: 乙女座
   blood: B
   height: 147.0
   weight: 39.0
-  bust: 75
-  waist: 54
-  hip: 77
+  bust: 75.0
+  waist: 54.0
+  hip: 77.0
   handed: right
   from: 宮城県
   favorite:

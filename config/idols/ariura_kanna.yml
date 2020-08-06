@@ -7,14 +7,16 @@ ariura_kanna:
     first_kana: かんな
   type: cute
   age: 19
-  birthday: 3/6
+  birthday:
+    month: 3
+    day: 6
   sign: 魚座
   blood: O
   height: 155.0
   weight: 44.0
-  bust: 78
-  waist: 57
-  hip: 80
+  bust: 78.0
+  waist: 57.0
+  hip: 80.0
   handed: right
   from: 長崎県
   favorite:

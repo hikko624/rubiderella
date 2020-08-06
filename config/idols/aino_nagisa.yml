@@ -7,14 +7,16 @@ aino_nagisa:
     first_kana: なぎさ
   type: passion
   age: 18
-  birthday: 8/1
+  birthday:
+    month: 8
+    day: 1
   sign: 獅子座
   blood: A
   height: 163.0
   weight: 47.0
-  bust: 84
-  waist: 58
-  hip: 85
+  bust: 84.0
+  waist: 58.0
+  hip: 85.0
   handed: right
   from: 愛知県
   favorite:

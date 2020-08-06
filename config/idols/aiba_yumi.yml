@@ -7,14 +7,16 @@ aiba_yumi:
     first_kana: ゆみ
   type: passion
   age: 18
-  birthday: 4/15
+  birthday:
+    month: 4
+    day: 15
   sign: 牡羊座
   blood: O
   height: 158.0
   weight: 42.0
-  bust: 81
-  waist: 57
-  hip: 80
+  bust: 81.0
+  waist: 57.0
+  hip: 80.0
   handed: right
   from: 神奈川県
   favorite:

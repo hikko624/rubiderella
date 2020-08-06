@@ -7,14 +7,16 @@ eve_santaclaus:
     first_kana: いぶ
   type: passion
   age: 19
-  birthday: 12/24
+  birthday:
+    month: 12
+    day: 24
   sign: 山羊座
   blood: B
   height: 165.0
   weight: 44.0
-  bust: 81
-  waist: 56
-  hip: 80
+  bust: 81.0
+  waist: 56.0
+  hip: 80.0
   handed: right
   from: グリーンランド
   favorite:

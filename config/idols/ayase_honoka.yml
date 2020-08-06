@@ -7,14 +7,16 @@ ayase_honoka:
     first_kana: ほのか
   type: cool
   age: 17
-  birthday: 11/11
+  birthday:
+    month: 11
+    day: 11
   sign: 双子座
   blood: A
   height: 161.0
   weight: 46.0
-  bust: 85
-  waist: 57
-  hip: 84
+  bust: 85.0
+  waist: 57.0
+  hip: 84.0
   handed: right
   from: 宮城県
   favorite:

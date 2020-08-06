@@ -7,14 +7,16 @@ domyoji_karin:
     first_kana: かりん
   type: cute
   age: 17
-  birthday: 1/1
+  birthday:
+    month:  1
+    day: 1
   sign: 山羊座
   blood: A
   height: 155.0
   weight: 43.0
-  bust: 80
-  waist: 55
-  hip: 83
+  bust: 80.0
+  waist: 55.0
+  hip: 83.0
   handed: right
   from: 奈良県
   favorite:

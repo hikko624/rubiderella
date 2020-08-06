@@ -7,14 +7,16 @@ hino_akane:
     first_kana: あかね
   type: passion
   age: 17
-  birthday: 8/4
+  birthday:
+    month: 8
+    day: 4
   sign: 獅子座
   blood: AB
   height: 148.0
   weight: 40.0
-  bust: 80
-  waist: 60
-  hip: 82
+  bust: 80.0
+  waist: 60.0
+  hip: 82.0
   handed: right
   from: 栃木県
   favorite:

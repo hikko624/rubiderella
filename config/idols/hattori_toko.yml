@@ -7,14 +7,16 @@ hattori_toko:
     first_kana: とうこ
   type: cool
   age: 25
-  birthday: 10/11
+  birthday:
+    name: 10
+    day: 11
   sign: 天秤座
   blood: O
   height: 169.0
   weight: 48.0
-  bust: 78
-  waist: 57
-  hip: 80
+  bust: 78.0
+  waist: 57.0
+  hip: 80.0
   handed: left
   from: 大分県
   favorite:

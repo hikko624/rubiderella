@@ -7,14 +7,16 @@ anzai_miyako:
     first_kana: みやこ
   type: cute
   age: 16
-  birthday: 1/6
+  birthday:
+    month: 1
+    day: 6
   sign: 山羊座
   blood: B
   height: 156.0
   weight: 41.0
-  bust: 78
-  waist: 55
-  hip: 77
+  bust: 78.0
+  waist: 55.0
+  hip: 77.0
   handed: right
   from: 福井県
   favorite:

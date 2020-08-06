@@ -7,14 +7,16 @@ hisakawa_hayate:
     first_kana: はやて
   type: cool
   age: 14
-  birthday: 6/16
+  birthday:
+    month: 6
+    day: 16
   sign: 双子座
   blood: B
   height: 151.0
   weight: 42.0
-  bust: 82
-  waist: 56
-  hip: 82
+  bust: 82.0
+  waist: 56.0
+  hip: 82.0
   handed: right
   from: 徳島県
   favorite:

@@ -7,14 +7,16 @@ etou_misaki:
     first_kana: みさき
   type: passion
   age: 22
-  birthday: 3/18
+  birthday:
+    month: 3
+    day: 18
   sign: 魚座
   blood: O
   height: 160.0
   weight: 45.0
-  bust: 84
-  waist: 56
-  hip: 80
+  bust: 84.0
+  waist: 56.0
+  hip: 80.0
   handed: left
   from: 大分県
   favorite:

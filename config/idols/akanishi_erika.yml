@@ -7,14 +7,16 @@ akanishi_erika:
     first_kana: えりか
   type: cute
   age: 16
-  birthday: 7/7
+  birthday:
+    month: 7
+    day: 7
   sign: 蟹座
   blood: O
   height: 154.0
   weight: 55.0
-  bust: 92
-  waist: 59
-  hip: 88
+  bust: 92.0
+  waist: 59.0
+  hip: 88.0
   handed: both
   from: 岡山県
   favorite:

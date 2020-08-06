@@ -7,14 +7,16 @@ furusawa_yoriko:
     first_kana: よりこ
   type: cool
   age: 17
-  birthday: 5/18
+  birthday:
+    month: 5
+    day: 18
   sign: 牡牛座
   blood: A
   height: 166.0
   weight: 45.0
-  bust: 81
-  waist: 59
-  hip: 83
+  bust: 81.0
+  waist: 59.0
+  hip: 83.0
   handed: left
   from: 茨城県
   favorite:

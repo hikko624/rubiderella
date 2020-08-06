@@ -7,14 +7,16 @@ akagi_miria:
     first_kana: みりあ
   type: passion
   age: 11
-  birthday: 4/14
+  birthday:
+    month: 4
+    day: 14
   sign: 牡羊座
   blood: AB
   height: 140.0
   weight: 36.0
-  bust: 75
-  waist: 55
-  hip: 78
+  bust: 75.0
+  waist: 55.0
+  hip: 78.0
   handed: left
   from: 東京都
   favorite:

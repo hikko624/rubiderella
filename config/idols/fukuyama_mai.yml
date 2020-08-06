@@ -7,14 +7,16 @@ fukuyama_mai:
     first_kana: まい
   type: cute
   age: 10
-  birthday: 1/21
+  birthday:
+    month: 1
+    day: 21
   sign: 水瓶座
   blood: O
   height: 132.0
   weight: 28.0
-  bust: 64
-  waist: 56
-  hip: 70
+  bust: 64.0
+  waist: 56.0
+  hip: 70.0
   handed: left
   from: 兵庫県
   favorite:

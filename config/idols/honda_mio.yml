@@ -7,14 +7,16 @@ honda_mio:
     first_kana: みお
   type: passion
   age: 15
-  birthday: 12/1
+  birthday:
+    month: 12
+    day: 1
   sign: 射手座
   blood: B
   height: 161.0
   weight: 46.0
-  bust: 84
-  waist: 58
-  hip: 87
+  bust: 84.0
+  waist: 58.0
+  hip: 87.0
   handed: right
   from: 千葉県
   favorite:
