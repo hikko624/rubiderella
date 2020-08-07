@@ -28,7 +28,7 @@ module Rubiderella
 
     class << self
       def config
-        @config = Dir.glob("#{File.dirname(__FILE__ )}/../../config/idols/*.yml").each_with_object({}) do |file, idols|
+        @config = Dir.glob("#{File.dirname(__FILE__)}/../../config/idols/*.yml").each_with_object({}) do |file, idols|
           idols.merge!(YAML.load_file(file))
         end.deep_symbolize_keys
       end
@@ -50,6 +50,7 @@ module Rubiderella
 
       def find_by_key(name)
         raise UnknownIdolError unless valid?(name)
+
         new(@config[name])
       end
     end
