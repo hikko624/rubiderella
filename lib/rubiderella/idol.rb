@@ -1,5 +1,4 @@
 module Rubiderella
-
   class Idol
     attr_reader :name, :type, :age, :birthday, :sign, :blood, :height, :weight, :bust, :waist, :hip, :handed, :from,
                 :favorite, :cv
@@ -10,7 +9,7 @@ module Rubiderella
       @name = Name.new(args[:name])
       @type = args[:type]
       @age = args[:age]
-      @birthday = args[:birthday]
+      @birthday = Birthday.new(args[:birthday])
       @sign = args[:sign]
       @blood = args[:blood]
       @height = args[:height]
