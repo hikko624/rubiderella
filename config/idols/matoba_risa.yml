@@ -7,14 +7,16 @@ matoba_risa:
     first_kana: りさ
   type: passion
   age: 12
-  birthday: 11/19
+  birthday:
+    month: 11
+    day: 19
   sign: 蠍座
   blood: B
   height: 143.0
   weight: 38.0
-  bust: 71
-  waist: 58
-  hip: 73
+  bust: 71.0
+  waist: 58.0
+  hip: 73.0
   handed: right
   from: 山口県
   favorite:

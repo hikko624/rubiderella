@@ -7,14 +7,16 @@ kohinata_miho:
     first_kana: みほ
   type: cute
   age: 17
-  birthday: 12/16
+  birthday:
+    month: 12
+    day: 16
   sign: 射手座
   blood: O
   height: 155.0
   weight: 42.0
-  bust: 82
-  waist: 59
-  hip: 86
+  bust: 82.0
+  waist: 59.0
+  hip: 86.0
   handed: left
   from: 熊本県
   favorite:

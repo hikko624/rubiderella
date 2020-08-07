@@ -7,14 +7,16 @@ mochizuki_hijiri:
     first_kana: ひじり
   type: cool
   age: 13
-  birthday: 12/25
+  birthday:
+    month: 12
+    day: 25
   sign: 牡羊座
   blood: O
   height: 150.0
   weight: 37.0
-  bust: 82
-  waist: 59
-  hip: 86
+  bust: 82.0
+  waist: 59.0
+  hip: 86.0
   handed: right
   from: 長野県
   favorite:

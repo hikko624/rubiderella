@@ -7,14 +7,16 @@ okazaki_yasuha:
     first_kana: やすは
   type: cool
   age: 16
-  birthday: 7/16
+  birthday:
+    month: 7
+    day: 16
   sign: 蟹座
   blood: A
   height: 153.0
   weight: 43.0
-  bust: 70
-  waist: 55
-  hip: 80
+  bust: 70.0
+  waist: 55.0
+  hip: 80.0
   handed: left
   from: 長崎県
   favorite:

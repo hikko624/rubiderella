@@ -7,14 +7,16 @@ yuuki_haru:
     first_kana: はる
   type: cool
   age: 12
-  birthday: 7/17
+  birthday:
+    month: 7
+    day: 17
   sign: 蟹座
   blood: A
   height: 140.0
   weight: 37.0
-  bust: 74
-  waist: 55
-  hip: 78
+  bust: 74.0
+  waist: 55.0
+  hip: 78.0
   handed: right
   from: 愛媛県
   favorite:

@@ -7,14 +7,16 @@ okuyama_saori:
     first_kana: さおり
   type: cute
   age: 19
-  birthday: 6/12
+  birthday:
+    month: 6
+    day: 12
   sign: 双子座
   blood: B
   height: 156.0
   weight: 47.0
-  bust: 83
-  waist: 57
-  hip: 81
+  bust: 83.0
+  waist: 57.0
+  hip: 81.0
   handed: right
   from: 秋田県
   favorite:

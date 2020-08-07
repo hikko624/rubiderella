@@ -7,14 +7,16 @@ niwa_hitomi:
     first_kana: ひとみ
   type: cute
   age: 18
-  birthday: 6/4
+  birthday:
+    month: 6
+    day: 4
   sign: 双子座
   blood: B
   height: 157.0
   weight: 43.0
-  bust: 81
-  waist: 55
-  hip: 79
+  bust: 81.0
+  waist: 55.0
+  hip: 79.0
   handed: right
   from: 愛知県(名古屋市)
   favorite:

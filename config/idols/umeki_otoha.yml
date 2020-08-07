@@ -7,14 +7,16 @@ umeki_otoha:
     first_kana: おとは
   type: cool
   age: 19
-  birthday: 6/20
+  birthday:
+    month: 6
+    day: 20
   sign: 双子座
   blood: AB
   height: 172.0
   weight: 49.0
-  bust: 86
-  waist: 58
-  hip: 85
+  bust: 86.0
+  waist: 58.0
+  hip: 85.0
   handed: right
   from: 北海道
   favorite:

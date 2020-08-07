@@ -7,14 +7,16 @@ kawashima_mizuki:
     first_kana: みずき
   type: cool
   age: 28
-  birthday: 11/25
+  birthday:
+    month: 11
+    day: 25
   sign: 射手座
   blood: B
   height: 159.0
   weight: 44.0
-  bust: 87
-  waist: 57
-  hip: 85
+  bust: 87.0
+  waist: 57.0
+  hip: 85.0
   handed: right
   from: 大阪府
   favorite:

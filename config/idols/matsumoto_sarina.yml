@@ -7,14 +7,16 @@ matsumoto_sarina:
     first_kana: さりな
   type: cool
   age: 22
-  birthday: 9/1
+  birthday:
+    month: 9
+    day: 1
   sign: 乙女座
   blood: A
   height: 165.0
   weight: 48.0
-  bust: 92
-  waist: 58
-  hip: 85
+  bust: 92.0
+  waist: 58.0
+  hip: 85.0
   handed: right
   from: 東京都
   favorite:

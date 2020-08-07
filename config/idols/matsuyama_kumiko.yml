@@ -7,14 +7,16 @@ matsuyama_kumiko:
     first_kana: くみこ
   type: passion
   age: 21
-  birthday: 1/21
+  birthday:
+    month: 1
+    day: 21
   sign: 水瓶座
   blood: A
   height: 161.0
   weight: 44.0
-  bust: 81
-  waist: 56
-  hip: 81
+  bust: 81.0
+  waist: 56.0
+  hip: 81.0
   handed: right
   from: 神奈川県
   favorite:

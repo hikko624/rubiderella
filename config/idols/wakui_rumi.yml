@@ -7,14 +7,16 @@ wakui_rumi:
     first_kana: るみ
   type: cool
   age: 26
-  birthday: 4/7
+  birthday:
+    month: 4
+    day: 7
   sign: 牡羊座
   blood: A
   height: 168.0
   weight: 49.0
-  bust: 81
-  waist: 60
-  hip: 86
+  bust: 81.0
+  waist: 60.0
+  hip: 86.0
   handed: left
   from: 広島県
   favorite:

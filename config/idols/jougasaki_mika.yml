@@ -7,14 +7,16 @@ jougasaki_mika:
     first_kana: みか
   type: passion
   age: 17
-  birthday: 11/12
+  birthday:
+    month: 11
+    day: 12
   sign: 蠍座
   blood: AB
   height: 162.0
   weight: 43.0
-  bust: 80
-  waist: 56
-  hip: 82
+  bust: 80.0
+  waist: 56.0
+  hip: 82.0
   handed: left
   from: 埼玉県
   favorite:

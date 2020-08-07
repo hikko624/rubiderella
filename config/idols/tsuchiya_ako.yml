@@ -7,14 +7,16 @@ tsuchiya_ako:
     first_kana: あこ
   type: passion
   age: 15
-  birthday: 5/2
+  birthday:
+    month: 5
+    day: 2
   sign: 牡牛座
   blood: B
   height: 156.0
   weight: 42.0
-  bust: 85
-  waist: 54
-  hip: 83
+  bust: 85.0
+  waist: 54.0
+  hip: 83.0
   handed: right
   from: 静岡県
   favorite:

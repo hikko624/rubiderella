@@ -7,14 +7,16 @@ maekawa_miku:
     first_kana: みく
   type: cute
   age: 15
-  birthday: 2/22
+  birthday:
+    month: 2
+    day: 22
   sign: 魚座
   blood: B
   height: 152.0
   weight: 45.0
-  bust: 85
-  waist: 55
-  hip: 81
+  bust: 85.0
+  waist: 55.0
+  hip: 81.0
   handed: right
   from: 大阪府
   favorite:

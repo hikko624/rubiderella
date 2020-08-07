@@ -7,14 +7,16 @@ manaka_misato:
     first_kana: みさと
   type: cute
   age: 20
-  birthday: 11/6
+  birthday:
+    month: 11
+    day: 6
   sign: 蠍座
   blood: AB
   height: 160.0
   weight: 46.0
-  bust: 84
-  waist: 57
-  hip: 85
+  bust: 84.0
+  waist: 57.0
+  hip: 85.0
   handed: right
   from: 神奈川県
   favorite:

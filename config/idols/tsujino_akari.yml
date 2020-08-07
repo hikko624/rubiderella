@@ -7,14 +7,16 @@ tsujino_akari:
     first_kana: あかり
   type: cute
   age: 15
-  birthday: 11/5
+  birthday:
+    month: 11
+    day: 5
   sign: 蠍座
   blood: A
   height: 160.0
   weight: 44.0
-  bust: 80
-  waist: 60
-  hip: 86
+  bust: 80.0
+  waist: 60.0
+  hip: 86.0
   handed: right
   from: 山形県
   favorite:

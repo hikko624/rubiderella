@@ -7,14 +7,16 @@ makihara_shiho:
     first_kana: しほ
   type: passion
   age: 19
-  birthday: 4/27
+  birthday:
+    month: 4
+    day: 27
   sign: 牡牛座
   blood: B
   height: 162.0
   weight: 46.0
-  bust: 86
-  waist: 57
-  hip: 91
+  bust: 86.0
+  waist: 57.0
+  hip: 91.0
   handed: right
   from: 三重県
   favorite:

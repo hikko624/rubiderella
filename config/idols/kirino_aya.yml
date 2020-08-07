@@ -7,14 +7,16 @@ kirino_aya:
     first_kana: あや
   type: cool
   age: 19
-  birthday: 4/8
+  birthday:
+    month: 4
+    day: 8
   sign: 牡羊座
   blood: A
   height: 160.0
   weight: 43.0
-  bust: 86
-  waist: 56
-  hip: 86
+  bust: 86.0
+  waist: 56.0
+  hip: 86.0
   handed: right
   from: 福岡県
   favorite:

@@ -7,14 +7,16 @@ koseki_reina:
     first_kana: れいな
   type: passion
   age: 13
-  birthday: 3/5
+  birthday:
+    month: 3
+    day: 5
   sign: 魚座
   blood: B
   height: 148.0
   weight: 41.0
-  bust: 75
-  waist: 50
-  hip: 77
+  bust: 75.0
+  waist: 50.0
+  hip: 77.0
   handed: right
   from: 山形県
   favorite:

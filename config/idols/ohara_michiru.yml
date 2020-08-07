@@ -7,14 +7,16 @@ ohara_michiru:
     first_kana: みちる
   type: cute
   age: 15
-  birthday: 4/12
+  birthday:
+    month: 4
+    day: 12
   sign: 牡羊座
   blood: O
   height: 153.0
   weight: 40.0
-  bust: 78
-  waist: 55
-  hip: 80
+  bust: 78.0
+  waist: 55.0
+  hip: 80.0
   handed: right
   from: 福井県
   favorite:

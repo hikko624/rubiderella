@@ -7,14 +7,16 @@ shirayuki_chiyo:
     first_kana: ちよ
   type: cute
   age: 17
-  birthday: 2/14
+  birthday:
+    month: 2
+    day: 14
   sign: 水瓶座
   blood: O
   height: 157.0
   weight: 40.0
-  bust: 72
-  waist: 52
-  hip: 74
+  bust: 72.0
+  waist: 52.0
+  hip: 74.0
   handed: right
   from: 北海道
   favorite:

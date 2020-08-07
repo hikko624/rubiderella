@@ -7,14 +7,16 @@ shiina_noriko:
     first_kana: のりこ
   type: cute
   age: 13
-  birthday: 10/10
+  birthday:
+    month: 10
+    day: 10
   sign: 天秤座
   blood: O
   height: 147.0
   weight: 38.0
-  bust: 76
-  waist: 55
-  hip: 79
+  bust: 76.0
+  waist: 55.0
+  hip: 79.0
   handed: right
   from: 大阪府
   favorite:

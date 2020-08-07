@@ -7,14 +7,16 @@ sunazuka_akira:
     first_kana: あきら
   type: cool
   age: 15
-  birthday: 10/7
+  birthday:
+    month: 10
+    day: 7
   sign: 天秤座
   blood: B
   height: 154.0
   weight: 42.0
-  bust: 78
-  waist: 56
-  hip: 78
+  bust: 78.0
+  waist: 56.0
+  hip: 78.0
   handed: right
   from: 新潟県
   favorite:

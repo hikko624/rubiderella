@@ -7,14 +7,16 @@ kamijo_haruna:
     first_kana: はるな
   type: cool
   age: 18
-  birthday: 4/10
+  birthday:
+    month: 4
+    day: 10
   sign: 牡羊座
   blood: O
   height: 156.0
   weight: 42.0
-  bust: 79
-  waist: 56
-  hip: 80
+  bust: 79.0
+  waist: 56.0
+  hip: 80.0
   handed: right
   from: 静岡県
   favorite:

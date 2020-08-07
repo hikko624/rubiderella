@@ -7,14 +7,16 @@ oikawa_shizuku:
     first_kana: しずく
   type: passion
   age: 16
-  birthday: 6/3
+  birthday:
+    month: 6
+    day: 3
   sign: 双子座
   blood: O
   height: 170.0
   weight: 56.0
-  bust: 105
-  waist: 64
-  hip: 92
+  bust: 105.0
+  waist: 64.0
+  hip: 92.0
   handed: both
   from: 岩手県
   favorite:

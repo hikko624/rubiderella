@@ -7,14 +7,16 @@ mary_cochran:
     first_kana: めありー
   type: passion
   age: 11
-  birthday: 1/19
+  birthday:
+    month: 1
+    day: 19
   sign: 山羊座
   blood: B
   height: 152.0
   weight: 41.0
-  bust: 71
-  waist: 59
-  hip: 73
+  bust: 71.0
+  waist: 59.0
+  hip: 73.0
   handed: left
   from: アメリカ(サンフランシスコ)
   favorite:

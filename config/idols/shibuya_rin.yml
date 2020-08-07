@@ -7,14 +7,16 @@ shibuya_rin:
     first_kana: りん
   type: cool
   age: 15
-  birthday: 8/10
+  birthday:
+    month: 8
+    day: 10
   sign: 獅子座
   blood: B
   height: 165.0
   weight: 44.0
-  bust: 80
-  waist: 56
-  hip: 81
+  bust: 80.0
+  waist: 56.0
+  hip: 81.0
   handed: right
   from: 東京都
   favorite:

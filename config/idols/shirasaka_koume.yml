@@ -7,14 +7,16 @@ shirasaka_koume:
     first_kana: こうめ
   type: cool
   age: 13
-  birthday: 3/28
+  birthday:
+    month: 3
+    day: 28
   sign: 牡羊座
   blood: AB
   height: 142.0
   weight: 34.0
-  bust: 65
-  waist: 50
-  hip: 70
+  bust: 65.0
+  waist: 50.0
+  hip: 70.0
   handed: left
   from: 兵庫県
   favorite:

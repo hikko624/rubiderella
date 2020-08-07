@@ -7,14 +7,16 @@ muramatsu_sakura:
     first_kana: さくら
   type: cute
   age: 15
-  birthday: 3/27
+  birthday:
+    month: 3
+    day: 27
   sign: 牡羊座
   blood: O
   height: 145.0
   weight: 38.0
-  bust: 75
-  waist: 55
-  hip: 77
+  bust: 75.0
+  waist: 55.0
+  hip: 77.0
   handed: right
   from: 静岡県
   favorite:

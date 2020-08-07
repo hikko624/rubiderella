@@ -7,14 +7,16 @@ narumiya_yume:
     first_kana: ゆめ
   type: cool
   age: 13
-  birthday: 11/3
+  birthday:
+    month: 11
+    day: 3
   sign: 蠍座
   blood: AB
   height: 150.0
   weight: 40.0
-  bust: 72
-  waist: 51
-  hip: 73
+  bust: 72.0
+  waist: 51.0
+  hip: 73.0
   handed: both
   from: 滋賀県
   favorite:

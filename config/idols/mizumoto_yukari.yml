@@ -7,14 +7,16 @@ mizumoto_yukari:
     first_kana: ゆかり
   type: cute
   age: 15
-  birthday: 10/18
+  birthday:
+    month: 10
+    day: 18
   sign: 天秤座
   blood: A
   height: 155.0
   weight: 42.0
-  bust: 81
-  waist: 56
-  hip: 82
+  bust: 81.0
+  waist: 56.0
+  hip: 82.0
   handed: right
   from: 青森県
   favorite:

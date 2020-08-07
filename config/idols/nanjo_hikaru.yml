@@ -7,14 +7,16 @@ nanjo_hikaru:
     first_kana: ひかる
   type: passion
   age: 14
-  birthday: 9/13
+  birthday:
+    month: 9
+    day: 13
   sign: 乙女座
   blood: B
   height: 140.0
   weight: 41.0
-  bust: 79
-  waist: 58
-  hip: 80
+  bust: 79.0
+  waist: 58.0
+  hip: 80.0
   handed: right
   from: 徳島県
   favorite:

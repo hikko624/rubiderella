@@ -7,14 +7,16 @@ ogata_chieri:
     first_kana: ちえり
   type: cute
   age: 16
-  birthday: 6/11
+  birthday:
+    month: 6
+    day: 11
   sign: 双子座
   blood: A
   height: 153.0
   weight: 42.0
-  bust: 79
-  waist: 57
-  hip: 80
+  bust: 79.0
+  waist: 57.0
+  hip: 80.0
   handed: right
   from: 三重県
   favorite:

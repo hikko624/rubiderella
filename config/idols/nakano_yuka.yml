@@ -7,14 +7,16 @@ nakano_yuka:
     first_kana: ゆか
   type: cute
   age: 18
-  birthday: 3/23
+  birthday:
+    month: 3
+    day: 23
   sign: 牡羊座
   blood: B
   height: 149.0
   weight: 40.0
-  bust: 77
-  waist: 57
-  hip: 81
+  bust: 77.0
+  waist: 57.0
+  hip: 81.0
   handed: right
   from: 東京都
   favorite:

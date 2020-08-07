@@ -7,14 +7,16 @@ nagatomi_hasumi:
     first_kana: はすみ
   type: cute
   age: 16
-  birthday: 3/19
+  birthday:
+    month: 3
+    day: 19
   sign: 魚座
   blood: A
   height: 161.0
   weight: 45.0
-  bust: 83
-  waist: 56
-  hip: 85
+  bust: 83.0
+  waist: 56.0
+  hip: 85.0
   handed: right
   from: 島根県
   favorite:

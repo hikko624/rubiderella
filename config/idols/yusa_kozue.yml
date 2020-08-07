@@ -7,14 +7,16 @@ yusa_kozue:
     first_kana: こずえ
   type: cute
   age: 11
-  birthday: 2/19
+  birthday:
+    month: 2
+    day: 19
   sign: 魚座
   blood: B
   height: 130.0
   weight: 28.0
-  bust: 62
-  waist: 50
-  hip: 65
+  bust: 62.0
+  waist: 50.0
+  hip: 65.0
   handed: right
   from: 高知県
   favorite:

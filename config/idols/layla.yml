@@ -7,14 +7,16 @@ layla:
     first_kana: らいら
   type: cool
   age: 16
-  birthday: 5/21
+  birthday:
+    month: 5
+    day: 21
   sign: 双子座
   blood: O
   height: 150.0
   weight: 40.0
-  bust: 75
-  waist: 54
-  hip: 78
+  bust: 75.0
+  waist: 54.0
+  hip: 78.0
   handed: right
   from: ドバイ
   favorite:

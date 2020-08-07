@@ -7,14 +7,16 @@ kurosaki_chitose:
     first_kana: ちとせ
   type: cute
   age: 17
-  birthday: 11/10
+  birthday:
+    month: 11
+    day: 10
   sign: 蠍座
   blood: O
   height: 165.0
   weight: 44.0
-  bust: 86
-  waist: 58
-  hip: 84
+  bust: 86.0
+  waist: 58.0
+  hip: 84.0
   handed: right
   from: 東京都
   favorite:

@@ -7,14 +7,16 @@ namiki_meiko:
     first_kana: めいこ
   type: passion
   age: 22
-  birthday: 10/14
+  birthday:
+    month: 10
+    day: 14
   sign: 天秤座
   blood: AB
   height: 160.0
   weight: 44.0
-  bust: 80
-  waist: 57
-  hip: 82
+  bust: 80.0
+  waist: 57.0
+  hip: 82.0
   handed: right
   from: 和歌山県
   favorite:

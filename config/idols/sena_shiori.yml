@@ -7,14 +7,16 @@ sena_shiori:
     first_kana: しおり
   type: cool
   age: 19
-  birthday: 1/10
+  birthday:
+    month: 1
+    day: 10
   sign: 山羊座
   blood: A
   height: 165.0
   weight: 48.0
-  bust: 85
-  waist: 58
-  hip: 83
+  bust: 85.0
+  waist: 58.0
+  hip: 83.0
   handed: right
   from: 沖縄県
   favorite:

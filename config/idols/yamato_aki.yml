@@ -7,14 +7,16 @@ yamato_aki:
     first_kana: あき
   type: cool
   age: 21
-  birthday: 12/16
+  birthday:
+    month: 12
+    day: 16
   sign: 射手座
   blood: O
   height: 165.0
   weight: 51.0
-  bust: 92
-  waist: 60
-  hip: 85
+  bust: 92.0
+  waist: 60.0
+  hip: 85.0
   handed: left
   from: 福岡県
   favorite:

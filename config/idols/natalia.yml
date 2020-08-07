@@ -7,14 +7,16 @@ natalia:
     first_kana: なたーりあ
   type: passion
   age: 14
-  birthday: 6/29
+  birthday:
+    month: 6
+    day: 29
   sign: 蟹座
   blood: A
   height: 155.0
   weight: 43.0
-  bust: 84
-  waist: 55
-  hip: 86
+  bust: 84.0
+  waist: 55.0
+  hip: 86.0
   handed: right
   from: リオ・デ・ジャネイロ
   favorite:

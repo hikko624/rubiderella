@@ -7,14 +7,16 @@ manabe_itsuki:
     first_kana: いつき
   type: passion
   age: 22
-  birthday: 12/29
+  birthday:
+    month: 12
+    day: 29
   sign: 山羊座
   blood: O
   height: 165.0
   weight: 46.0
-  bust: 85
-  waist: 57
-  hip: 83
+  bust: 85.0
+  waist: 57.0
+  hip: 83.0
   handed: right
   from: 石川県
   favorite:

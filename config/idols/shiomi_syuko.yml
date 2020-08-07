@@ -7,14 +7,16 @@ shiomi_syuko:
     first_kana: しゅうこ
   type: cool
   age: 18
-  birthday: 12/12
+  birthday:
+    month: 12
+    day: 12
   sign: 射手座
   blood: B
   height: 163.0
   weight: 45.0
-  bust: 82
-  waist: 56
-  hip: 81
+  bust: 82.0
+  waist: 56.0
+  hip: 81.0
   handed: left
   from: 京都府
   favorite:

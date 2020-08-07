@@ -7,14 +7,16 @@ ichihara_nina:
     first_kana: にな
   type: passion
   age: 9
-  birthday: 2/8
+  birthday:
+    month: 2
+    day: 8
   sign: 水瓶座
   blood: B
   height: 128.0
   weight: 29.0
-  bust: 61
-  waist: 57
-  hip: 67
+  bust: 61.0
+  waist: 57.0
+  hip: 67.0
   handed: left
   from: 静岡県
   favorite:

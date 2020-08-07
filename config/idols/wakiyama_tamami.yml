@@ -7,14 +7,16 @@ wakiyama_tamami:
     first_kana: たまに
   type: cool
   age: 16
-  birthday: 9/20
+  birthday:
+    month: 9
+    day: 20
   sign: 乙女座
   blood: B
   height: 145.0
   weight: 38.0
-  bust: 72
-  waist: 53
-  hip: 75
+  bust: 72.0
+  waist: 53.0
+  hip: 75.0
   handed: right
   from: 佐賀県
   favorite:

@@ -7,14 +7,16 @@ komatsu_ibuki:
     first_kana: いぶき
   type: passion
   age: 19
-  birthday: 11/17
+  birthday:
+    month: 11
+    day: 17
   sign: 蠍座
   blood: O
   height: 165.0
   weight: 48.0
-  bust: 85
-  waist: 59
-  hip: 88
+  bust: 85.0
+  waist: 59.0
+  hip: 88.0
   handed: right
   from: 茨城県
   favorite:

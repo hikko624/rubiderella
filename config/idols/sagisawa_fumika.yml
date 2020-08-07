@@ -7,14 +7,16 @@ sagisawa_fumika:
     first_kana: ふみか
   type: cool
   age: 19
-  birthday: 10/27
+  birthday:
+    month: 10
+    day: 27
   sign: 蠍座
   blood: AB
   height: 162.0
   weight: 45.0
-  bust: 84
-  waist: 54
-  hip: 81
+  bust: 84.0
+  waist: 54.0
+  hip: 81.0
   handed: right
   from: 長野県
   favorite:

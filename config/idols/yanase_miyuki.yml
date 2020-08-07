@@ -7,14 +7,16 @@ yamase_miyuki:
     first_kana: みゆき
   type: cute
   age: 14
-  birthday: 3/16
+  birthday:
+    month: 3
+    day: 16
   sign: 魚座
   blood: O
   height: 144.0
   weight: 33.0
-  bust: 75
-  waist: 54
-  hip: 77
+  bust: 75.0
+  waist: 54.0
+  hip: 77.0
   handed: right
   from: 北海道
   favorite:

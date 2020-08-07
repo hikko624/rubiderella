@@ -7,14 +7,16 @@ ueda_suzuho:
     first_kana: すずほ
   type: passion
   age: 14
-  birthday: 10/26
+  birthday:
+    month: 10
+    day: 26
   sign: 蠍座
   blood: O
   height: 156.0
   weight: 42.0
-  bust: 76
-  waist: 55
-  hip: 79
+  bust: 76.0
+  waist: 55.0
+  hip: 79.0
   handed: right
   from: 福岡県
   favorite:

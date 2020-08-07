@@ -7,14 +7,16 @@ sawada_marina:
     first_kana: まりな
   type: passion
   age: 26
-  birthday: 5/6
+  birthday:
+    month: 5
+    day: 6
   sign: 牡牛座
   blood: B
   height: 166.0
   weight: 47.0
-  bust: 87
-  waist: 57
-  hip: 87
+  bust: 87.0
+  waist: 57.0
+  hip: 87.0
   handed: right
   from: 長野県
   favorite:

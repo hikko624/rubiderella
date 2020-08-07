@@ -7,14 +7,16 @@ kudo_shinobu:
     first_kana: しのぶ
   type: cute
   age: 16
-  birthday: 3/9
+  birthday:
+    month: 3
+    day: 9
   sign: 魚座
   blood: A
   height: 154.0
   weight: 41.0
-  bust: 78
-  waist: 54
-  hip: 88
+  bust: 78.0
+  waist: 54.0
+  hip: 88.0
   handed: right
   from: 秋田県
   favorite:

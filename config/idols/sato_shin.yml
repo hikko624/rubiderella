@@ -7,7 +7,9 @@ sato_shin:
     first_kana: しん
   type: passion
   age: 26
-  birthday: 7/22
+  birthday:
+    month: 7
+    day: 22
   sign: 蟹座
   blood: AB
   height: 166.0

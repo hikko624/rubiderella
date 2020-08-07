@@ -7,14 +7,16 @@ takahashi_reiko:
     first_kana: れいこ
   type: cool
   age: 31
-  birthday: 5/8
+  birthday:
+    month: 5
+    day: 8
   sign: 牡羊座
   blood: O
   height: 167.0
   weight: 51.0
-  bust: 91
-  waist: 62
-  hip: 90
+  bust: 91.0
+  waist: 62.0
+  hip: 90.0
   handed: right
   from: 神奈川県
   favorite:

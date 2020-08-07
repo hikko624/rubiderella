@@ -7,14 +7,16 @@ nitta_minami:
     first_kana: みなみ
   type: cool
   age: 19
-  birthday: 7/27
+  birthday:
+    month: 7
+    day: 27
   sign: 獅子座
   blood: O
   height: 165.0
   weight: 45.0
-  bust: 82
-  waist: 55
-  hip: 85
+  bust: 82.0
+  waist: 55.0
+  hip: 85.0
   handed: right
   from: 広島県
   favorite:

@@ -7,14 +7,16 @@ kurokawa_chiaki:
     first_kana: ちあき
   type: cool
   age: 20
-  birthday: 2/26
+  birthday:
+    month: 2
+    day: 26
   sign: 魚座
   blood: B
   height: 163.0
   weight: 45.0
-  bust: 86
-  waist: 57
-  hip: 86
+  bust: 86.0
+  waist: 57.0
+  hip: 86.0
   handed: right
   from: 北海道
   favorite:

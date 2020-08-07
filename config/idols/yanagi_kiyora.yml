@@ -7,14 +7,16 @@ yanagi_kiyora:
     first_kana: きよら
   type: cute
   age: 23
-  birthday: 5/12
+  birthday:
+    month: 5
+    day: 12
   sign: 牡羊座
   blood: O
   height: 158.0
   weight: 47.0
-  bust: 85
-  waist: 58
-  hip: 86
+  bust: 85.0
+  waist: 58.0
+  hip: 86.0
   handed: right
   from: 愛媛県
   favorite:

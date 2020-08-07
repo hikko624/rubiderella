@@ -7,14 +7,16 @@ mimura_kanako:
     first_kana: かなこ
   type: cute
   age: 17
-  birthday: 1/6
+  birthday:
+    month: 1
+    day: 6
   sign: 山羊座
   blood: O
   height: 153.0
   weight: 52.0
-  bust: 90
-  waist: 65
-  hip: 89
+  bust: 90.0
+  waist: 65.0
+  hip: 89.0
   handed: right
   from: 東京都
   favorite:

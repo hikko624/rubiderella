@@ -7,14 +7,16 @@ senzaki_ema:
     first_kana: えま
   type: passion
   age: 21
-  birthday: 6/27
+  birthday:
+    month: 6
+    day: 27
   sign: 蟹座
   blood: O
   height: 156.0
   weight: 45.0
-  bust: 81
-  waist: 55
-  hip: 81
+  bust: 81.0
+  waist: 55.0
+  hip: 81.0
   handed: left
   from: 大阪府
   favorite:

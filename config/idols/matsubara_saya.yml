@@ -7,14 +7,16 @@ matsubara_saya:
     first_kana: さや
   type: cute
   age: 18
-  birthday: 12/28
+  birthday:
+    month: 12
+    day: 28
   sign: 山羊座
   blood: AB
   height: 156.0
   weight: 43.0
-  bust: 83
-  waist: 58
-  hip: 86
+  bust: 83.0
+  waist: 58.0
+  hip: 86.0
   handed: right
   from: 兵庫県
   favorite:

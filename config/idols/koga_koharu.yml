@@ -7,14 +7,16 @@ koga_koharu:
     first_kana: こはる
   type: cute
   age: 12
-  birthday: 4/1
+  birthday:
+    month: 4
+    day: 1
   sign: 牡羊座
   blood: O
   height: 140.0
   weight: 35.0
-  bust: 72
-  waist: 54
-  hip: 77
+  bust: 72.0
+  waist: 54.0
+  hip: 77.0
   handed: left
   from: 佐賀県
   favorite:

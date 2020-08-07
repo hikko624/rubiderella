@@ -7,14 +7,16 @@ nonomura_sora:
     first_kana: そら
   type: passion
   age: 15
-  birthday: 1/3
+  birthday:
+    month: 1
+    day: 3
   sign: 山羊座
   blood: B
   height: 157.0
   weight: 46.0
-  bust: 84
-  waist: 57
-  hip: 85
+  bust: 84.0
+  waist: 57.0
+  hip: 85.0
   handed: right
   from: 福岡県
   favorite:

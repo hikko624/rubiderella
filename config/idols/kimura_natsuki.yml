@@ -7,14 +7,16 @@ kimura_natsuki:
     first_kana: なつき
   type: passion
   age: 18
-  birthday: 8/19
+  birthday:
+    month: 8
+    day: 19
   sign: 獅子座
   blood: AB
   height: 159.0
   weight: 41.0
-  bust: 82
-  waist: 57
-  hip: 83
+  bust: 82.0
+  waist: 57.0
+  hip: 83.0
   handed: left
   from: 茨城県
   favorite:
