@@ -1,4 +1,4 @@
-Rspec.describe Rubiderella::Idol::Name do
+RSpec.describe Rubiderella::Idol::Name do
   describe '#full' do
     subject { Rubiderella::Idol.find_by_key(idol_name).name }
     where(:input, :full_name) do
