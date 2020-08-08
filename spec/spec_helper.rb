@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 if ENV['CI'] && ENV['CODECOV_TOKEN']
   require 'simplecov'
   require 'codecov'

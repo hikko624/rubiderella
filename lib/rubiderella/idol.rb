@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Rubiderella
   class Idol
     attr_reader :name, :type, :age, :birthday, :sign, :blood, :height, :weight, :bust, :waist, :hip, :handed, :from,

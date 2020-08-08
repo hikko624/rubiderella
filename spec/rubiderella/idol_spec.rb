@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.describe Rubiderella::Idol do
   describe '#all' do
     let(:cinderella_count) { 190 }

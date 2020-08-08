@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.describe Rubiderella do
   let(:idols) { CinderellaGirls.idol.all }
   describe 'Cinderella Module' do
