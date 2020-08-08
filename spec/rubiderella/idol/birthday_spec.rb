@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.describe Rubiderella::Idol::Birthday do
   describe '#date' do
     subject { Rubiderella::Idol.find_by_key(idol_name) }

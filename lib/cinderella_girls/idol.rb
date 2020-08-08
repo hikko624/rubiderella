@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module CinderellaGirls
   class Idol
     Rubiderella::Idol.names.each do |name|

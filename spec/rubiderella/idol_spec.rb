@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.describe Rubiderella::Idol do
   describe '#all' do
     let(:cinderella_count) { 190 }
@@ -9,13 +11,13 @@ RSpec.describe Rubiderella::Idol do
   describe '#find_by_name' do
     describe 'find name by key' do
       subject { Rubiderella::Idol.find_by_key(idol_name) }
-      where( :input, :last, :last_kana, :first, :first_kana ) do
+      where(:input, :last, :last_kana, :first, :first_kana) do
         [
-            [:kanzaki_ranko, '神崎', 'かんざき', '蘭子', 'らんこ'],
-            [:ohishi_izumi, '大石', 'おおいし', '泉', 'いずみ'],
-            [:shimamura_uzuki, '島村', 'しまむら', '卯月', 'うずき'],
-            [:shibuya_rin, '渋谷', 'しぶや', '凛', 'りん'],
-            [:honda_mio, '本田', 'ほんだ', '未央', 'みお']
+          [:kanzaki_ranko, '神崎', 'かんざき', '蘭子', 'らんこ'],
+          [:ohishi_izumi, '大石', 'おおいし', '泉', 'いずみ'],
+          [:shimamura_uzuki, '島村', 'しまむら', '卯月', 'うずき'],
+          [:shibuya_rin, '渋谷', 'しぶや', '凛', 'りん'],
+          [:honda_mio, '本田', 'ほんだ', '未央', 'みお']
         ]
       end
 
@@ -32,13 +34,13 @@ RSpec.describe Rubiderella::Idol do
 
     describe 'not find name by key' do
       subject { Rubiderella::Idol.find_by_key(idol_name) }
-      where( :input ) do
+      where(:input) do
         [
-            [:amami_haruka],
-            [:tendo_teru],
-            [:sakuragi_mano],
-            [:kasuga_mirai],
-            [:aaa]
+          [:amami_haruka],
+          [:tendo_teru],
+          [:sakuragi_mano],
+          [:kasuga_mirai],
+          [:aaa]
         ]
       end
 
@@ -49,6 +51,5 @@ RSpec.describe Rubiderella::Idol do
         end
       end
     end
-
   end
 end
