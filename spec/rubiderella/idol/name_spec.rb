@@ -1,12 +1,12 @@
-RSpec.describe Rubiderella::Idol::Name do
+Rspec.describe Rubiderella::Idol::Name do
   describe '#full' do
     subject { Rubiderella::Idol.find_by_key(idol_name).name }
     where(:input, :full_name) do
       [
-          [:kanzaki_ranko, '神崎蘭子'],
-          [:shimamura_uzuki, '島村卯月'],
-          [:shibuya_rin, '渋谷凛'],
-          [:honda_mio, '本田未央']
+        [:kanzaki_ranko, '神崎蘭子'],
+        [:shimamura_uzuki, '島村卯月'],
+        [:shibuya_rin, '渋谷凛'],
+        [:honda_mio, '本田未央']
       ]
     end
 
@@ -22,10 +22,10 @@ RSpec.describe Rubiderella::Idol::Name do
     subject { Rubiderella::Idol.find_by_key(idol_name).name }
     where(:input, :full_name_kana) do
       [
-          [:kanzaki_ranko, 'かんざきらんこ'],
-          [:shimamura_uzuki, 'しまむらうずき'],
-          [:shibuya_rin, 'しぶやりん'],
-          [:honda_mio, 'ほんだみお']
+        [:kanzaki_ranko, 'かんざきらんこ'],
+        [:shimamura_uzuki, 'しまむらうずき'],
+        [:shibuya_rin, 'しぶやりん'],
+        [:honda_mio, 'ほんだみお']
       ]
     end
 

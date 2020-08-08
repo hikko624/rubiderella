@@ -31,22 +31,22 @@ This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) an
 CinderellaGirls.idol.all.count
 #=> 190
 
-CInderella.girl.kanzaki_ranko
-=> #<Rubiderella::Idol:0x00007fdb6c1a4df8
+CinderellaGirls.idol.kanzaki_ranko
+=> #<Rubiderella::Idol:0x00007feec79bff60
  @age=14,
- @birthday="4/8",
+ @birthday=#<Rubiderella::Idol::Birthday:0x00007feec79bfee8 @day=8, @month=4>,
  @blood="A",
- @bust=81,
+ @bust=81.0,
  @cv="内田真礼",
  @favorite=["絵を描くこと"],
  @from="熊本県",
  @handed="right",
  @height=156.0,
- @hip=80,
- @name=#<Rubiderella::Idol::Name:0x00007fdb6c1a4dd0 @first="蘭子", @first_kana="らんこ", @last="神崎", @last_kana="かんざき">,
+ @hip=80.0,
+ @name=#<Rubiderella::Idol::Name:0x00007feec79bff38 @first="蘭子", @first_kana="らんこ", @last="神崎", @last_kana="かんざき">,
  @sign="牡羊座",
  @type="cool",
- @waist=57,
+ @waist=57.0,
  @weight=41.0>
 
 CinderellaGirls.idol.kanzaki_ranko.cv
@@ -60,11 +60,14 @@ CinderellaGirls.idol.kanzaki_ranko.name.full
 
 CinderellaGirls.idol.kanzaki_ranko.name.full_kana
 => "かんざきらんこ"
+
+CinderellaGirls.idol.kanzaki_ranko.name.birthday.date
+=> "4月8日"
 ```
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/rubiderella. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/rubiderella/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/hikko624/rubiderella. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/hikko624/rubiderella/blob/master/CODE_OF_CONDUCT.md).
 
 
 ## License
@@ -73,4 +76,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Rubiderella project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/rubiderella/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Rubiderella project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/hikko624/rubiderella/blob/master/CODE_OF_CONDUCT.md).
