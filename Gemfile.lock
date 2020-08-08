@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rubiderella (0.1.0)
+    rubiderella (0.1.1)
       activesupport
 
 GEM
