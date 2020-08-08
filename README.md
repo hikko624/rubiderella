@@ -90,6 +90,7 @@ ex: 神崎蘭子(Kanzaki Ranko)
  @waist=57.0,
  @weight=41.0>
 
+# CinderellaGirls.idol.[IDOL_NAME].cv
 >> CinderellaGirls.idol.kanzaki_ranko.cv
 => "内田真礼"
 
