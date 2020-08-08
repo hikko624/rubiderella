@@ -25,9 +25,9 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: ${{ matrix.ruby }}
+    - name: bundle update
+      run: bundle update
     - name: bundle install
       run: bundle install
-    - name: bundle update
-      run: bundle update --jobs $(nproc) --retry 3
     - name: run test
       run: bundle exec rspec
