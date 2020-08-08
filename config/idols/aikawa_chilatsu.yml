@@ -7,14 +7,16 @@ aikawa_chinatsu:
     first_kana: ちなつ
   type: cool
   age: 23
-  birthday: 11/11
+  birthday:
+    month: 11
+    day: 11
   sign: 蠍座
   blood: B
   height: 161.0
   weight: 43.0
-  bust: 82
-  waist: 56
-  hip: 85
+  bust: 82.0
+  waist: 56.0
+  hip: 85.0
   handed: right
   from: 北海道
   favorite:

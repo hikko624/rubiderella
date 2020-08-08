@@ -7,14 +7,16 @@ yokoyama_chika:
     first_kana: ちか
   type: cute
   age: 9
-  birthday: 12/18
+  birthday:
+    month: 12
+    day: 18
   sign: 射手座
   blood: A
   height: 127.0
   weight: 31.0
-  bust: 61
-  waist: 55
-  hip: 65
+  bust: 61.0
+  waist: 55.0
+  hip: 65.0
   handed: right
   from: 宮崎県
   favorite:

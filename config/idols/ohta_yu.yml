@@ -7,7 +7,9 @@ ohta_yu:
     first_kana: ゆう
   type: cute
   age: 21
-  birthday: 1/28
+  birthday:
+    month: 1
+    day: 28
   sign: 水瓶座
   blood: AB
   height: 159.0

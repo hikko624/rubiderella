@@ -7,14 +7,16 @@ harada_miyo:
     first_kana: みよ
   type: cute
   age: 20
-  birthday: 11/14
+  birthday:
+    month: 11
+    day: 14
   sign: 蠍座
   blood: O
   height: 163.0
   weight: 46.0
-  bust: 86
-  waist: 59
-  hip: 85
+  bust: 86.0
+  waist: 59.0
+  hip: 85.0
   handed: right
   from: 石川県
   favorite:

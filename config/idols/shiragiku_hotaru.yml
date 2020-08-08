@@ -7,14 +7,16 @@ shiragiku_hotaru:
     first_kana: ほたる
   type: cute
   age: 13
-  birthday: 4/19
+  birthday:
+    month: 4
+    day: 19
   sign: 牡羊座
   blood: AB
   height: 158.0
   weight: 42.0
-  bust: 77
-  waist: 52
-  hip: 79
+  bust: 77.0
+  waist: 52.0
+  hip: 79.0
   handed: left
   from: 鳥取県
   favorite:

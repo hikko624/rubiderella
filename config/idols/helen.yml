@@ -7,14 +7,16 @@ helen:
     first_kana: へれん
   type: cool
   age: 24
-  birthday: 4/4
+  birthday:
+    month: 4
+    day: 4
   sign: 牡羊座
   blood: AB
   height: 158.0
   weight: 46.0
-  bust: 90
-  waist: 58
-  hip: 81
+  bust: 90.0
+  waist: 58.0
+  hip: 81.0
   handed: right
   from: 海の向こう
   favorite:

@@ -7,14 +7,16 @@ ohishi_izumi:
     first_kana: いずみ
   type: cool
   age: 15
-  birthday: 11/11
+  birthday:
+    month: 11
+    day: 11
   sign: 蠍座
   blood: A
   height: 161.0
   weight: 41.0
-  bust: 83
-  waist: 55
-  hip: 82
+  bust: 83.0
+  waist: 55.0
+  hip: 82.0
   handed: right
   from: 静岡道
   favorite:

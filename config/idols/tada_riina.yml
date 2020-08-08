@@ -7,14 +7,16 @@ tada_riina:
     first_kana: りいな
   type: cool
   age: 17
-  birthday: 6/30
+  birthday:
+    month: 6
+    day: 30
   sign: 蟹座
   blood: A
   height: 152.0
   weight: 41.0
-  bust: 80
-  waist: 55
-  hip: 81
+  bust: 80.0
+  waist: 55.0
+  hip: 81.0
   handed: right
   from: 東京都
   favorite:

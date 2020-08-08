@@ -7,14 +7,16 @@ saionji_kotoka:
     first_kana: ことは
   type: cute
   age: 17
-  birthday: 1/23
+  birthday:
+    month: 1
+    day: 23
   sign: 水瓶座
   blood: O
   height: 156.0
   weight: 46.0
-  bust: 87
-  waist: 57
-  hip: 85
+  bust: 87.0
+  waist: 57.0
+  hip: 85.0
   handed: right
   from: 東京都
   favorite:

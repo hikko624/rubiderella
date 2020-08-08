@@ -7,14 +7,16 @@ fujimoto_rina:
     first_kana: りな
   type: cute
   age: 18
-  birthday: 10/14
+  birthday:
+    month: 10
+    day: 14
   sign: 天秤座
   blood: A
   height: 154.0
   weight: 41.0
-  bust: 77
-  waist: 55
-  hip: 80
+  bust: 77.0
+  waist: 55.0
+  hip: 80.0
   handed: right
   from: 神奈川県(湘南市)
   favorite:

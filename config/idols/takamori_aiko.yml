@@ -7,14 +7,16 @@ takamori_aiko:
     first_kana: あいこ
   type: passion
   age: 16
-  birthday: 7/25
+  birthday:
+    month: 7
+    day: 25
   sign: 獅子座
   blood: O
   height: 155.0
   weight: 42.0
-  bust: 74
-  waist: 60
-  hip: 79
+  bust: 74.0
+  waist: 60.0
+  hip: 79.0
   handed: right
   from: 東京都
   favorite:

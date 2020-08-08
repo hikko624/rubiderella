@@ -7,14 +7,16 @@ himekawa_yuki:
     first_kana: ゆき
   type: passion
   age: 20
-  birthday: 9/14
+  birthday:
+    month: 9
+    day: 14
   sign: 乙女座
   blood: A
   height: 161.0
   weight: 44.0
-  bust: 80
-  waist: 57
-  hip: 80
+  bust: 80.0
+  waist: 57.0
+  hip: 80.0
   handed: right
   from: 宮崎県
   favorite:

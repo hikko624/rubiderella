@@ -7,14 +7,16 @@ yagami_makino:
     first_kana: まきの
   type: cool
   age: 18
-  birthday: 11/7
+  birthday:
+    month: 11
+    day: 7
   sign: 蠍座
   blood: B
   height: 160.0
   weight: 45.0
-  bust: 85
-  waist: 56
-  hip: 83
+  bust: 85.0
+  waist: 56.0
+  hip: 83.0
   handed: right
   from: 岐阜県
   favorite:

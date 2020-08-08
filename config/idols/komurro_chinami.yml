@@ -7,14 +7,16 @@ komuro_chinami:
     first_kana: ちなみ
   type: cool
   age: 19
-  birthday: 6/9
+  birthday:
+    month: 6
+    day: 9
   sign: 双子座
   blood: AB
   height: 164.0
   weight: 45.0
-  bust: 84
-  waist: 56
-  hip: 82
+  bust: 84.0
+  waist: 56.0
+  hip: 82.0
   handed: right
   from: 愛知県
   favorite:

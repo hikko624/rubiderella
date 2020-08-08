@@ -7,14 +7,16 @@ shinohara_rei:
     first_kana: れい
   type: cool
   age: 27
-  birthday: 11/22
+  birthday:
+    month: 11
+    day: 22
   sign: 蠍座
   blood: B
   height: 171.0
   weight: 49.0
-  bust: 93
-  waist: 58
-  hip: 88
+  bust: 93.0
+  waist: 58.0
+  hip: 88.0
   handed: left
   from: 宮崎県
   favorite:

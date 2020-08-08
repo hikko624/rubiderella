@@ -7,14 +7,16 @@ anastasia:
     first_kana: あなすたしあ
   type: cool
   age: 15
-  birthday: 9/19
+  birthday:
+    month: 9
+    day: 19
   sign: 乙女座
   blood: O
   height: 165.0
   weight: 43.0
-  bust: 80
-  waist: 54
-  hip: 80
+  bust: 80.0
+  waist: 54.0
+  hip: 80.0
   handed: both
   from: 北海道
   favorite:

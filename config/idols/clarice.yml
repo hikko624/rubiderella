@@ -7,14 +7,16 @@ clarice:
     first_kana: くらりす
   type: cute
   age: 20
-  birthday: 8/26
+  birthday:
+    month: 8
+    day: 26
   sign: 乙女座
   blood: AB
   height: 166.0
   weight: 45.0
-  bust: 80
-  waist: 55
-  hip: 82
+  bust: 80.0
+  waist: 55.0
+  hip: 82.0
   handed: right
   from: 兵庫県
   favorite:

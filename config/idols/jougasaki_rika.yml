@@ -7,14 +7,16 @@ jougasaki_rika:
     first_kana: りか
   type: passion
   age: 12
-  birthday: 7/30
+  birthday:
+    month: 7
+    day: 30
   sign: 獅子座
   blood: B
   height: 149.0
   weight: 36.0
-  bust: 72
-  waist: 54
-  hip: 75
+  bust: 72.0
+  waist: 54.0
+  hip: 75.0
   handed: left
   from: 埼玉県
   favorite:

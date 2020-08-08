@@ -7,14 +7,16 @@ yorita_yoshino:
     first_kana: よしの
   type: passion
   age: 16
-  birthday: 7/3
+  birthday:
+    month: 7
+    day: 3
   sign: 蟹座
   blood: O
   height: 151.0
   weight: 40.0
-  bust: 73
-  waist: 53
-  hip: 73
+  bust: 73.0
+  waist: 53.0
+  hip: 73.0
   handed: right
   from: 鹿児島県
   favorite:

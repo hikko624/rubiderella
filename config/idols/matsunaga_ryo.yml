@@ -7,14 +7,16 @@ matsunaga_ryo:
     first_kana: りょう
   type: cool
   age: 18
-  birthday: 10/1
+  birthday:
+    month: 10
+    day: 1
   sign: 天秤座
   blood: AB
   height: 160.0
   weight: 47.0
-  bust: 90
-  waist: 56
-  hip: 86
+  bust: 90.0
+  waist: 56.0
+  hip: 86.0
   handed: right
   from: 東京都
   favorite:

@@ -7,12 +7,14 @@ yumemi_riamu:
     first_kana: りあむ
   type: passion
   age: 19
-  birthday: 9/12
+  birthday:
+    month: 9
+    day: 12
   sign: 乙女座
   blood: AB
   height: 149.0
   weight: リンゴたくさん
-  bust: でっかい(95)
+  bust: でっかい(95.0)
   waist: ふつう
   hip: たぶんふつう
   handed: right

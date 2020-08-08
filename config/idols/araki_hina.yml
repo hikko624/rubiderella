@@ -7,14 +7,16 @@ araki_hina:
     first_kana: ひな
   type: cool
   age: 20
-  birthday: 4/9
+  birthday:
+    month: 4
+    day: 9
   sign: 牡羊座
   blood: A
   height: 157.0
   weight: 43.0
-  bust: 83
-  waist: 57
-  hip: 82
+  bust: 83.0
+  waist: 57.0
+  hip: 82.0
   handed: right
   from: 神奈川県
   favorite:

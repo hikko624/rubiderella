@@ -7,14 +7,16 @@ kate:
     first_kana: けいと
   type: cool
   age: 20
-  birthday: 8/15
+  birthday:
+    month: 8
+    day: 15
   sign: 獅子座
   blood: O
   height: 157.0
   weight: 45.0
-  bust: 83
-  waist: 59
-  hip: 85
+  bust: 83.0
+  waist: 59.0
+  hip: 85.0
   handed: right
   from: イギリス
   favorite:

@@ -7,14 +7,16 @@ fujiwara_hajime:
     first_kana: はじめ
   type: cool
   age: 16
-  birthday: 6/15
+  birthday:
+    month: 6
+    day: 15
   sign: 双子座
   blood: B
   height: 161.0
   weight: 43.0
-  bust: 80
-  waist: 55
-  hip: 84
+  bust: 80.0
+  waist: 55.0
+  hip: 84.0
   handed: both
   from: 岡山県
   favorite:

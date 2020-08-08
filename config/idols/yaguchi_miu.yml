@@ -7,14 +7,16 @@ yaguchi_miu:
     first_kana: みう
   type: passion
   age: 14
-  birthday: 7/10
+  birthday:
+    month: 7
+    day: 10
   sign: 蟹座
   blood: B
   height: 150.0
   weight: 41.0
-  bust: 81
-  waist: 56
-  hip: 80
+  bust: 81.0
+  waist: 56.0
+  hip: 80.0
   handed: right
   from: 千葉県
   favorite:

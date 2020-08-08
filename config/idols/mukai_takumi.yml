@@ -7,14 +7,16 @@ mukai_takumi:
     first_kana: たくみ
   type: passion
   age: 18
-  birthday: 8/7
+  birthday:
+    month: 8
+    day: 7
   sign: 獅子座
   blood: A
   height: 163.0
   weight: 53.0
-  bust: 95
-  waist: 60
-  hip: 87
+  bust: 95.0
+  waist: 60.0
+  hip: 87.0
   handed: right
   from: 神奈川県
   favorite:

@@ -7,14 +7,16 @@ kishibe_ayaka:
     first_kana: あやか
   type: cool
   age: 19
-  birthday: 11/13
+  birthday:
+    month: 11
+    day: 13
   sign: 蠍座
   blood: A
   height: 162.0
   weight: 46.0
-  bust: 89
-  waist: 59
-  hip: 85
+  bust: 89.0
+  waist: 59.0
+  hip: 85.0
   handed: right
   from: 埼玉県
   favorite:

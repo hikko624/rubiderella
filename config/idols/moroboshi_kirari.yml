@@ -7,14 +7,16 @@ moroboshi_kirari:
     first_kana: きらり
   type: passion
   age: 17
-  birthday: 9/1
+  birthday:
+    month: 9
+    day: 1
   sign: 乙女座
   blood: O
   height: 182.0
   weight: 60.0
-  bust: 91
-  waist: 64
-  hip: 86
+  bust: 91.0
+  waist: 64.0
+  hip: 86.0
   handed: right
   from: 東京都
   favorite:

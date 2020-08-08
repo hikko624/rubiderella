@@ -7,14 +7,16 @@ ninomiya_asuka:
     first_kana: あすか
   type: cool
   age: 14
-  birthday: 2/3
+  birthday:
+    month: 2
+    day: 3
   sign: 水瓶座
   blood: B
   height: 154.0
   weight: 43.0
-  bust: 75
-  waist: 55
-  hip: 78
+  bust: 75.0
+  waist: 55.0
+  hip: 78.0
   handed: right
   from: 静岡県
   favorite:

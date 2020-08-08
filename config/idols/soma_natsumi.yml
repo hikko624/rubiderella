@@ -7,14 +7,16 @@ soma_matsumi:
     first_kana: なつみ
   type: passion
   age: 25
-  birthday: 7/23
+  birthday:
+    month:  7
+    day: 23
   sign: 獅子座
   blood: A
   height: 160.0
   weight: 46.0
-  bust: 83
-  waist: 60
-  hip: 89
+  bust: 83.0
+  waist: 60.0
+  hip: 89.0
   handed: right
   from: 京都府
   favorite:

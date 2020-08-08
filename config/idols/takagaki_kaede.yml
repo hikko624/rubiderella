@@ -7,14 +7,16 @@ takagaki_kaede:
     first_kana: かえで
   type: cool
   age: 25
-  birthday: 6/14
+  birthday:
+    month: 6
+    day: 14
   sign: 双子座
   blood: AB
   height: 171.0
   weight: 49.0
-  bust: 81
-  waist: 57
-  hip: 83
+  bust: 81.0
+  waist: 57.0
+  hip: 83.0
   handed: left
   from: 和歌山県
   favorite:

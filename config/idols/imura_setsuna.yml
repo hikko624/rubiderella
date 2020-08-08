@@ -7,14 +7,16 @@ imura_setsuna:
     first_kana: せつな
   type: cute
   age: 17
-  birthday: 8/27
+  birthday:
+    month: 8
+    day: 27
   sign: 乙女座
   blood: AB
   height: 163.0
   weight: 48.0
-  bust: 85
-  waist: 60
-  hip: 88
+  bust: 85.0
+  waist: 60.0
+  hip: 88.0
   handed: right
   from: 秋田県
   favorite:

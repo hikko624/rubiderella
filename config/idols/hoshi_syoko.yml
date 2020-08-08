@@ -7,14 +7,16 @@ hoshi_syoko:
     first_kana: しょうこ
   type: passion
   age: 15
-  birthday: 6/6
+  birthday:
+    month: 6
+    day: 6
   sign: 双子座
   blood: B
   height: 142.0
   weight: 35.0
-  bust: 73
-  waist: 53
-  hip: 75
+  bust: 73.0
+  waist: 53.0
+  hip: 75.0
   handed: left
   from: 福島県
   favorite:

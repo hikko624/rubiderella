@@ -7,14 +7,16 @@ hyodo_rena:
     first_kana: れな
   type: cute
   age: 27
-  birthday: 10/3
+  birthday:
+    month: 10
+    day: 3
   sign: 天秤座
   blood: O
   height: 167.0
   weight: 48.0
-  bust: 92
-  waist: 56
-  hip: 88
+  bust: 92.0
+  waist: 56.0
+  hip: 88.0
   handed: right
   from: 東京都
   favorite:

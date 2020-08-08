@@ -7,14 +7,16 @@ kurihara_nene:
     first_kana: ねね
   type: cute
   age: 15
-  birthday: 9/9
+  birthday:
+    month: 9
+    day: 9
   sign: 乙女座
   blood: A
   height: 161.0
   weight: 44.0
-  bust: 77
-  waist: 54
-  hip: 78
+  bust: 77.0
+  waist: 54.0
+  hip: 78.0
   handed: right
   from: 群馬県
   favorite:

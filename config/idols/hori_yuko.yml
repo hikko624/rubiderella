@@ -7,14 +7,16 @@ hori_yuko:
     first_kana: ゆうこ
   type: passion
   age: 16
-  birthday: 3/13
+  birthday:
+    month: 3
+    day: 13
   sign: 魚座
   blood: O
   height: 157.0
   weight: 44.0
-  bust: 81
-  waist: 58
-  hip: 80
+  bust: 81.0
+  waist: 58.0
+  hip: 80.0
   handed: right
   from: 福井県
   favorite:

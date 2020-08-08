@@ -7,14 +7,16 @@ murakami_tomoe:
     first_kana: ともえ
   type: passion
   age: 13
-  birthday: 1/3
+  birthday:
+    month: 1
+    day: 3
   sign: 山羊座
   blood: A
   height: 143.0
   weight: 37.0
-  bust: 74
-  waist: 53
-  hip: 76
+  bust: 74.0
+  waist: 53.0
+  hip: 76.0
   handed: right
   from: 広島県
   favorite:

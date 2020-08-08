@@ -7,14 +7,16 @@ hisakawa_nagi:
     first_kana: なぎ
   type: passion
   age: 14
-  birthday: 6/16
+  birthday:
+    month: 6
+    day: 16
   sign: 双子座
   blood: B
   height: 150.0
   weight: 40.0
-  bust: 76
-  waist: 56
-  hip: 80
+  bust: 76.0
+  waist: 56.0
+  hip: 80.0
   handed: right
   from: 徳島県
   favorite:

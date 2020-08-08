@@ -7,14 +7,16 @@ igarashi_kyoko:
     first_kana: きょうこ
   type: cute
   age: 15
-  birthday: 8/10
+  birthday:
+    month: 8
+    day: 10
   sign: 獅子座
   blood: AB
   height: 154.0
   weight: 43.0
-  bust: 81
-  waist: 58
-  hip: 80
+  bust: 81.0
+  waist: 58.0
+  hip: 80.0
   handed: right
   from: 鳥取県
   favorite:

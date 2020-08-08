@@ -7,14 +7,16 @@ sakurai_momoka:
     first_kana: ももか
   type: cute
   age: 12
-  birthday: 4/8
+  birthday:
+    month: 4
+    day: 8
   sign: 牡羊座
   blood: A
   height: 145.0
   weight: 39.0
-  bust: 72
-  waist: 53
-  hip: 75
+  bust: 72.0
+  waist: 53.0
+  hip: 75.0
   handed: right
   from: 兵庫県(神戸市)
   favorite:

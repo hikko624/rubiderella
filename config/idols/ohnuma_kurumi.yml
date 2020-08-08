@@ -7,7 +7,9 @@ ohnuma_kurumi:
     first_kana: くるみ
   type: cute
   age: 13
-  birthday: 3/30
+  birthday:
+    month: 3
+    day: 30
   sign: 牡羊座
   blood: A
   height: 145.0

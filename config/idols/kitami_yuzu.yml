@@ -7,14 +7,16 @@ kitami_yuzu:
     first_kana: ゆず
   type: passion
   age: 15
-  birthday: 12/2
+  birthday:
+    month: 12
+    day: 2
   sign: 射手座
   blood: B
   height: 156.0
   weight: 43.0
-  bust: 82
-  waist: 57
-  hip: 82
+  bust: 82.0
+  waist: 57.0
+  hip: 82.0
   handed: left
   from: 埼玉県
   favorite:

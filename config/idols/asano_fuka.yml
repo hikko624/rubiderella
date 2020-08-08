@@ -7,14 +7,16 @@ asano_fuka:
     first_kana: ふうか
   type: cute
   age: 16
-  birthday: 2/11
+  birthday:
+    month: 2
+    day: 11
   sign: 水瓶座
   blood: A
   height: 160.0
   weight: 48.0
-  bust: 88
-  waist: 59
-  hip: 84
+  bust: 88.0
+  waist: 59.0
+  hip: 84.0
   handed: right
   from: 滋賀県
   favorite:

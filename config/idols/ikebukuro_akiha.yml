@@ -7,14 +7,16 @@ ikebukuro_akiha:
     first_kana: あきは
   type: cute
   age: 14
-  birthday: 6/10
+  birthday:
+    month: 6
+    day: 10
   sign: 双子座
   blood: B
   height: 148.0
   weight: 39.0
-  bust: 75
-  waist: 53
-  hip: 74
+  bust: 75.0
+  waist: 53.0
+  hip: 74.0
   handed: right
   from: 東京都
   favorite:

@@ -7,14 +7,16 @@ nishikawa_honami:
     first_kana: ほなみ
   type: cool
   age: 16
-  birthday: 10/23
+  birthday:
+    month: 10
+    day: 23
   sign: 天秤座
   blood: A
   height: 155.0
   weight: 55.0
-  bust: 88
-  waist: 60
-  hip: 86
+  bust: 88.0
+  waist: 60.0
+  hip: 86.0
   handed: both
   from: 兵庫県
   favorite:

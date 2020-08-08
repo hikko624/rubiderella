@@ -7,14 +7,16 @@ tsukimiya_miyabi:
     first_kana: みやび
   type: cute
   age: 18
-  birthday: 10/30
+  birthday:
+    month: 10
+    day: 30
   sign: 蠍座
   blood: B
   height: 153.0
   weight: 44.0
-  bust: 86
-  waist: 56
-  hip: 82
+  bust: 86.0
+  waist: 56.0
+  hip: 82.0
   handed: right
   from: 東京都
   favorite:

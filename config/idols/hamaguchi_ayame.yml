@@ -7,14 +7,16 @@ hamaguchi_ayame:
     first_kana: あやめ
   type: passion
   age: 15
-  birthday: 1/13
+  birthday:
+    month: 1
+    day: 13
   sign: 山羊座
   blood: A
   height: 154.0
   weight: 42.0
-  bust: 78
-  waist: 55
-  hip: 80
+  bust: 78.0
+  waist: 55.0
+  hip: 80.0
   handed: left
   from: 三重県
   favorite:

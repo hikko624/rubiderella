@@ -7,14 +7,16 @@ saito_yoko:
     first_kana: ようこ
   type: passion
   age: 20
-  birthday: 12/29
+  birthday:
+    month: 12
+    day: 29
   sign: 山羊座
   blood: O
   height: 157.0
   weight: 46.0
-  bust: 85
-  waist: 57
-  hip: 82
+  bust: 85.0
+  waist: 57.0
+  hip: 82.0
   handed: right
   from: 福岡県
   favorite:

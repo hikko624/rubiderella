@@ -7,14 +7,16 @@ yao_fueifuei:
     first_kana: ふぇいふぇい
   type: cute
   age: 15
-  birthday: 9/29
+  birthday:
+    month: 9
+    day: 29
   sign: 天秤座
   blood: O
   height: 152.0
   weight: 41.0
-  bust: 82
-  waist: 58
-  hip: 84
+  bust: 82.0
+  waist: 58.0
+  hip: 84.0
   handed: right
   from: 香港
   favorite:

@@ -7,14 +7,16 @@ matsuo_chizuru:
     first_kana: ちずる
   type: cool
   age: 15
-  birthday: 3/21
+  birthday:
+    month: 3
+    day: 21
   sign: 牡羊座
   blood: A
   height: 161.0
   weight: 45.0
-  bust: 78
-  waist: 54
-  hip: 81
+  bust: 78.0
+  waist: 54.0
+  hip: 81.0
   handed: right
   from: 福岡県
   favorite:

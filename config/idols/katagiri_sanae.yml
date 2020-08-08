@@ -7,14 +7,16 @@ katagiri_sanae:
     first_kana: さなえ
   type: passion
   age: 28
-  birthday: 3/7
+  birthday:
+    month: 3
+    day: 7
   sign: 魚座
   blood: O
   height: 152.0
   weight: 47.0
-  bust: 92
-  waist: 58
-  hip: 84
+  bust: 92.0
+  waist: 58.0
+  hip: 84.0
   handed: right
   from: 新潟県
   favorite:

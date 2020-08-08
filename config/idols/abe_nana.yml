@@ -7,14 +7,16 @@ abe_nana:
     first_kana: なな
   type: cute
   age: 永遠の17歳
-  birthday: 5/5
+  birthday:
+    month: 5
+    day: 5
   sign: 牡牛座
   blood: a
   height: 146.0
   weight: 40.0
-  bust: 84
-  waist: 57
-  hip: 84
+  bust: 84.0
+  waist: 57.0
+  hip: 84.0
   handed: right
   from: ウサミン星
   favorite:

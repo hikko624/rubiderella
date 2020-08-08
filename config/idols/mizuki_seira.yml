@@ -7,14 +7,16 @@ mizuki_seira:
     first_kana: せいら
   type: cool
   age: 23
-  birthday: 4/27
+  birthday:
+    month:  4
+    day: 27
   sign: 牡羊座
   blood: B
   height: 155.0
   weight: 43.0
-  bust: 82
-  waist: 55
-  hip: 80
+  bust: 82.0
+  waist: 55.0
+  hip: 80.0
   handed: right
   from: 茨城県
   favorite:

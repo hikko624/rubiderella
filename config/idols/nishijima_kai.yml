@@ -7,14 +7,16 @@ nishijima_kai:
     first_kana: かい
   type: passion
   age: 19
-  birthday: 8/17
+  birthday:
+    month: 8
+    day: 17
   sign: 獅子座
   blood: O
   height: 172.0
   weight: 49.0
-  bust: 86
-  waist: 59
-  hip: 83
+  bust: 86.0
+  waist: 59.0
+  hip: 83.0
   handed: right
   from: 大阪府
   favorite:

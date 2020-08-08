@@ -7,14 +7,16 @@ saejima_kiyomi:
     first_kana: きよみ
   type: passion
   age: 15
-  birthday: 9/26
+  birthday:
+    month: 9
+    day: 26
   sign: 天秤座
   blood: A
   height: 153.0
   weight: 43.0
-  bust: 76
-  waist: 58
-  hip: 78
+  bust: 76.0
+  waist: 58.0
+  hip: 78.0
   handed: right
   from: 沖縄県
   favorite:

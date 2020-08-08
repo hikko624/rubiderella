@@ -7,14 +7,16 @@ mizuno_midori:
     first_kana: みどり
   type: cool
   age: 18
-  birthday: 12/5
+  birthday:
+    month: 12
+    day: 5
   sign: 射手座
   blood: AB
   height: 164.0
   weight: 47.0
-  bust: 80
-  waist: 54
-  hip: 81
+  bust: 80.0
+  waist: 54.0
+  hip: 81.0
   handed: right
   from: 愛知県
   favorite:

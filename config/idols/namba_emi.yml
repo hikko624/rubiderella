@@ -7,14 +7,16 @@ namba_emi:
     first_kana: えみ
   type: passion
   age: 17
-  birthday: 5/1
+  birthday:
+    month: 5
+    day: 1
   sign: 牡牛座
   blood: O
   height: 158.0
   weight: 45.0
-  bust: 82
-  waist: 56
-  hip: 80
+  bust: 82.0
+  waist: 56.0
+  hip: 80.0
   handed: right
   from: 大阪府
   favorite:

@@ -7,14 +7,16 @@ asari_nanami:
     first_kana: ななみ
   type: cool
   age: 14
-  birthday: 10/9
+  birthday:
+    month: 10
+    day: 9
   sign: 天秤座
   blood: A
   height: 151.0
   weight: 41.0
-  bust: 78
-  waist: 55
-  hip: 77
+  bust: 78.0
+  waist: 55.0
+  hip: 77.0
   handed: right
   from: 青森県
   favorite:

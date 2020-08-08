@@ -7,14 +7,16 @@ kitagawa_mahiro:
     first_kana: まひろ
   type: passion
   age: 17
-  birthday: 2/17
+  birthday:
+    month: 2
+    day: 17
   sign: 水瓶座
   blood: O
   height: 158.0
   weight: 43.0
-  bust: 75
-  waist: 57
-  hip: 79
+  bust: 75.0
+  waist: 57.0
+  hip: 79.0
   handed: right
   from: 香川県
   favorite:

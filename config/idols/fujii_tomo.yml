@@ -7,14 +7,16 @@ fujii_tomo:
     first_kana: とも
   type: cool
   age: 19
-  birthday: 7/1
+  birthday:
+    month: 7
+    day: 1
   sign: 蟹座
   blood: O
   height: 163.0
   weight: 45.0
-  bust: 78
-  waist: 57
-  hip: 83
+  bust: 78.0
+  waist: 57.0
+  hip: 83.0
   handed: right
   from: 滋賀県
   favorite:

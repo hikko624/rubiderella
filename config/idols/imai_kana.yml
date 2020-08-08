@@ -7,14 +7,16 @@ imai_kana:
     first_kana: かな
   type: cute
   age: 16
-  birthday: 3/3
+  birthday:
+    month: 3
+    day: 3
   sign: 魚座
   blood: O
   height: 153.0
   weight: 41.0
-  bust: 81
-  waist: 56
-  hip: 70
+  bust: 81.0
+  waist: 56.0
+  hip: 70.0
   handed: right
   from: 高知県
   favorite:

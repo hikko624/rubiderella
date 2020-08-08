@@ -7,14 +7,16 @@ takafuji_kako:
     first_kana: かこ
   type: cool
   age: 20
-  birthday: 1/1
+  birthday:
+    month: 1
+    day: 1
   sign: 山羊座
   blood: AB
   height: 160.0
   weight: 43.0
-  bust: 88
-  waist: 57
-  hip: 88
+  bust: 88.0
+  waist: 57.0
+  hip: 88.0
   handed: right
   from: 島根県
   favorite:

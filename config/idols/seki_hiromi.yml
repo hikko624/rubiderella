@@ -7,14 +7,16 @@ seki_hiromi:
     first_kana: ひろみ
   type: cute
   age: 14
-  birthday: 8/17
+  birthday:
+    month: 8
+    day: 17
   sign: 獅子座
   blood: A
   height: 155.0
   weight: 43.0
-  bust: 78
-  waist: 55
-  hip: 80
+  bust: 78.0
+  waist: 55.0
+  hip: 80.0
   handed: right
   from: 富山県
   favorite:

@@ -7,14 +7,16 @@ sakuma_mayu:
     first_kana: まゆ
   type: cute
   age: 16
-  birthday: 9/7
+  birthday:
+    month: 9
+    day: 7
   sign: 乙女座
   blood: B
   height: 153.0
   weight: 40.0
-  bust: 78
-  waist: 54
-  hip: 80
+  bust: 78.0
+  waist: 54.0
+  hip: 80.0
   handed: both
   from: 宮城県(仙台市)
   favorite:

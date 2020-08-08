@@ -7,14 +7,16 @@ shimamura_uzuki:
     first_kana: うずき
   type: cute
   age: 17
-  birthday: 4/24
+  birthday:
+    month: 4
+    day: 24
   sign: 牡牛座
   blood: O
   height: 159.0
   weight: 49.0
-  bust: 83
-  waist: 59
-  hip: 87
+  bust: 83.0
+  waist: 59.0
+  hip: 87.0
   handed: right
   from: 東京都
   favorite:

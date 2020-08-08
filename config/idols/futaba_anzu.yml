@@ -7,7 +7,9 @@ futaba_anzu:
     first_kana: あんず
   type: cute
   age: 17
-  birthday: 9/2
+  birthday:
+    month: 9
+    day: 2
   sign: 花も恥らう乙女座
   blood: B
   height: 139.0

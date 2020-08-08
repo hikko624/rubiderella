@@ -7,14 +7,16 @@ morikubo_nono:
     first_kana: のの
   type: cool
   age: 14
-  birthday: 8/27
+  birthday:
+    month: 8
+    day: 27
   sign: 乙女座
   blood: AB
   height: 149.0
   weight: 38.0
-  bust: 73
-  waist: 55
-  hip: 76
+  bust: 73.0
+  waist: 55.0
+  hip: 76.0
   handed: left
   from: 神奈川県
   favorite:

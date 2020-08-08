@@ -7,14 +7,16 @@ suzumiya_seika:
     first_kana: せいか
   type: cute
   age: 19
-  birthday: 8/28
+  birthday:
+    month: 8
+    day: 28
   sign: 乙女座
   blood: A
   height: 158.0
   weight: 45.0
-  bust: 82
-  waist: 57
-  hip: 83
+  bust: 82.0
+  waist: 57.0
+  hip: 83.0
   handed: right
   from: 岐阜県
   favorite:

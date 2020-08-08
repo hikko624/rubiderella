@@ -7,14 +7,16 @@ togo_ai:
     first_kana: あい
   type: cool
   age: 23
-  birthday: 2/7
+  birthday:
+    month: 2
+    day: 7
   sign: 水瓶座
   blood: AB
   height: 167.0
   weight: 45.0
-  bust: 82
-  waist: 57
-  hip: 83
+  bust: 82.0
+  waist: 57.0
+  hip: 83.0
   handed: both
   from: 福島県
   favorite:

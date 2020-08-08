@@ -7,14 +7,16 @@ cathy_graham:
     first_kana: きゃしー
   type: passion
   age: 15
-  birthday: 9/19
+  birthday:
+    month: 9
+    day: 19
   sign: 乙女座
   blood: O
   height: 168.0
   weight: 49.0
-  bust: 83
-  waist: 56
-  hip: 85
+  bust: 83.0
+  waist: 56.0
+  hip: 85.0
   handed: left
   from: ニューヨーク
   favorite:

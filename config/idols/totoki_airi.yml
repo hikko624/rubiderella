@@ -7,14 +7,16 @@ totoki_airi:
     first_kana: あいり
   type: passion
   age: 18
-  birthday: 12/8
+  birthday:
+    month: 12
+    day: 8
   sign: 射手座
   blood: O
   height: 161.0
   weight: 46.0
-  bust: 86
-  waist: 58
-  hip: 88
+  bust: 86.0
+  waist: 58.0
+  hip: 88.0
   handed: right
   from: 秋田県
   favorite:

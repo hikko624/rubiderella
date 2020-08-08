@@ -7,14 +7,16 @@ miyamoto_frederica:
     first_kana: ふれでりか
   type: cute
   age: 19
-  birthday: 2/14
+  birthday:
+    month: 2
+    day: 14
   sign: 水瓶座
   blood: B
   height: 164.0
   weight: 46.0
-  bust: 83
-  waist: 57
-  hip: 85
+  bust: 83.0
+  waist: 57.0
+  hip: 85.0
   handed: left
   from: フランス(パリ)
   favorite:

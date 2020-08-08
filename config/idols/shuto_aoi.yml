@@ -7,14 +7,16 @@ shuto_aoi:
     first_kana: あおい
   type: passion
   age: 13
-  birthday: 8/18
+  birthday:
+    month: 8
+    day: 18
   sign: 獅子座
   blood: O
   height: 145.0
   weight: 39.0
-  bust: 73
-  waist: 53
-  hip: 75
+  bust: 73.0
+  waist: 53.0
+  hip: 75.0
   handed: right
   from: 大分県
   favorite:

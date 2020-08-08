@@ -7,14 +7,16 @@ otokura_yuki:
     first_kana: ゆうき
   type: cute
   age: 13
-  birthday: 10/6
+  birthday:
+    month: 10
+    day: 6
   sign: 天秤座
   blood: A
   height: 164.0
   weight: 40.0
-  bust: 70
-  waist: 53
-  hip: 74
+  bust: 70.0
+  waist: 53.0
+  hip: 74.0
   handed: right
   from: 岡山県
   favorite:
