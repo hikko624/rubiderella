@@ -1,0 +1,24 @@
+---
+rookie_trainer:
+  name:
+    last: 青木
+    last_kana: あおき
+    first: 慶
+    first_kana: けい
+  type: passion
+  age: 19
+  birthday:
+    month: 3
+    day: 10
+  sign: 魚座
+  blood: B
+  height: 157.0
+  weight: 45.0
+  bust: 77.0
+  waist: 56.0
+  hip: 82.0
+  handed: right
+  from: 栃木県
+  favorite:
+    - ジム通い
+  cv: 藤村歩

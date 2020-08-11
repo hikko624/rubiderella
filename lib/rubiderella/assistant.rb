@@ -1,12 +1,11 @@
 # frozen_string_literal: true
 
 module Rubiderella
-  class Idol
+  class Assistant
     attr_reader :name, :type, :age, :birthday, :sign, :blood, :height, :weight, :bust, :waist, :hip, :handed, :from,
                 :favorite, :cv
     @config = nil
     @all = nil
-
     def initialize(args)
       @name = Name.new(args[:name])
       @type = args[:type]
@@ -27,7 +26,7 @@ module Rubiderella
 
     class << self
       def config
-        @config = Dir.glob("#{File.dirname(__FILE__)}/../../config/idols/*.yml").each_with_object({}) do |file, idols|
+        @config = Dir.glob("#{File.dirname(__FILE__)}/../../config/assistant/*.yml").each_with_object({}) do |file, idols|
           idols.merge!(YAML.load_file(file))
         end.deep_symbolize_keys
       end
@@ -36,8 +35,8 @@ module Rubiderella
         config.keys
       end
 
-      def valid?(idol_key)
-        names.include?(idol_key)
+      def valid?(trainer_name)
+        names.include?(trainer_name)
       end
 
       def all
@@ -48,7 +47,7 @@ module Rubiderella
       end
 
       def find_by_key(key)
-        raise UnknownIdolError unless valid?(key)
+        raise UnknownAssistantError unless valid?(key)
 
         new(@config[key])
       end

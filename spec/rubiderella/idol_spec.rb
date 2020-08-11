@@ -47,7 +47,7 @@ RSpec.describe Rubiderella::Idol do
       with_them do
         let(:idol_name) { input }
         it 'should return error' do
-          expect { subject }.to raise_error(Rubiderella::Idol::UnknownIdolError)
+          expect { subject }.to raise_error(Rubiderella::UnknownIdolError)
         end
       end
     end

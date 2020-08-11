@@ -1,0 +1,24 @@
+---
+master_trainer:
+  name:
+    last: 青木
+    last_kana: あおき
+    first: 麗
+    first_kana: れい
+  type: passion
+  age: 28
+  birthday:
+    month: 12
+    day: 10
+  sign: 射手座
+  blood: AB
+  height: 166.0
+  weight: 45.0
+  bust: 82.0
+  waist: 56.0
+  hip: 83.0
+  handed: right
+  from: 栃木県
+  favorite:
+    - スポーツドリンクの自作
+  cv: 藤村歩
