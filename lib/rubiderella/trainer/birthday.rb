@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 module Rubiderella
-  class Idol
-    class Name < Person::Name
+  class Trainer
+    class Birthday < Person::Birthday
     end
   end
 end

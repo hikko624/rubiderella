@@ -1,0 +1,24 @@
+---
+trainer:
+  name:
+    last: 青木
+    last_kana: あおき
+    first: 明
+    first_kana: めい
+  type: passion
+  age: 23
+  birthday:
+    month: 6
+    day: 10
+  sign: 双子座
+  blood: B
+  height: 160.0
+  weight: 45.0
+  bust: 84.0
+  waist: 56.0
+  hip: 85.0
+  handed: right
+  from: 栃木県
+  favorite:
+    - 早朝ランニング
+  cv: 藤村歩

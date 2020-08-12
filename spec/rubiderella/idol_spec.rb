@@ -1,6 +1,11 @@
 # frozen_string_literal: true
 
 RSpec.describe Rubiderella::Idol do
+
+  it 'extended Person Class' do
+    expect(Rubiderella::Idol.superclass).to eq Rubiderella::Person
+  end
+
   describe '#all' do
     let(:cinderella_count) { 190 }
     it '190 idols in cinderella' do
@@ -47,7 +52,7 @@ RSpec.describe Rubiderella::Idol do
       with_them do
         let(:idol_name) { input }
         it 'should return error' do
-          expect { subject }.to raise_error(Rubiderella::Idol::UnknownIdolError)
+          expect { subject }.to raise_error(Rubiderella::UnknownIdolError)
         end
       end
     end
