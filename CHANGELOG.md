@@ -5,6 +5,7 @@
 - bug fix
 - add assistant(chihiro-san) and trainer sisters
   - https://github.com/hikko624/rubiderella/pull/39
+  - https://github.com/hikko624/rubiderella/pull/40
 
 # v0.1.1
 
