@@ -116,7 +116,7 @@ ex: 神崎蘭子(Kanzaki Ranko)
 
 ### Call Trainer
 
-```
+```ruby
 
 >> CinderellaGirls.trainer.all
 => [#<Rubiderella::Trainer:0x00007f81069699c8
