@@ -1,3 +1,11 @@
+# v0.1.3
+
+[Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.2...v0.1.3)
+- update idol data
+  - 辻野あかり
+  - 砂塚あきら
+  - 桐生つかさ
+
 # v0.1.2
 
 [Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.1...v0.1.2)
