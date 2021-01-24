@@ -12,16 +12,19 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
+  schedule:
+    - cron: '0 0 * * *'
 jobs:
   test:
     strategy:
       fail-fast: false
       matrix:
         os: [ubuntu, macos]
-        ruby: [2.4, 2.5, 2.6, 2.7]
+        ruby: ['2.4', '2.5', '2.6', '2.7', '3.0']
     runs-on: ${{ matrix.os }}-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Set up Ruby
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: ${{ matrix.ruby }}
