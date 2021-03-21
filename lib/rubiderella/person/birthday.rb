@@ -11,7 +11,7 @@ module Rubiderella
       end
 
       def date
-        @month.to_s + '月' + @day.to_s + '日'
+        "#{@month}月#{@day}日"
       end
     end
   end

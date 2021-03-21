@@ -2,6 +2,8 @@
 
 module Rubiderella
   class UnknownIdolError < StandardError; end
+
   class UnknownTrainerError < StandardError; end
+
   class UnknownAssistantError < StandardError; end
 end

@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 RSpec.describe Rubiderella::Idol do
-
   it 'extended Person Class' do
     expect(Rubiderella::Idol.superclass).to eq Rubiderella::Person
   end

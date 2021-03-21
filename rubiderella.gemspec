@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative 'lib/rubiderella/version'
 
 Gem::Specification.new do |spec|
@@ -24,13 +26,23 @@ Gem::Specification.new do |spec|
   spec.bindir        = 'exe'
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ['lib']
-  spec.add_dependency 'activesupport'
 
-  spec.add_development_dependency 'codecov'
-  spec.add_development_dependency 'pry'
-  spec.add_development_dependency 'pry-byebug'
-  spec.add_development_dependency 'rspec'
-  spec.add_development_dependency 'rspec-parameterized'
-  spec.add_development_dependency 'rubocop'
-  spec.add_development_dependency 'simplecov'
+  if Gem::Version.create(RUBY_VERSION) < Gem::Version.create('2.5.0')
+    spec.add_dependency 'activesupport', '< 6.0.0'
+  else
+    spec.add_dependency 'activesupport', '>= 6.0.0'
+  end
+
+  spec.add_dependency 'rake', '~> 13.0'
+  spec.add_dependency 'rspec', '~> 3.0'
+
+  spec.add_development_dependency 'codecov', '>= 0.5.1'
+  spec.add_development_dependency 'pry', '>= 0.10'
+  spec.add_development_dependency 'pry-byebug', '>= 3.9'
+  spec.add_development_dependency 'pry-doc', '>= 0.6'
+  spec.add_development_dependency 'rspec', '>= 3.10'
+  spec.add_development_dependency 'rspec-parameterized', '>= 0.4.2'
+  spec.add_development_dependency 'rubocop', '>= 1.11'
+  spec.add_development_dependency 'simplecov', '>= 0.21'
+  spec.add_development_dependency 'webrick', '>= 1.5.0'
 end
