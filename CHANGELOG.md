@@ -1,3 +1,9 @@
+# v0.1.4
+
+[Full Changelog(https://github.com/hikko624/rubiderella/compare/v0.1.3...v0.1.4)
+- update gem
+- support ruby 3.0
+
 # v0.1.3
 
 [Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.2...v0.1.3)
