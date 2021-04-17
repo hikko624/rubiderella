@@ -1,7 +1,10 @@
+# frozen_string_literal: true
+
 module Rubiderella
   class Person
     attr_reader :name, :type, :age, :birthday, :sign, :blood, :height, :weight, :bust, :waist, :hip, :handed, :from,
                 :favorite, :cv
+
     @config = nil
     @all = nil
 
