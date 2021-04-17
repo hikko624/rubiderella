@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = 'Idol m@ster cinderella girls starlight stage'
   spec.homepage      = 'https://github.com/hikko624/rubiderella'
   spec.license       = 'MIT'
-  spec.required_ruby_version = Gem::Requirement.new('>= 2.4.0')
+  spec.required_ruby_version = Gem::Requirement.new('>= 2.5.0')
 
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = spec.homepage
@@ -26,16 +26,9 @@ Gem::Specification.new do |spec|
   spec.bindir        = 'exe'
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ['lib']
-
-  if Gem::Version.create(RUBY_VERSION) < Gem::Version.create('2.5.0')
-    spec.add_dependency 'activesupport', '< 6.0.0'
-  else
-    spec.add_dependency 'activesupport', '>= 6.0.0'
-  end
-
+  spec.add_dependency 'activesupport', '>= 6.0.0'
   spec.add_dependency 'rake', '~> 13.0'
   spec.add_dependency 'rspec', '~> 3.0'
-
   spec.add_development_dependency 'codecov', '>= 0.5.1'
   spec.add_development_dependency 'pry', '>= 0.10'
   spec.add_development_dependency 'pry-byebug', '>= 3.9'
