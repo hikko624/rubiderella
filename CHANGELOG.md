@@ -1,3 +1,15 @@
+# v0.1.6
+[Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.5...v0.1.6)
+- update idol data
+  - 西園寺琴歌
+
+# v0.1.5
+
+[Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.4...v0.1.5)
+- update idol data
+  - 八神マキノ
+  - 浅利七海
+
 # v0.1.4
 
 [Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.3...v0.1.4)
