@@ -1,3 +1,7 @@
+# v0.1.7
+[Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.6...v0.1.7)
+- fix idol data
+
 # v0.1.6
 [Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.5...v0.1.6)
 - update idol data
