@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rubiderella (0.1.7)
+    rubiderella (0.1.8)
       activesupport (>= 6.0.0)
       rake (~> 13.0)
       rspec (~> 3.0)
