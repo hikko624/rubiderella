@@ -12,7 +12,7 @@ This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) an
 
 ## Requirements
 
-- ruby >= 3.2
+- ruby >= 3.0
 
 ## Installation
 
