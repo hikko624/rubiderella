@@ -12,13 +12,15 @@ This gem is inspired by [sue445/rubicure](https://github.com/sue445/rubicure) an
 
 ## Requirements
 
-- ruby >= 2.7
+- ruby >= 3.2
 
 ## Installation
 
     $ git clone git@github.com:hikko624/rubiderella.git
+    $ brew install watchman
     $ cd rubiderella
     $ bin/setup
+    $ bundle exec tapioca init
 
 ## Usage
 
