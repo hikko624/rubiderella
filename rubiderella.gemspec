@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = 'Idol m@ster cinderella girls starlight stage'
   spec.homepage      = 'https://github.com/hikko624/rubiderella'
   spec.license       = 'MIT'
-  spec.required_ruby_version = Gem::Requirement.new('>= 2.7.0')
+  spec.required_ruby_version = Gem::Requirement.new('>= 3.2.0')
 
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = spec.homepage
@@ -37,5 +37,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec-parameterized', '>= 0.4.2'
   spec.add_development_dependency 'rubocop', '>= 1.11'
   spec.add_development_dependency 'simplecov', '>= 0.21'
+  spec.add_development_dependency 'sorbet'
+  spec.add_development_dependency 'sorbet-runtime'
+  spec.add_development_dependency 'tapioca'
   spec.add_development_dependency 'webrick', '>= 1.5.0'
 end
