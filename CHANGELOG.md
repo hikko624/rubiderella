@@ -1,3 +1,12 @@
+# v0.1.9
+[Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.8...v0.1.9)
+- update gem
+- support ruby 3.2
+
+# v0.1.8
+[Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.7...v0.1.8)
+- unsupport 2.5 and 2.6
+
 # v0.1.7
 [Full Changelog](https://github.com/hikko624/rubiderella/compare/v0.1.6...v0.1.7)
 - fix idol data
